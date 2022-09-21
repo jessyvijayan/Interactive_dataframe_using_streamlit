@@ -13,7 +13,6 @@ df.drop(['Sl.No','Country'],axis=1,inplace=True)
 
 column = []
 column = st.sidebar.multiselect('Select required fields',('Order Date','City','Product','Segment','Ship Mode','State','Profit/Loss','Sales'))
-
 df_temp = pd.DataFrame(df,columns=column)
 if column:
    
@@ -34,19 +33,19 @@ if column:
 else:
 
     ## AgGrid
-    options_builder = GridOptionsBuilder.from_dataframe(df)
-    options_builder.configure_selection(selection_mode='multiple',use_checkbox=True)
-    grid_options = options_builder.build()
+    options_builder1 = GridOptionsBuilder.from_dataframe(df)
+    options_builder1.configure_selection(selection_mode='multiple',use_checkbox=True)
+    grid_options1 = options_builder1.build()
 
-    grid_table = AgGrid(df,height=250,gridOptions=grid_options,update_mode=GridUpdateMode.SELECTION_CHANGED)
+    grid_table1 = AgGrid(df,height=250,gridOptions=grid_options1,update_mode=GridUpdateMode.SELECTION_CHANGED)
     st.write('Selected')
-    selected_row = grid_table['selected_rows']
-    if selected_row:
-        df1 = pd.DataFrame(selected_row,columns=column)
+    selected_row1 = grid_table1['selected_rows']
+    if selected_row1:
+        df1 = pd.DataFrame(selected_row1)
     else:
-        df1 = pd.DataFrame(df,columns=column)
-        #df1.drop('_selectedRowNodeInfo',axis=1,inplace=True)
-    st.dataframe(df1)
+        df1 = pd.DataFrame(df)
+        #df1.drop(' _selectedRowNodeInfo',axis=1,inplace=True)
+    st.dataframe(df1[['City','Order Date','Product','Region','Segment','Ship Mode','State','Profit/Loss','Sales']])
 
 ## sidebar
 st.sidebar.write('Select from the below options for chart')
@@ -78,5 +77,6 @@ elif chart == 'Bar chart':
     st.bar_chart(data=df2,x=x_axis1,y=y_axis1)
 else:
     st.sidebar.error('Select chart!!')
+
 
 
