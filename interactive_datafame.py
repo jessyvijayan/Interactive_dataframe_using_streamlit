@@ -42,9 +42,9 @@ else:
     st.write('Selected')
     selected_row = grid_table['selected_rows']
     if selected_row:
-        df1 = pd.DataFrame(selected_row,columns=columns)
+        df1 = pd.DataFrame(selected_row,columns=column)
     else:
-        df1 = pd.DataFrame(df,columns=columns)
+        df1 = pd.DataFrame(df,columns=column)
         #df1.drop('_selectedRowNodeInfo',axis=1,inplace=True)
     st.dataframe(df1)
 
