@@ -14,21 +14,39 @@ df.drop(['Sl.No','Country'],axis=1,inplace=True)
 columns = []
 columns = st.sidebar.multiselect('Select required fields',('Order Date','City','Product','Segment','Ship Mode','State','Profit/Loss','Sales'))
 
+df_temp = pd.DataFrame(df,columns=column)
+if column:
+   
+    ## AgGrid
+    options_builder = GridOptionsBuilder.from_dataframe(df_temp)
+    options_builder.configure_selection(selection_mode='multiple',use_checkbox=True)
+    grid_options = options_builder.build()
 
-## AgGrid
-options_builder = GridOptionsBuilder.from_dataframe(df)
-options_builder.configure_selection(selection_mode='multiple',use_checkbox=True)
-grid_options = options_builder.build()
-
-grid_table = AgGrid(df,height=250,gridOptions=grid_options,update_mode=GridUpdateMode.SELECTION_CHANGED)
-st.write('Selected')
-selected_row = grid_table['selected_rows']
-if selected_row:
-    df1 = pd.DataFrame(selected_row,columns=columns)
+    grid_table = AgGrid(df_temp,height=250,gridOptions=grid_options,update_mode=GridUpdateMode.SELECTION_CHANGED)
+    st.write('Selected')
+    selected_row = grid_table['selected_rows']
+    if selected_row:
+        df1 = pd.DataFrame(selected_row,columns=column)
+    else:
+        df1 = pd.DataFrame(df,columns=column)
+        #df1.drop('_selectedRowNodeInfo',axis=1,inplace=True)
+    st.dataframe(df1)
 else:
-    df1 = pd.DataFrame(df,columns=columns)
-    #df1.drop('_selectedRowNodeInfo',axis=1,inplace=True)
-st.dataframe(df1)
+
+    ## AgGrid
+    options_builder = GridOptionsBuilder.from_dataframe(df)
+    options_builder.configure_selection(selection_mode='multiple',use_checkbox=True)
+    grid_options = options_builder.build()
+
+    grid_table = AgGrid(df,height=250,gridOptions=grid_options,update_mode=GridUpdateMode.SELECTION_CHANGED)
+    st.write('Selected')
+    selected_row = grid_table['selected_rows']
+    if selected_row:
+        df1 = pd.DataFrame(selected_row,columns=columns)
+    else:
+        df1 = pd.DataFrame(df,columns=columns)
+        #df1.drop('_selectedRowNodeInfo',axis=1,inplace=True)
+    st.dataframe(df1)
 
 ## sidebar
 st.sidebar.write('Select from the below options for chart')
