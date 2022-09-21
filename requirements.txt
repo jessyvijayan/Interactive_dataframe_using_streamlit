@@ -5,3 +5,4 @@ seaborn==0.12.0
 streamlit==1.12.2
 openpyxl==3.0.7
 streamlit-aggrid==0.3.3
+streamlit-authenticator==0.2.1
