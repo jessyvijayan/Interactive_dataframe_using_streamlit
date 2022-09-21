@@ -11,8 +11,8 @@ df = pd.read_csv('Retail_Case.csv',sep=',')
 df.drop(['Sl.No','Country'],axis=1,inplace=True)
 
 
-columns = []
-columns = st.sidebar.multiselect('Select required fields',('Order Date','City','Product','Segment','Ship Mode','State','Profit/Loss','Sales'))
+column = []
+column = st.sidebar.multiselect('Select required fields',('Order Date','City','Product','Segment','Ship Mode','State','Profit/Loss','Sales'))
 
 df_temp = pd.DataFrame(df,columns=column)
 if column:
