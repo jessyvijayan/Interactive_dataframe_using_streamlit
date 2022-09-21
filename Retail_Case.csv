@@ -1,0 +1,2001 @@
+﻿City,Country,Order Date,Product,Region,Segment,Ship Mode,State,Profit/Loss,Sales,Sl.No
+Korba,INDIA,01-08-2017,Foundation,North,Cosmetics,Take Away,Chattisghar,1176,32676,89
+Mumbai,INDIA,01-08-2017,lipstick,Central,Cosmetics,Take Away,Maharastra,1255,37128,90
+Gurgaon,INDIA,06-10-2018,Powder,North,Cosmetics,Take Away,Haryana,1347,2100,95
+Jaipur,INDIA,06-10-2018,Powder,North,Cosmetics,Take Away,Rajasthan,53,924,96
+Ananthpur,INDIA,06-10-2018,lipstick,South,Cosmetics,Take Away,Andra Pradesh,1420,20748,97
+Korba,INDIA,06-10-2018,Sun screen,North,Cosmetics,Take Away,Chattisghar,1469,13608,99
+Ananthpur,INDIA,10-08-2017,nail Polish,South,Cosmetics,Take Away,Andra Pradesh,1434,2604,106
+Lucknow,INDIA,01-01-2018,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,2808,56868,113
+Lucknow,INDIA,04-12-2015,Foundation,North,Cosmetics,Take Away,Uttar Pradesh,10000,271152,114
+Ananthpur,INDIA,04-12-2015,Lotion,South,Cosmetics,Home Delivery,Andra Pradesh,2581,83160,117
+Amritsar,INDIA,04-12-2015,nail Polish,North,Cosmetics,Take Away,Punjab,1171,4200,118
+Kolkata,INDIA,04-12-2015,nail Polish,North,Cosmetics,Take Away,West Bengal,1377,18480,119
+Amritsar,INDIA,09-06-2018,Lotion,North,Cosmetics,Take Away,Punjab,1027,15120,125
+Ananthpur,INDIA,24-10-2018,nail Polish,South,Cosmetics,Take Away,Andra Pradesh,1323,6300,128
+Amritsar,INDIA,24-02-2015,Serum,North,Cosmetics,Take Away,Punjab,1092,10000,131
+Korba,INDIA,01-09-2015,lipstick,North,Cosmetics,Home Delivery,Chattisghar,1264,9576,141
+Hydrabad,INDIA,16-10-2015,Make up remover,South,Cosmetics,Take Away,Telagana,1227,8000,144
+Raipur,INDIA,02-04-2017,Eye liner,North,Cosmetics,Take Away,Chattisghar,1040,2184,147
+Ananthpur,INDIA,02-04-2017,Eye liner,South,Cosmetics,Take Away,Andra Pradesh,1009,19068,150
+Raipur,INDIA,02-04-2017,Kajal,North,Cosmetics,Take Away,Chattisghar,1000,31164,151
+Raipur,INDIA,14-06-2017,lipstick,North,Cosmetics,Take Away,Chattisghar,1459,7056,155
+Raipur,INDIA,05-11-2015,lipstick,North,Cosmetics,Take Away,Chattisghar,1018,8652,160
+Lucknow,INDIA,18-03-2018,Shadow,North,Cosmetics,Take Away,Uttar Pradesh,1216,5628,162
+Surat,INDIA,28-02-2017,Mascara,North,Cosmetics,Take Away,Gujrat,1073,3612,163
+Hydrabad,INDIA,09-06-2015,Foundation,South,Cosmetics,Take Away,Telagana,1344,9492,166
+Ananthpur,INDIA,09-06-2015,nail Polish,South,Cosmetics,Take Away,Andra Pradesh,2511,72240,167
+Guwahati,INDIA,09-06-2015,Foundation,North,Cosmetics,Take Away,Assam,1248,24276,169
+Gurgaon,INDIA,09-06-2015,nail Polish,North,Cosmetics,Take Away,Haryana,1238,4704,170
+Ananthpur,INDIA,16-02-2017,Kajal,South,Cosmetics,Take Away,Andra Pradesh,1438,14028,175
+Bangalore,INDIA,30-08-2016,nail Polish,South,Cosmetics,Take Away,Karnataka,1146,22176,179
+Agra,INDIA,25-12-2018,Foundation,North,Cosmetics,Home Delivery,Madhya Pradesh,1029,2016,181
+Ludhiyana,INDIA,27-05-2017,Powder,North,Cosmetics,Take Away,Punjab,1178,15204,182
+Jaipur,INDIA,04-08-2015,Powder,North,Cosmetics,Take Away,Rajasthan,1056,16380,188
+Agra,INDIA,04-08-2015,Powder,North,Cosmetics,Take Away,Madhya Pradesh,1230,4872,190
+Hydrabad,INDIA,30-04-2017,Kajal,South,Cosmetics,Home Delivery,Telagana,1447,45000,198
+Surat,INDIA,05-11-2017,Lotion,North,Cosmetics,Take Away,Gujrat,2527,60000,199
+Gurgaon,INDIA,05-11-2017,Lotion,North,Cosmetics,Home Delivery,Haryana,24,1176,200
+Lucknow,INDIA,05-11-2017,Kajal,North,Cosmetics,Home Delivery,Uttar Pradesh,1131,17304,201
+Ludhiyana,INDIA,05-11-2017,Serum,North,Cosmetics,Home Delivery,Punjab,1094,2436,202
+Raipur,INDIA,19-02-2017,Powder,North,Cosmetics,Home Delivery,Chattisghar,2629,86184,203
+Jaipur,INDIA,19-02-2017,Foundation,North,Cosmetics,Take Away,Rajasthan,1130,2856,205
+Kolkata,INDIA,30-06-2016,Kajal,North,Cosmetics,Home Delivery,West Bengal,1015,5040,209
+Noida,INDIA,11-08-2016,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,3151,56616,213
+Ranchi,INDIA,11-08-2016,lipstick,North,Cosmetics,Take Away,Jharkhand,1195,2856,214
+Ananthpur,INDIA,19-12-2018,Powder,South,Cosmetics,Take Away,Andra Pradesh,1283,3108,216
+Bubneshwar,INDIA,19-05-2016,Kajal,Central,Cosmetics,Take Away,Orissa,1026,15788,217
+Ludhiyana,INDIA,23-02-2018,lipstick,North,Cosmetics,Take Away,Punjab,1207,9492,219
+Bangalore,INDIA,18-06-2018,Kajal,South,Cosmetics,Home Delivery,Karnataka,1470,48048,220
+Guwahati,INDIA,18-06-2018,Kajal,North,Cosmetics,Take Away,Assam,75,588,221
+Bangalore,INDIA,18-06-2018,lipstick,South,Cosmetics,Take Away,Karnataka,82,1932,223
+Ludhiyana,INDIA,18-06-2018,Lotion,North,Cosmetics,Home Delivery,Punjab,1420,10248,224
+Guwahati,INDIA,18-06-2018,lipstick,North,Cosmetics,Take Away,Assam,1408,18648,226
+Chennai,INDIA,21-04-2018,Make up remover,South,Cosmetics,Take Away,Tamil Nadu,3034,93828,234
+Jaipur,INDIA,21-04-2018,Powder,North,Cosmetics,Take Away,Rajasthan,1187,2436,235
+Bangalore,INDIA,28-06-2017,nail Polish,South,Cosmetics,Take Away,Karnataka,1032,16548,237
+Chennai,INDIA,18-02-2015,nail Polish,South,Cosmetics,Take Away,Tamil Nadu,1326,5208,243
+Jaipur,INDIA,12-11-2018,Sun screen,North,Cosmetics,Take Away,Rajasthan,1230,11676,249
+Ananthpur,INDIA,12-11-2018,Powder,South,Cosmetics,Take Away,Andra Pradesh,1138,7392,250
+Chennai,INDIA,12-11-2018,Sun screen,South,Cosmetics,Home Delivery,Tamil Nadu,1062,20664,252
+Gurgaon,INDIA,12-11-2018,lipstick,North,Cosmetics,Home Delivery,Haryana,1373,13608,253
+Bubneshwar,INDIA,31-08-2017,Cold cream,Central,Cosmetics,Take Away,Orissa,1006,20916,260
+Bubneshwar,INDIA,31-08-2017,Powder,Central,Cosmetics,Take Away,Orissa,1327,10164,262
+Bangalore,INDIA,10-08-2015,Powder,South,Cosmetics,Take Away,Karnataka,1422,16296,271
+Gurgaon,INDIA,17-01-2018,nail Polish,North,Cosmetics,Take Away,Haryana,1068,2016,280
+Noida,INDIA,17-01-2018,Lotion,North,Cosmetics,Take Away,Uttar Pradesh,3099,53508,281
+Agra,INDIA,03-12-2018,lipstick,North,Cosmetics,Home Delivery,Madhya Pradesh,1403,19236,283
+Jaipur,INDIA,03-12-2018,Kajal,North,Cosmetics,Take Away,Rajasthan,1328,31164,287
+Bubneshwar,INDIA,17-08-2015,lipstick,Central,Cosmetics,Take Away,Orissa,1471,17220,373
+Hydrabad,INDIA,17-08-2015,Kajal,South,Cosmetics,Take Away,Telagana,1129,4032,374
+Pune,INDIA,17-08-2015,Sun screen,Central,Cosmetics,Take Away,Maharastra,93,1008,375
+Ahmedabad,INDIA,17-08-2015,Mascara,North,Cosmetics,Take Away,Gujrat,10000,274693,376
+Hydrabad,INDIA,17-08-2015,Sun screen,South,Cosmetics,Take Away,Telagana,1181,22512,377
+Noida,INDIA,18-04-2018,Mascara,North,Cosmetics,Take Away,Uttar Pradesh,1234,7980,378
+Noida,INDIA,18-04-2018,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,1105,10752,379
+Udaipur,INDIA,29-09-2016,nail Polish,North,Cosmetics,Take Away,Rajasthan,1368,31836,380
+Ananthpur,INDIA,05-10-2016,Shadow,South,Cosmetics,Take Away,Andra Pradesh,1191,27888,381
+Bubneshwar,INDIA,05-10-2016,Blush,Central,Cosmetics,Take Away,Orissa,1231,11424,382
+Udaipur,INDIA,16-08-2018,nail Polish,North,Cosmetics,Take Away,Rajasthan,1463,9576,383
+Udaipur,INDIA,09-05-2018,Eye liner,North,Cosmetics,Take Away,Rajasthan,1134,4956,384
+Asansol,INDIA,09-05-2018,Kajal,North,Cosmetics,Home Delivery,West Bengal,1043,5796,385
+Hydrabad,INDIA,26-08-2018,lipstick,South,Cosmetics,Take Away,Telagana,1232,2520,386
+Bangalore,INDIA,30-10-2018,lipstick,South,Cosmetics,Take Away,Karnataka,1359,23520,387
+Ahmedabad,INDIA,30-10-2018,Sun screen,North,Cosmetics,Take Away,Gujrat,1329,3948,388
+Jamshedpur,INDIA,30-10-2018,Kajal,North,Cosmetics,Take Away,Jharkhand,1355,36540,389
+Bangalore,INDIA,30-10-2018,Mascara,South,Cosmetics,Home Delivery,Karnataka,1321,44352,390
+Chennai,INDIA,30-10-2018,Eye liner,South,Cosmetics,Take Away,Tamil Nadu,1153,7980,391
+Jamshedpur,INDIA,30-10-2018,Lotion,North,Cosmetics,Home Delivery,Jharkhand,1110,2520,392
+Agra,INDIA,30-10-2018,Powder,North,Cosmetics,Take Away,Madhya Pradesh,1052,12348,393
+Agra,INDIA,23-12-2018,Eye liner,North,Cosmetics,Home Delivery,Madhya Pradesh,1397,40236,394
+Ludhiyana,INDIA,11-09-2016,Mascara,North,Cosmetics,Take Away,Punjab,1197,5880,395
+Bubneshwar,INDIA,11-09-2016,Kajal,Central,Cosmetics,Take Away,Orissa,1090,2940,396
+Asansol,INDIA,11-09-2016,Foundation,North,Cosmetics,Take Away,West Bengal,1300,4368,397
+Ananthpur,INDIA,06-02-2017,Foundation,South,Cosmetics,Take Away,Andra Pradesh,1492,3780,398
+Asansol,INDIA,02-04-2017,lipstick,North,Cosmetics,Home Delivery,West Bengal,1405,8988,399
+Ananthpur,INDIA,16-12-2018,Powder,South,Cosmetics,Home Delivery,Andra Pradesh,1376,4536,400
+Agra,INDIA,19-10-2015,nail Polish,North,Cosmetics,Take Away,Madhya Pradesh,4984,112056,401
+Pune,INDIA,02-12-2016,Blush,Central,Cosmetics,Home Delivery,Maharastra,738,3612,785
+Agra,INDIA,02-12-2016,Kajal,North,Cosmetics,Take Away,Madhya Pradesh,11890,54684,786
+Mangalore,INDIA,12-06-2016,lipstick,South,Cosmetics,Take Away,Karnataka,820,2016,788
+Mangalore,INDIA,04-09-2017,Cold cream,South,Cosmetics,Home Delivery,Karnataka,164,2604,789
+Bubneshwar,INDIA,30-12-2018,Make up remover,Central,Cosmetics,Home Delivery,Orissa,8118,31164,794
+Jamshedpur,INDIA,30-08-2017,lipstick,North,Cosmetics,Take Away,Jharkhand,1394,3528,807
+Udaipur,INDIA,30-11-2016,nail Polish,North,Cosmetics,Take Away,Rajasthan,7790,26544,810
+Noida,INDIA,30-04-2015,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,656,3108,815
+Jamshedpur,INDIA,22-12-2018,Foundation,North,Cosmetics,Take Away,Jharkhand,22058,94164,817
+Mangalore,INDIA,22-12-2018,lipstick,South,Cosmetics,Take Away,Karnataka,9758,55524,819
+Noida,INDIA,13-03-2015,Powder,North,Cosmetics,Take Away,Uttar Pradesh,7462,16380,824
+Ludhiyana,INDIA,13-08-2017,Blush,North,Cosmetics,Take Away,Punjab,1230,20580,829
+Ludhiyana,INDIA,21-11-2018,Blush,North,Cosmetics,Take Away,Punjab,82,11172,831
+Mangalore,INDIA,25-09-2018,Lotion,South,Cosmetics,Take Away,Karnataka,1312,4620,835
+Noida,INDIA,29-11-2015,nail Polish,North,Cosmetics,Take Away,Uttar Pradesh,82,6720,840
+Coimbatore,INDIA,07-08-2016,Powder,South,Cosmetics,Take Away,Tamil Nadu,328,4116,845
+Asansol,INDIA,26-10-2016,Foundation,North,Cosmetics,Take Away,West Bengal,7134,18816,849
+Coimbatore,INDIA,28-05-2017,Powder,South,Cosmetics,Take Away,Tamil Nadu,6150,19236,852
+Agra,INDIA,18-12-2017,wax,North,Cosmetics,Take Away,Madhya Pradesh,3116,9240,854
+Surat,INDIA,18-12-2017,lipstick,North,Cosmetics,Take Away,Gujrat,0,9408,856
+Agra,INDIA,18-12-2017,nail Polish,North,Cosmetics,Take Away,Madhya Pradesh,4428,11088,857
+Tirupati,INDIA,29-08-2018,nail Polish,South,Cosmetics,Home Delivery,Andra Pradesh,4592,17388,860
+Jamshedpur,INDIA,01-08-2015,nail Polish,North,Cosmetics,Home Delivery,Jharkhand,1230,7140,865
+Asansol,INDIA,07-11-2017,lipstick,North,Cosmetics,Take Away,West Bengal,2214,20748,867
+Ludhiyana,INDIA,19-06-2016,Kajal,North,Cosmetics,Home Delivery,Punjab,1558,4452,870
+Asansol,INDIA,31-08-2016,lipstick,North,Cosmetics,Take Away,West Bengal,9102,159096,875
+Udaipur,INDIA,27-06-2018,Serum,North,Cosmetics,Home Delivery,Rajasthan,902,1428,877
+Tirupati,INDIA,22-05-2016,nail Polish,South,Cosmetics,Take Away,Andra Pradesh,1230,3948,880
+Bubneshwar,INDIA,04-10-2015,nail Polish,Central,Cosmetics,Take Away,Orissa,11152,24360,885
+Coimbatore,INDIA,04-10-2015,Blush,South,Cosmetics,Home Delivery,Tamil Nadu,8364,20328,887
+Noida,INDIA,30-10-2017,nail Polish,North,Cosmetics,Take Away,Uttar Pradesh,902,3444,890
+Ahmedabad,INDIA,24-08-2016,eye lash,North,Cosmetics,Take Away,Gujrat,0,756,895
+Rewari,INDIA,24-08-2016,Powder,North,Cosmetics,Take Away,Haryana,18778,19656,897
+Coimbatore,INDIA,23-08-2017,Cold cream,South,Cosmetics,Take Away,Tamil Nadu,2296,8820,898
+Bubneshwar,INDIA,11-09-2018,Foundation,Central,Cosmetics,Take Away,Orissa,5084,8148,903
+Ludhiyana,INDIA,30-06-2018,Sun screen,North,Cosmetics,Take Away,Punjab,13530,65604,907
+Noida,INDIA,30-06-2018,Kajal,North,Cosmetics,Home Delivery,Uttar Pradesh,2542,6384,910
+Ahmedabad,INDIA,14-04-2016,Foundation,North,Cosmetics,Take Away,Gujrat,11070,64176,913
+Coimbatore,INDIA,13-03-2017,Kajal,South,Cosmetics,Take Away,Tamil Nadu,246,10584,917
+Mangalore,INDIA,28-05-2015,Sun screen,South,Cosmetics,Home Delivery,Karnataka,2050,27216,929
+Ahmedabad,INDIA,04-06-2017,Eye liner,North,Cosmetics,Take Away,Gujrat,1066,9072,932
+Pune,INDIA,29-05-2018,Eye liner,Central,Cosmetics,Take Away,Maharastra,3362,9576,937
+Tirupati,INDIA,29-05-2018,Foundation,South,Cosmetics,Take Away,Andra Pradesh,3936,13860,939
+Ahmedabad,INDIA,30-11-2016,Kajal,North,Cosmetics,Take Away,Gujrat,6478,16548,941
+Jamshedpur,INDIA,03-03-2016,Mascara,North,Cosmetics,Take Away,Jharkhand,23534,37632,944
+Jamshedpur,INDIA,09-08-2015,lipstick,North,Cosmetics,Take Away,Jharkhand,5740,20916,949
+Ahmedabad,INDIA,02-02-2015,Lotion,North,Cosmetics,Take Away,Gujrat,1886,22344,954
+Asansol,INDIA,02-02-2015,lipstick,North,Cosmetics,Take Away,West Bengal,82,4788,956
+Pune,INDIA,21-11-2016,nail Polish,Central,Cosmetics,Take Away,Maharastra,2788,6720,958
+Rewari,INDIA,14-07-2018,Foundation,North,Cosmetics,Take Away,Haryana,656,2688,963
+Vizak,INDIA,22-05-2018,lipstick,South,Cosmetics,Home Delivery,Telagana,13038,74928,968
+Ludhiyana,INDIA,13-10-2018,Kajal,North,Cosmetics,Take Away,Punjab,9348,135744,970
+Rewari,INDIA,22-05-2017,Kajal,North,Cosmetics,Take Away,Haryana,1230,17808,974
+Agra,INDIA,12-09-2018,Foundation,North,Cosmetics,Take Away,Madhya Pradesh,1312,5040,979
+Vizak,INDIA,24-01-2018,Mascara,South,Cosmetics,Take Away,Telagana,4510,29064,984
+Jamshedpur,INDIA,17-11-2018,Kajal,North,Cosmetics,Home Delivery,Jharkhand,3772,6048,988
+Ludhiyana,INDIA,19-09-2018,lipstick,North,Cosmetics,Home Delivery,Punjab,4838,31248,991
+Bubneshwar,INDIA,10-11-2018,Lotion,Central,Cosmetics,Take Away,Orissa,2706,16212,994
+Tirupati,INDIA,17-02-2018,lipstick,South,Cosmetics,Take Away,Andra Pradesh,0,3780,998
+Korba,INDIA,01-08-2017,lipstick,North,Cosmetics,Take Away,Bihar,4756,32676,1089
+Mumbai,INDIA,01-08-2017,nail Polish,Central,Cosmetics,Take Away,Maharastra,2542,37128,1090
+Gurgaon,INDIA,06-10-2018,Kajal,North,Cosmetics,Take Away,Haryana,984,2100,1095
+Jaipur,INDIA,06-10-2018,nail Polish,North,Cosmetics,Home Delivery,Rajasthan,328,924,1096
+Ananthpur,INDIA,06-10-2018,lipstick,North,Cosmetics,Take Away,Delhi,2870,20748,1097
+Korba,INDIA,06-10-2018,Powder,North,Cosmetics,Take Away,Bihar,1886,13608,1099
+Ananthpur,INDIA,10-08-2017,Foundation,North,Cosmetics,Take Away,Delhi,2378,2604,1106
+Lucknow,INDIA,01-01-2018,Foundation,North,Cosmetics,Take Away,Uttar Pradesh,9184,56868,1113
+Lucknow,INDIA,04-12-2015,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,,271152,1114
+Ananthpur,INDIA,04-12-2015,Shadow,North,Cosmetics,Take Away,Delhi,19844,83160,1117
+Amritsar,INDIA,04-12-2015,Foundation,North,Cosmetics,Take Away,Punjab,1558,4200,1118
+Kolkata,INDIA,04-12-2015,Kajal,North,Cosmetics,Take Away,West Bengal,7380,18480,1119
+Amritsar,INDIA,09-06-2018,Powder,North,Cosmetics,Home Delivery,Punjab,4428,15120,1125
+Ananthpur,INDIA,24-10-2018,Foundation,North,Cosmetics,Take Away,Delhi,3608,6300,1128
+Amritsar,INDIA,24-02-2015,Kajal,North,Cosmetics,Take Away,Punjab,2536,10000,1131
+Korba,INDIA,01-09-2015,nail Polish,North,Cosmetics,Take Away,Nagaland,3362,9576,1141
+Hydrabad,INDIA,16-10-2015,Kajal,South,Cosmetics,Take Away,Telagana,246,8000,1144
+Bilaspur,INDIA,02-04-2017,Powder,North,Cosmetics,Take Away,Nagaland,656,2184,1147
+Ananthpur,INDIA,02-04-2017,lipstick,North,Cosmetics,Home Delivery,Delhi,7790,19068,1150
+Bilaspur,INDIA,02-04-2017,Sun screen,North,Cosmetics,Take Away,Nagaland,3362,31164,1151
+Bilaspur,INDIA,14-06-2017,eye lash,North,Cosmetics,Home Delivery,Nagaland,2296,7056,1155
+Bilaspur,INDIA,05-11-2015,Foundation,North,Cosmetics,Take Away,Nagaland,3280,8652,1160
+Lucknow,INDIA,18-03-2018,Sun screen,North,Cosmetics,Take Away,Uttar Pradesh,5494,5628,1162
+Surat,INDIA,28-02-2017,Shadow,North,Cosmetics,Take Away,Nagaland,902,3612,1163
+Hydrabad,INDIA,09-06-2015,lipstick,South,Cosmetics,Take Away,Telagana,1066,9492,1166
+Ananthpur,INDIA,09-06-2015,Mascara,North,Cosmetics,Take Away,Daman And Diu,0,72240,1167
+Guwahati,INDIA,09-06-2015,nail Polish,North,Cosmetics,Home Delivery,Assam,3936,24276,1169
+Gurgaon,INDIA,09-06-2015,lipstick,North,Cosmetics,Take Away,Haryana,1804,4704,1170
+Ananthpur,INDIA,16-02-2017,Lotion,North,Cosmetics,Take Away,Daman And Diu,4510,14028,1175
+Bangalore,INDIA,30-08-2016,Make up remover,South,Cosmetics,Take Away,Karnataka,1476,22176,1179
+Agra,INDIA,25-12-2018,nail Polish,North,Cosmetics,Take Away,Madhya Pradesh,1722,2016,1181
+Ludhiyana,INDIA,27-05-2017,nail Polish,North,Cosmetics,Take Away,Punjab,2378,15204,1182
+Jaipur,INDIA,04-08-2015,Kajal,North,Cosmetics,Take Away,Rajasthan,5412,16380,1188
+Agra,INDIA,04-08-2015,Lotion,North,Cosmetics,Take Away,Madhya Pradesh,1804,4872,1190
+Hydrabad,INDIA,30-04-2017,nail Polish,South,Cosmetics,Take Away,Telagana,1000,45000,1198
+Surat,INDIA,05-11-2017,Powder,North,Cosmetics,Take Away,Mizoram,820,60000,1199
+Gurgaon,INDIA,05-11-2017,lipstick,North,Cosmetics,Take Away,Haryana,246,1176,1200
+Lucknow,INDIA,05-11-2017,Lotion,North,Cosmetics,Take Away,Uttar Pradesh,2214,17304,1201
+Ludhiyana,INDIA,05-11-2017,Blush,North,Cosmetics,Home Delivery,Punjab,82,2436,1202
+Bilaspur,INDIA,19-02-2017,Kajal,North,Cosmetics,Take Away,Mizoram,39524,86184,1203
+Jaipur,INDIA,19-02-2017,lipstick,North,Cosmetics,Take Away,Rajasthan,738,2856,1205
+Kolkata,INDIA,30-06-2016,Eye liner,North,Cosmetics,Take Away,West Bengal,2378,5040,1209
+Noida,INDIA,11-08-2016,Kajal,North,Cosmetics,Take Away,Uttar Pradesh,24846,56616,1213
+Ranchi,INDIA,11-08-2016,Foundation,North,Cosmetics,Take Away,Jharkhand,1312,2856,1214
+Ananthpur,INDIA,19-12-2018,Serum,North,Cosmetics,Take Away,Daman And Diu,1148,3108,1216
+Bubneshwar,INDIA,19-05-2016,lipstick,Central,Cosmetics,Take Away,Orissa,6314,15788,1217
+Ludhiyana,INDIA,23-02-2018,Kajal,North,Cosmetics,Take Away,Punjab,902,9492,1219
+Bangalore,INDIA,18-06-2018,Kajal,South,Cosmetics,Take Away,Karnataka,10414,48048,1220
+Guwahati,INDIA,18-06-2018,nail Polish,North,Cosmetics,Take Away,Assam,164,588,1221
+Bangalore,INDIA,18-06-2018,Sun screen,South,Cosmetics,Take Away,Karnataka,492,1932,1223
+Ludhiyana,INDIA,18-06-2018,Lotion,North,Cosmetics,Take Away,Punjab,3280,10248,1224
+Guwahati,INDIA,18-06-2018,lipstick,North,Cosmetics,Take Away,Assam,3608,18648,1226
+Chennai,INDIA,21-04-2018,Powder,South,Cosmetics,Take Away,Tamil Nadu,36654,93828,1234
+Jaipur,INDIA,21-04-2018,lipstick,North,Cosmetics,Take Away,Rajasthan,0,2436,1235
+Bangalore,INDIA,28-06-2017,lipstick,South,Cosmetics,Take Away,Karnataka,9676,16548,1237
+Chennai,INDIA,18-02-2015,Eye liner,South,Cosmetics,Take Away,Tamil Nadu,1886,5208,1243
+Jaipur,INDIA,12-11-2018,Kajal,North,Cosmetics,Take Away,Rajasthan,1722,11676,1249
+Ananthpur,INDIA,12-11-2018,Sun screen,South,Cosmetics,Take Away,Kerela,1558,7392,1250
+Chennai,INDIA,12-11-2018,Foundation,South,Cosmetics,Take Away,Tamil Nadu,8036,20664,1252
+Gurgaon,INDIA,12-11-2018,Foundation,North,Cosmetics,Take Away,Haryana,4510,13608,1253
+Bubneshwar,INDIA,31-08-2017,Sun screen,Central,Cosmetics,Take Away,Orissa,2296,20916,1260
+Bubneshwar,INDIA,31-08-2017,lipstick,Central,Cosmetics,Take Away,Orissa,492,10164,1262
+Bangalore,INDIA,10-08-2015,wax,South,Cosmetics,Take Away,Karnataka,6888,16296,1271
+Gurgaon,INDIA,17-01-2018,lipstick,North,Cosmetics,Take Away,Haryana,902,2016,1280
+Noida,INDIA,17-01-2018,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,4100,53508,1281
+Agra,INDIA,03-12-2018,Kajal,North,Cosmetics,Take Away,Madhya Pradesh,2214,19236,1283
+Jaipur,INDIA,03-12-2018,Powder,North,Cosmetics,Take Away,Rajasthan,10168,31164,1287
+Bubneshwar,INDIA,17-08-2015,nail Polish,Central,Cosmetics,Take Away,Orissa,3198,17220,1373
+Hydrabad,INDIA,17-08-2015,Powder,South,Cosmetics,Take Away,Telagana,492,4032,1374
+Pune,INDIA,17-08-2015,eye lash,Central,Cosmetics,Home Delivery,Maharastra,328,1008,1375
+Ahmedabad,INDIA,17-08-2015,Kajal,North,Cosmetics,Take Away,Mizoram,,374052,1376
+Hydrabad,INDIA,17-08-2015,Lotion,South,Cosmetics,Home Delivery,Telagana,1968,22512,1377
+Noida,INDIA,18-04-2018,Blush,North,Cosmetics,Home Delivery,Uttar Pradesh,902,7980,1378
+Noida,INDIA,18-04-2018,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,328,10752,1379
+Udaipur,INDIA,29-09-2016,Cold cream,North,Cosmetics,Take Away,Rajasthan,5166,31836,1380
+Ananthpur,INDIA,05-10-2016,Cold cream,South,Cosmetics,Take Away,Kerela,1804,27888,1381
+Bubneshwar,INDIA,05-10-2016,Kajal,Central,Cosmetics,Home Delivery,Orissa,4264,11424,1382
+Udaipur,INDIA,16-08-2018,Powder,North,Cosmetics,Home Delivery,Rajasthan,3198,9576,1383
+Udaipur,INDIA,09-05-2018,lipstick,North,Cosmetics,Take Away,Rajasthan,3772,4956,1384
+Asansol,INDIA,09-05-2018,Mascara,North,Cosmetics,Take Away,West Bengal,5494,5796,1385
+Hydrabad,INDIA,26-08-2018,Kajal,South,Cosmetics,Take Away,Telagana,2870,2520,1386
+Bangalore,INDIA,30-10-2018,Eye liner,South,Cosmetics,Take Away,Karnataka,7626,23520,1387
+Ahmedabad,INDIA,30-10-2018,nail Polish,North,Cosmetics,Home Delivery,Mizoram,1230,3948,1388
+Jamshedpur,INDIA,30-10-2018,lipstick,North,Cosmetics,Home Delivery,Jharkhand,3280,36540,1389
+Bangalore,INDIA,30-10-2018,Make up remover,South,Cosmetics,Take Away,Karnataka,11726,44352,1390
+Chennai,INDIA,30-10-2018,Kajal,South,Cosmetics,Home Delivery,Tamil Nadu,2050,7980,1391
+Jamshedpur,INDIA,30-10-2018,Kajal,North,Cosmetics,Take Away,Jharkhand,82,2520,1392
+Agra,INDIA,30-10-2018,Eye liner,North,Cosmetics,Home Delivery,Madhya Pradesh,738,12348,1393
+Agra,INDIA,23-12-2018,nail Polish,North,Cosmetics,Home Delivery,Madhya Pradesh,8200,40236,1394
+Ludhiyana,INDIA,11-09-2016,Kajal,North,Cosmetics,Home Delivery,Punjab,2378,5880,1395
+Bubneshwar,INDIA,11-09-2016,Lotion,Central,Cosmetics,Home Delivery,Orissa,1476,2940,1396
+Asansol,INDIA,11-09-2016,Eye liner,North,Cosmetics,Take Away,West Bengal,902,4368,1397
+Ananthpur,INDIA,06-02-2017,lipstick,South,Cosmetics,Take Away,Kerela,656,3780,1398
+Asansol,INDIA,02-04-2017,Blush,North,Cosmetics,Home Delivery,West Bengal,738,8988,1399
+Ananthpur,INDIA,16-12-2018,Powder,South,Cosmetics,Take Away,Kerela,82,4536,1400
+Agra,INDIA,19-10-2015,Powder,North,Cosmetics,Take Away,Madhya Pradesh,16400,112056,1401
+Pune,INDIA,02-12-2016,Serum,Central,Cosmetics,Take Away,Maharastra,738,3612,1785
+Agra,INDIA,02-12-2016,Serum,North,Cosmetics,Take Away,Madhya Pradesh,11890,54684,1786
+Mangalore,INDIA,12-06-2016,Kajal,South,Cosmetics,Take Away,Karnataka,820,2016,1788
+Mangalore,INDIA,04-09-2017,Powder,South,Cosmetics,Take Away,Karnataka,164,2604,1789
+Bubneshwar,INDIA,30-12-2018,Foundation,Central,Cosmetics,Take Away,Orissa,8118,31164,1794
+Jamshedpur,INDIA,30-08-2017,nail Polish,North,Cosmetics,Take Away,Jharkhand,1394,3528,1807
+Udaipur,INDIA,30-11-2016,Powder,North,Cosmetics,Take Away,Rajasthan,7790,26544,1810
+Noida,INDIA,30-04-2015,Powder,North,Cosmetics,Take Away,Uttar Pradesh,656,3108,1815
+Jamshedpur,INDIA,22-12-2018,nail Polish,North,Cosmetics,Take Away,Jharkhand,22058,94164,1817
+Mangalore,INDIA,22-12-2018,lipstick,South,Cosmetics,Take Away,Karnataka,9758,55524,1819
+Noida,INDIA,13-03-2015,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,7462,16380,1824
+Ludhiyana,INDIA,13-08-2017,lipstick,North,Cosmetics,Take Away,Punjab,1230,20580,1829
+Ludhiyana,INDIA,21-11-2018,Powder,North,Cosmetics,Home Delivery,Punjab,82,11172,1831
+Mangalore,INDIA,25-09-2018,nail Polish,South,Cosmetics,Take Away,Karnataka,1312,4620,1835
+Noida,INDIA,29-11-2015,lipstick,North,Cosmetics,Take Away,Uttar Pradesh,82,6720,1840
+Coimbatore,INDIA,07-08-2016,lipstick,South,Cosmetics,Home Delivery,Tamil Nadu,328,4116,1845
+Asansol,INDIA,26-10-2016,lipstick,North,Cosmetics,Take Away,West Bengal,7134,18816,1849
+Coimbatore,INDIA,28-05-2017,Foundation,South,Cosmetics,Take Away,Tamil Nadu,6150,19236,1852
+Agra,INDIA,18-12-2017,Powder,North,Cosmetics,Take Away,Madhya Pradesh,3116,9240,1854
+Surat,INDIA,18-12-2017,Kajal,North,Cosmetics,Take Away,Mizoram,0,9408,1856
+Agra,INDIA,18-12-2017,Eye liner,North,Cosmetics,Take Away,Madhya Pradesh,4428,11088,1857
+Tirupati,INDIA,29-08-2018,Lotion,North,Cosmetics,Take Away,Arunachal Pradesh,4592,17388,1860
+Jamshedpur,INDIA,01-08-2015,wax,North,Cosmetics,Home Delivery,Jharkhand,1230,7140,1865
+Asansol,INDIA,07-11-2017,Shadow,North,Cosmetics,Take Away,West Bengal,2214,20748,1867
+Ludhiyana,INDIA,19-06-2016,lipstick,North,Cosmetics,Take Away,Punjab,1558,4452,1870
+Asansol,INDIA,31-08-2016,Make up remover,North,Cosmetics,Take Away,West Bengal,9102,159096,1875
+Udaipur,INDIA,27-06-2018,Blush,North,Cosmetics,Take Away,Rajasthan,902,1428,1877
+Tirupati,INDIA,22-05-2016,lipstick,North,Cosmetics,Home Delivery,Arunachal Pradesh,1230,3948,1880
+Bubneshwar,INDIA,04-10-2015,lipstick,Central,Cosmetics,Home Delivery,Orissa,11152,24360,1885
+Coimbatore,INDIA,04-10-2015,Kajal,South,Cosmetics,Take Away,Tamil Nadu,8364,20328,1887
+Noida,INDIA,30-10-2017,Kajal,North,Cosmetics,Take Away,Uttar Pradesh,902,3444,1890
+Ahmedabad,INDIA,24-08-2016,Powder,North,Cosmetics,Take Away,Uttrakhand,0,756,1895
+Rewari,INDIA,24-08-2016,nail Polish,North,Cosmetics,Home Delivery,Haryana,18778,19656,1897
+Coimbatore,INDIA,23-08-2017,lipstick,South,Cosmetics,Take Away,Tamil Nadu,2296,8820,1898
+Bubneshwar,INDIA,11-09-2018,lipstick,Central,Cosmetics,Take Away,Orissa,5084,8148,1903
+Ludhiyana,INDIA,30-06-2018,Sun screen,North,Cosmetics,Take Away,Punjab,13530,65604,1907
+Noida,INDIA,30-06-2018,Kajal,North,Cosmetics,Take Away,Uttar Pradesh,2542,6384,1910
+Ahmedabad,INDIA,14-04-2016,Kajal,North,Cosmetics,Take Away,Uttrakhand,11070,64176,1913
+Coimbatore,INDIA,13-03-2017,Eye liner,South,Cosmetics,Take Away,Tamil Nadu,246,10584,1917
+Mangalore,INDIA,28-05-2015,lipstick,South,Cosmetics,Take Away,Karnataka,2050,27216,1929
+Ahmedabad,INDIA,04-06-2017,Shadow,North,Cosmetics,Take Away,Uttrakhand,1066,9072,1932
+Pune,INDIA,29-05-2018,Eye liner,Central,Cosmetics,Take Away,Maharastra,3362,9576,1937
+Tirupati,INDIA,29-05-2018,Kajal,North,Cosmetics,Take Away,Arunachal Pradesh,3936,13860,1939
+Ahmedabad,INDIA,30-11-2016,nail Polish,North,Cosmetics,Take Away,Uttrakhand,6478,16548,1941
+Jamshedpur,INDIA,03-03-2016,nail Polish,North,Cosmetics,Take Away,Jharkhand,23534,37632,1944
+Jamshedpur,INDIA,09-08-2015,Kajal,North,Cosmetics,Take Away,Jharkhand,5740,20916,1949
+Ahmedabad,INDIA,02-02-2015,Blush,North,Cosmetics,Take Away,Uttrakhand,1886,22344,1954
+Asansol,INDIA,02-02-2015,Lotion,North,Cosmetics,Take Away,West Bengal,82,4788,1956
+Pune,INDIA,21-11-2016,Make up remover,Central,Cosmetics,Take Away,Maharastra,2788,6720,1958
+Rewari,INDIA,14-07-2018,Kajal,North,Cosmetics,Take Away,Haryana,656,2688,1963
+Vizak,INDIA,22-05-2018,Make up remover,South,Cosmetics,Take Away,Telagana,13038,74928,1968
+Ludhiyana,INDIA,13-10-2018,nail Polish,North,Cosmetics,Take Away,Punjab,9348,135744,1970
+Rewari,INDIA,22-05-2017,lipstick,North,Cosmetics,Take Away,Haryana,1230,17808,1974
+Agra,INDIA,12-09-2018,Foundation,North,Cosmetics,Take Away,Madhya Pradesh,1312,5040,1979
+Vizak,INDIA,24-01-2018,Kajal,South,Cosmetics,Take Away,Telagana,4510,29064,1984
+Jamshedpur,INDIA,17-11-2018,Foundation,North,Cosmetics,Take Away,Jharkhand,3772,6048,1988
+Ludhiyana,INDIA,19-09-2018,Powder,North,Cosmetics,Take Away,Punjab,4838,31248,1991
+Bubneshwar,INDIA,10-11-2018,Sun screen,Central,Cosmetics,Take Away,Orissa,2706,16212,1994
+Tirupati,INDIA,17-02-2018,Cold cream,North,Cosmetics,Home Delivery,Arunachal Pradesh,0,3780,1998
+Raipur,INDIA,16-02-2017,Fan,North,Electronics,Take Away,Chattisghar,1086,4032,176
+Mumbai,INDIA,06-06-2016,Tv,Central,Electronics,Home Delivery,Maharastra,1169,3024,180
+Surat,INDIA,27-05-2017,Refigerator,North,Electronics,Home Delivery,Gujrat,3187,55362,183
+Surat,INDIA,23-06-2018,Phone,North,Electronics,Take Away,Gujrat,1384,2772,186
+Gurgaon,INDIA,04-08-2015,Cooler,North,Electronics,Take Away,Haryana,1448,4032,187
+Jaipur,INDIA,10-05-2016,Refigerator,North,Electronics,Take Away,Rajasthan,89,924,191
+Raipur,INDIA,16-12-2018,Wasing Machine,North,Electronics,Take Away,Chattisghar,1460,3024,196
+Bangalore,INDIA,18-11-2016,Wasing Machine,South,Electronics,Home Delivery,Karnataka,1027,3612,197
+Noida,INDIA,19-02-2017,Lights,North,Electronics,Take Away,Uttar Pradesh,1496,34356,204
+Ananthpur,INDIA,19-02-2017,Tv,South,Electronics,Take Away,Andra Pradesh,10000,241920,207
+Gurgaon,INDIA,30-06-2016,Lights,North,Electronics,Home Delivery,Haryana,1034,37464,210
+Chennai,INDIA,11-08-2016,Cooler,South,Electronics,Take Away,Tamil Nadu,1052,8064,212
+Jaipur,INDIA,19-05-2016,Phone,North,Electronics,Take Away,Rajasthan,1125,9240,218
+Noida,INDIA,11-08-2018,Wasing Machine,North,Electronics,Take Away,Uttar Pradesh,1103,9912,227
+Hydrabad,INDIA,11-08-2018,Phone,South,Electronics,Take Away,Telagana,4737,107500,228
+Guwahati,INDIA,24-06-2018,Phone,North,Electronics,Take Away,Assam,1067,11256,231
+Ananthpur,INDIA,29-12-2018,Wasing Machine,South,Electronics,Take Away,Andra Pradesh,1427,12432,232
+Jaipur,INDIA,21-04-2018,Ac,North,Electronics,Take Away,Rajasthan,1260,5544,233
+Gurgaon,INDIA,10-05-2017,Phone,North,Electronics,Take Away,Haryana,1201,13356,236
+Guwahati,INDIA,31-01-2016,Wasing Machine,North,Electronics,Take Away,Assam,1011,2940,239
+Bangalore,INDIA,31-01-2016,Tv,South,Electronics,Take Away,Karnataka,1468,18312,241
+Ludhiyana,INDIA,17-03-2018,Phone,North,Electronics,Take Away,Punjab,1309,13944,242
+Ludhiyana,INDIA,18-06-2018,Cooler,North,Electronics,Home Delivery,Punjab,3164,90000,247
+Mumbai,INDIA,18-06-2018,Lights,Central,Electronics,Take Away,Maharastra,1140,10920,248
+Kolkata,INDIA,12-11-2018,Fan,North,Electronics,Home Delivery,West Bengal,1037,10080,251
+Surat,INDIA,31-08-2017,Wasing Machine,North,Electronics,Home Delivery,Gujrat,1415,16212,256
+Guwahati,INDIA,31-08-2017,Wasing Machine,North,Electronics,Home Delivery,Assam,1260,2856,261
+Noida,INDIA,31-08-2017,Tv,North,Electronics,Take Away,Uttar Pradesh,1005,9996,263
+Guwahati,INDIA,21-12-2016,Cooler,North,Electronics,Take Away,Assam,4562,104076,264
+Gurgaon,INDIA,21-12-2016,Refigerator,North,Electronics,Take Away,Haryana,1431,2856,265
+Ranchi,INDIA,22-03-2017,Tv,North,Electronics,Take Away,Jharkhand,1018,23436,266
+Guwahati,INDIA,02-08-2018,Tv,North,Electronics,Home Delivery,Assam,3159,51240,268
+Ananthpur,INDIA,13-05-2015,Lights,South,Electronics,Take Away,Andra Pradesh,3045,90216,269
+Noida,INDIA,25-12-2016,Cooler,North,Electronics,Home Delivery,Uttar Pradesh,1365,2856,273
+Pune,INDIA,25-12-2016,Refigerator,Central,Electronics,Home Delivery,Maharastra,1080,3444,274
+Gurgaon,INDIA,07-04-2018,Phone,North,Electronics,Take Away,Haryana,4622,105000,275
+Kolkata,INDIA,07-04-2018,Cooler,North,Electronics,Take Away,West Bengal,1293,13524,276
+Guwahati,INDIA,31-08-2015,Lights,North,Electronics,Home Delivery,Assam,41,840,277
+Ludhiyana,INDIA,03-12-2018,Phone,North,Electronics,Take Away,Punjab,12,1428,285
+Jaipur,INDIA,08-04-2017,Fan,North,Electronics,Home Delivery,Rajasthan,1217,12348,288
+Udaipur,INDIA,05-08-2017,Lights,North,Electronics,Home Delivery,Rajasthan,1083,18480,304
+Hydrabad,INDIA,05-08-2017,Wasing Machine,South,Electronics,Take Away,Telagana,78,1764,305
+Pune,INDIA,02-12-2017,Phone,Central,Electronics,Home Delivery,Maharastra,1397,17136,306
+Gurgaon,INDIA,02-12-2017,Tv,North,Electronics,Take Away,Haryana,1234,2436,307
+Bubneshwar,INDIA,04-12-2018,Fan,Central,Electronics,Take Away,Orissa,1074,37800,308
+Ahmedabad,INDIA,20-09-2015,Cooler,North,Electronics,Take Away,Gujrat,1332,2856,309
+Pune,INDIA,20-09-2015,Refigerator,Central,Electronics,Take Away,Maharastra,1461,26124,310
+Pune,INDIA,25-09-2016,Cooler,Central,Electronics,Take Away,Maharastra,1305,3360,311
+Bangalore,INDIA,25-09-2016,Refigerator,South,Electronics,Home Delivery,Karnataka,1253,13188,312
+Chennai,INDIA,25-09-2016,Lights,South,Electronics,Take Away,Tamil Nadu,1210,12180,313
+Dibrugarh,INDIA,04-09-2017,Refigerator,North,Electronics,Take Away,Assam,738,2268,790
+Noida,INDIA,28-12-2016,Cooler,North,Electronics,Take Away,Uttar Pradesh,2132,26880,791
+Udaipur,INDIA,20-03-2016,Fan,North,Electronics,Take Away,Rajasthan,82,2688,792
+Agra,INDIA,14-07-2018,Tv,North,Electronics,Take Away,Madhya Pradesh,1722,5544,795
+Chennai,INDIA,14-07-2018,Wasing Machine,South,Electronics,Take Away,Tamil Nadu,9348,29148,796
+Vizak,INDIA,25-08-2016,Fan,South,Electronics,Take Away,Telagana,3362,31164,803
+Chennai,INDIA,30-08-2017,Wasing Machine,South,Electronics,Home Delivery,Tamil Nadu,82,672,808
+Noida,INDIA,02-03-2015,Phone,North,Electronics,Take Away,Uttar Pradesh,410,12684,812
+Tirupati,INDIA,22-12-2018,Tv,South,Electronics,Take Away,Andra Pradesh,820,10668,818
+Dibrugarh,INDIA,14-05-2015,Refigerator,North,Electronics,Home Delivery,Assam,4264,9156,821
+Vizak,INDIA,14-05-2015,Fan,South,Electronics,Home Delivery,Telagana,32800,86100,822
+Rewari,INDIA,27-07-2015,Phone,North,Electronics,Home Delivery,Haryana,410,2352,825
+Noida,INDIA,07-04-2018,Phone,North,Electronics,Take Away,Uttar Pradesh,8856,29316,828
+Tirupati,INDIA,21-11-2018,Cooler,South,Electronics,Home Delivery,Andra Pradesh,12382,43680,833
+Udaipur,INDIA,25-09-2018,Fan,North,Electronics,Take Away,Rajasthan,492,1932,837
+Chennai,INDIA,04-08-2018,Ac,South,Electronics,Take Away,Tamil Nadu,738,2520,838
+Noida,INDIA,18-11-2018,Cooler,North,Electronics,Take Away,Uttar Pradesh,2542,33264,839
+Chennai,INDIA,29-11-2015,Fan,South,Electronics,Take Away,Tamil Nadu,164,4452,841
+Udaipur,INDIA,07-08-2016,Ac,North,Electronics,Take Away,Rajasthan,1558,3192,842
+Jamshedpur,INDIA,26-10-2016,Refigerator,North,Electronics,Take Away,Jharkhand,6724,15456,850
+Dibrugarh,INDIA,13-09-2018,Phone,North,Electronics,Take Away,Assam,492,6972,851
+Dibrugarh,INDIA,06-03-2018,Tv,North,Electronics,Take Away,Assam,3116,7140,853
+Udaipur,INDIA,18-12-2017,Phone,North,Electronics,Take Away,Rajasthan,2542,6552,855
+Pune,INDIA,18-12-2017,Lights,Central,Electronics,Take Away,Maharastra,8528,36540,858
+Rewari,INDIA,01-09-2016,Ac,North,Electronics,Take Away,Haryana,26568,136248,862
+Pune,INDIA,19-06-2016,Phone,Central,Electronics,Take Away,Maharastra,29520,75600,868
+Udaipur,INDIA,11-09-2018,Cooler,North,Electronics,Take Away,Rajasthan,656,70896,872
+Mangalore,INDIA,04-03-2015,Lights,South,Electronics,Take Away,Karnataka,984,4956,878
+Dibrugarh,INDIA,13-12-2018,Refigerator,North,Electronics,Take Away,Assam,738,1764,882
+Coimbatore,INDIA,04-10-2015,Cooler,South,Electronics,Take Away,Tamil Nadu,902,1764,888
+Ludhiyana,INDIA,14-11-2017,Tv,North,Electronics,Take Away,Punjab,574,1512,892
+Ludhiyana,INDIA,21-05-2017,Phone,North,Electronics,Take Away,Punjab,1476,3360,899
+Noida,INDIA,21-05-2017,Wasing Machine,North,Electronics,Take Away,Uttar Pradesh,2788,18228,900
+Coimbatore,INDIA,30-06-2018,Phone,South,Electronics,Home Delivery,Tamil Nadu,246,1092,908
+Rewari,INDIA,30-06-2018,Phone,North,Electronics,Take Away,Haryana,738,3528,909
+Tirupati,INDIA,13-03-2017,Lights,South,Electronics,Home Delivery,Andra Pradesh,1722,6048,918
+Bubneshwar,INDIA,03-10-2018,Wasing Machine,Central,Electronics,Take Away,Orissa,33538,143220,919
+Rewari,INDIA,04-06-2017,Lights,North,Electronics,Take Away,Haryana,1312,2520,930
+Coimbatore,INDIA,04-06-2017,Cooler,South,Electronics,Home Delivery,Tamil Nadu,656,8064,934
+Bubneshwar,INDIA,20-11-2018,Refigerator,Central,Electronics,Take Away,Orissa,7462,12432,940
+Rewari,INDIA,12-10-2015,Tv,North,Electronics,Take Away,Haryana,9512,10584,942
+Dibrugarh,INDIA,03-03-2016,Cooler,North,Electronics,Take Away,Assam,3444,10584,946
+Ludhiyana,INDIA,18-09-2016,Phone,North,Electronics,Home Delivery,Punjab,820,75600,951
+Rewari,INDIA,02-02-2015,Phone,North,Electronics,Home Delivery,Haryana,1066,9744,957
+Vizak,INDIA,22-06-2016,Wasing Machine,South,Electronics,Home Delivery,Telagana,1230,17808,960
+Dibrugarh,INDIA,23-10-2016,Phone,North,Electronics,Home Delivery,Assam,4100,60480,961
+Rewari,INDIA,21-03-2018,Tv,North,Electronics,Take Away,Haryana,492,7476,964
+Udaipur,INDIA,17-02-2018,Wasing Machine,North,Electronics,Take Away,Rajasthan,1558,9324,967
+Noida,INDIA,22-05-2017,Wasing Machine,North,Electronics,Take Away,Uttar Pradesh,164,8484,972
+Jamshedpur,INDIA,22-05-2017,Ac,North,Electronics,Take Away,Jharkhand,574,5292,976
+Coimbatore,INDIA,22-05-2017,Lights,South,Electronics,Take Away,Tamil Nadu,6396,61824,977
+Dibrugarh,INDIA,22-05-2017,Phone,North,Electronics,Take Away,Assam,902,2268,978
+Bubneshwar,INDIA,12-09-2018,Ac,Central,Electronics,Home Delivery,Orissa,21320,77952,980
+Udaipur,INDIA,12-09-2018,Wasing Machine,North,Electronics,Take Away,Rajasthan,1640,12768,981
+Rewari,INDIA,17-11-2018,Fan,North,Electronics,Take Away,Haryana,1148,3444,989
+Bubneshwar,INDIA,17-11-2018,Lights,Central,Electronics,Take Away,Orissa,3526,6468,990
+Noida,INDIA,17-02-2018,Lights,North,Electronics,Take Away,Uttar Pradesh,574,23016,999
+Jamshedpur,INDIA,16-04-2017,Lights,North,Electronics,Home Delivery,Jharkhand,1066,2352,1000
+Bilaspur,INDIA,16-02-2017,Phone,North,Electronics,Take Away,Nagaland,1312,4032,1176
+Mumbai,INDIA,06-06-2016,Ac,Central,Electronics,Take Away,Maharastra,738,3024,1180
+Surat,INDIA,27-05-2017,Cooler,North,Electronics,Take Away,Nagaland,2100,55362,1183
+Surat,INDIA,23-06-2018,Phone,North,Electronics,Take Away,Nagaland,1230,2772,1186
+Gurgaon,INDIA,04-08-2015,Cooler,North,Electronics,Take Away,Haryana,82,4032,1187
+Jaipur,INDIA,10-05-2016,Ac,North,Electronics,Take Away,Rajasthan,574,924,1191
+Bilaspur,INDIA,16-12-2018,Fan,North,Electronics,Home Delivery,Nagaland,1312,3024,1196
+Bangalore,INDIA,18-11-2016,Refigerator,South,Electronics,Take Away,Karnataka,574,3612,1197
+Noida,INDIA,19-02-2017,Lights,North,Electronics,Take Away,Uttar Pradesh,11726,34356,1204
+Ananthpur,INDIA,19-02-2017,Tv,North,Electronics,Home Delivery,Daman And Diu,,214569,1207
+Gurgaon,INDIA,30-06-2016,Lights,North,Electronics,Home Delivery,Haryana,8938,37464,1210
+Chennai,INDIA,11-08-2016,Tv,South,Electronics,Home Delivery,Tamil Nadu,2706,8064,1212
+Jaipur,INDIA,19-05-2016,Phone,North,Electronics,Take Away,Rajasthan,1312,9240,1218
+Noida,INDIA,11-08-2018,Cooler,North,Electronics,Take Away,Uttar Pradesh,4264,9912,1227
+Hydrabad,INDIA,11-08-2018,Refigerator,South,Electronics,Take Away,Telagana,3000,107500,1228
+Guwahati,INDIA,24-06-2018,Lights,North,Electronics,Take Away,Assam,3034,11256,1231
+Ananthpur,INDIA,29-12-2018,Fan,North,Electronics,Home Delivery,Daman And Diu,1886,12432,1232
+Jaipur,INDIA,21-04-2018,Phone,North,Electronics,Take Away,Rajasthan,1804,5544,1233
+Gurgaon,INDIA,10-05-2017,Tv,North,Electronics,Home Delivery,Haryana,5986,13356,1236
+Guwahati,INDIA,31-01-2016,Phone,North,Electronics,Home Delivery,Assam,984,2940,1239
+Bangalore,INDIA,31-01-2016,Cooler,South,Electronics,Take Away,Karnataka,574,18312,1241
+Ludhiyana,INDIA,17-03-2018,Phone,North,Electronics,Take Away,Punjab,2214,13944,1242
+Ludhiyana,INDIA,18-06-2018,Cooler,North,Electronics,Take Away,Punjab,2000,90000,1247
+Mumbai,INDIA,18-06-2018,Phone,Central,Electronics,Home Delivery,Maharastra,5986,10920,1248
+Kolkata,INDIA,12-11-2018,Lights,North,Electronics,Home Delivery,West Bengal,82,10080,1251
+Surat,INDIA,31-08-2017,Tv,North,Electronics,Take Away,Mizoram,656,16212,1256
+Guwahati,INDIA,31-08-2017,Wasing Machine,North,Electronics,Take Away,Assam,328,2856,1261
+Noida,INDIA,31-08-2017,Refigerator,North,Electronics,Take Away,Uttar Pradesh,4100,9996,1263
+Guwahati,INDIA,21-12-2016,Lights,North,Electronics,Take Away,Assam,1148,104076,1264
+Gurgaon,INDIA,21-12-2016,Phone,North,Electronics,Take Away,Haryana,738,2856,1265
+Ranchi,INDIA,22-03-2017,Ac,North,Electronics,Take Away,Jharkhand,5740,23436,1266
+Guwahati,INDIA,02-08-2018,Ac,North,Electronics,Take Away,Assam,17056,51240,1268
+Ananthpur,INDIA,13-05-2015,Phone,South,Electronics,Take Away,Kerela,17630,90216,1269
+Noida,INDIA,25-12-2016,Tv,North,Electronics,Take Away,Uttar Pradesh,1066,2856,1273
+Pune,INDIA,25-12-2016,Fan,Central,Electronics,Take Away,Maharastra,492,3444,1274
+Gurgaon,INDIA,07-04-2018,Fan,North,Electronics,Take Away,Haryana,39852,105000,1275
+Kolkata,INDIA,07-04-2018,Refigerator,North,Electronics,Take Away,West Bengal,3280,13524,1276
+Guwahati,INDIA,31-08-2015,Phone,North,Electronics,Home Delivery,Assam,328,840,1277
+Ludhiyana,INDIA,03-12-2018,Refigerator,North,Electronics,Home Delivery,Punjab,410,1428,1285
+Jaipur,INDIA,08-04-2017,Refigerator,North,Electronics,Take Away,Rajasthan,1722,12348,1288
+Udaipur,INDIA,05-08-2017,Refigerator,North,Electronics,Home Delivery,Rajasthan,11562,18480,1304
+Hydrabad,INDIA,05-08-2017,Tv,South,Electronics,Take Away,Telagana,1148,1764,1305
+Pune,INDIA,02-12-2017,Wasing Machine,Central,Electronics,Take Away,Maharastra,4838,17136,1306
+Gurgaon,INDIA,02-12-2017,Tv,North,Electronics,Take Away,Haryana,328,2436,1307
+Bubneshwar,INDIA,04-12-2018,Phone,Central,Electronics,Take Away,Orissa,11480,37800,1308
+Ahmedabad,INDIA,20-09-2015,Tv,North,Electronics,Take Away,Mizoram,738,2856,1309
+Pune,INDIA,20-09-2015,Phone,Central,Electronics,Take Away,Maharastra,5576,26124,1310
+Pune,INDIA,25-09-2016,Wasing Machine,Central,Electronics,Take Away,Maharastra,820,3360,1311
+Bangalore,INDIA,25-09-2016,Lights,South,Electronics,Take Away,Karnataka,738,13188,1312
+Chennai,INDIA,25-09-2016,Wasing Machine,South,Electronics,Home Delivery,Tamil Nadu,2460,12180,1313
+Dibrugarh,INDIA,04-09-2017,Tv,North,Electronics,Take Away,Assam,738,2268,1790
+Noida,INDIA,28-12-2016,Refigerator,North,Electronics,Take Away,Uttar Pradesh,2132,26880,1791
+Udaipur,INDIA,20-03-2016,Fan,North,Electronics,Take Away,Rajasthan,82,2688,1792
+Agra,INDIA,14-07-2018,Tv,North,Electronics,Take Away,Madhya Pradesh,1722,5544,1795
+Chennai,INDIA,14-07-2018,Fan,South,Electronics,Take Away,Tamil Nadu,9348,29148,1796
+Vizak,INDIA,25-08-2016,Cooler,South,Electronics,Home Delivery,Telagana,3362,31164,1803
+Chennai,INDIA,30-08-2017,Wasing Machine,South,Electronics,Take Away,Tamil Nadu,82,672,1808
+Noida,INDIA,02-03-2015,Wasing Machine,North,Electronics,Take Away,Uttar Pradesh,410,12684,1812
+Tirupati,INDIA,22-12-2018,Wasing Machine,North,Electronics,Home Delivery,Arunachal Pradesh,820,10668,1818
+Dibrugarh,INDIA,14-05-2015,Fan,North,Electronics,Take Away,Assam,4264,9156,1821
+Vizak,INDIA,14-05-2015,Wasing Machine,South,Electronics,Take Away,Telagana,32800,86100,1822
+Rewari,INDIA,27-07-2015,Fan,North,Electronics,Take Away,Haryana,410,2352,1825
+Noida,INDIA,07-04-2018,Phone,North,Electronics,Home Delivery,Uttar Pradesh,8856,29316,1828
+Tirupati,INDIA,21-11-2018,Ac,North,Electronics,Take Away,Arunachal Pradesh,12382,43680,1833
+Udaipur,INDIA,25-09-2018,Lights,North,Electronics,Home Delivery,Rajasthan,492,1932,1837
+Chennai,INDIA,04-08-2018,Fan,South,Electronics,Take Away,Tamil Nadu,738,2520,1838
+Noida,INDIA,18-11-2018,Fan,North,Electronics,Take Away,Uttar Pradesh,2542,33264,1839
+Chennai,INDIA,29-11-2015,Fan,South,Electronics,Take Away,Tamil Nadu,164,4452,1841
+Udaipur,INDIA,07-08-2016,Fan,North,Electronics,Home Delivery,Rajasthan,1558,3192,1842
+Jamshedpur,INDIA,26-10-2016,Wasing Machine,North,Electronics,Home Delivery,Jharkhand,6724,15456,1850
+Dibrugarh,INDIA,13-09-2018,Tv,North,Electronics,Take Away,Assam,492,6972,1851
+Dibrugarh,INDIA,06-03-2018,Wasing Machine,North,Electronics,Take Away,Assam,3116,7140,1853
+Udaipur,INDIA,18-12-2017,Tv,North,Electronics,Take Away,Rajasthan,2542,6552,1855
+Pune,INDIA,18-12-2017,Phone,Central,Electronics,Take Away,Maharastra,8528,36540,1858
+Rewari,INDIA,01-09-2016,Cooler,North,Electronics,Home Delivery,Haryana,26568,136248,1862
+Pune,INDIA,19-06-2016,Wasing Machine,Central,Electronics,Take Away,Maharastra,29520,75600,1868
+Udaipur,INDIA,11-09-2018,Cooler,North,Electronics,Home Delivery,Rajasthan,656,70896,1872
+Mangalore,INDIA,04-03-2015,Lights,South,Electronics,Take Away,Karnataka,984,4956,1878
+Dibrugarh,INDIA,13-12-2018,Ac,North,Electronics,Take Away,Assam,738,1764,1882
+Coimbatore,INDIA,04-10-2015,Tv,South,Electronics,Take Away,Tamil Nadu,902,1764,1888
+Ludhiyana,INDIA,14-11-2017,Ac,North,Electronics,Take Away,Punjab,574,1512,1892
+Ludhiyana,INDIA,21-05-2017,Tv,North,Electronics,Take Away,Punjab,1476,3360,1899
+Noida,INDIA,21-05-2017,Wasing Machine,North,Electronics,Take Away,Uttar Pradesh,2788,18228,1900
+Coimbatore,INDIA,30-06-2018,Ac,South,Electronics,Take Away,Tamil Nadu,246,1092,1908
+Rewari,INDIA,30-06-2018,Tv,North,Electronics,Take Away,Haryana,738,3528,1909
+Tirupati,INDIA,13-03-2017,Tv,North,Electronics,Take Away,Arunachal Pradesh,1722,6048,1918
+Bubneshwar,INDIA,03-10-2018,Tv,Central,Electronics,Home Delivery,Orissa,33538,143220,1919
+Rewari,INDIA,04-06-2017,Ac,North,Electronics,Take Away,Haryana,1312,2520,1930
+Coimbatore,INDIA,04-06-2017,Cooler,South,Electronics,Home Delivery,Tamil Nadu,656,8064,1934
+Bubneshwar,INDIA,20-11-2018,Ac,Central,Electronics,Take Away,Orissa,7462,12432,1940
+Rewari,INDIA,12-10-2015,Lights,North,Electronics,Take Away,Haryana,9512,10584,1942
+Dibrugarh,INDIA,03-03-2016,Tv,North,Electronics,Take Away,Assam,3444,10584,1946
+Ludhiyana,INDIA,18-09-2016,Ac,North,Electronics,Take Away,Punjab,820,75600,1951
+Rewari,INDIA,02-02-2015,Lights,North,Electronics,Take Away,Haryana,1066,9744,1957
+Vizak,INDIA,22-06-2016,Lights,South,Electronics,Take Away,Telagana,1230,17808,1960
+Dibrugarh,INDIA,23-10-2016,Phone,North,Electronics,Take Away,Assam,4100,60480,1961
+Rewari,INDIA,21-03-2018,Refigerator,North,Electronics,Take Away,Haryana,492,7476,1964
+Udaipur,INDIA,17-02-2018,Refigerator,North,Electronics,Take Away,Rajasthan,1558,9324,1967
+Noida,INDIA,22-05-2017,Phone,North,Electronics,Take Away,Uttar Pradesh,164,8484,1972
+Jamshedpur,INDIA,22-05-2017,Tv,North,Electronics,Home Delivery,Jharkhand,574,5292,1976
+Coimbatore,INDIA,22-05-2017,Cooler,South,Electronics,Take Away,Tamil Nadu,6396,61824,1977
+Dibrugarh,INDIA,22-05-2017,Phone,North,Electronics,Take Away,Assam,902,2268,1978
+Bubneshwar,INDIA,12-09-2018,Phone,Central,Electronics,Take Away,Orissa,21320,77952,1980
+Udaipur,INDIA,12-09-2018,Lights,North,Electronics,Take Away,Rajasthan,1640,12768,1981
+Rewari,INDIA,17-11-2018,Phone,North,Electronics,Take Away,Haryana,1148,3444,1989
+Bubneshwar,INDIA,17-11-2018,Fan,Central,Electronics,Take Away,Orissa,3526,6468,1990
+Noida,INDIA,17-02-2018,Wasing Machine,North,Electronics,Take Away,Uttar Pradesh,574,23016,1999
+Jamshedpur,INDIA,16-04-2017,Phone,North,Electronics,Take Away,Jharkhand,1066,2352,2000
+Jamshedpur,INDIA,22-11-2016,Sleep Wear,North,Fashion,Take Away,Jharkhand,1072,3612,402
+Noida,INDIA,13-06-2018,Ethnic Wear,North,Fashion,Home Delivery,Uttar Pradesh,1356,4536,403
+Jamshedpur,INDIA,10-09-2015,Sport Wear,North,Fashion,Take Away,Jharkhand,95,1428,404
+Gurgaon,INDIA,26-07-2018,Western Wear,North,Fashion,Take Away,Haryana,1320,23352,405
+Guwahati,INDIA,26-07-2018,Sleep Wear,North,Fashion,Take Away,Assam,1067,4620,406
+Chennai,INDIA,26-07-2018,Sleep Wear,South,Fashion,Take Away,Tamil Nadu,1064,2100,407
+Pune,INDIA,18-09-2018,Foot Wear,Central,Fashion,Take Away,Maharastra,1441,2268,408
+Ananthpur,INDIA,08-08-2018,Accessories,South,Fashion,Take Away,Andra Pradesh,1166,22512,409
+Udaipur,INDIA,26-09-2018,Ethnic Wear,North,Fashion,Take Away,Rajasthan,1432,6216,410
+Udaipur,INDIA,26-09-2018,Sleep Wear,North,Fashion,Take Away,Rajasthan,93,756,411
+Asansol,INDIA,30-06-2018,Sport Wear,North,Fashion,Home Delivery,West Bengal,1433,7224,412
+Ananthpur,INDIA,30-06-2018,Sport Wear,South,Fashion,Home Delivery,Andra Pradesh,1117,6720,413
+Ahmedabad,INDIA,30-06-2018,Foot Wear,North,Fashion,Home Delivery,Gujrat,95,1428,414
+Guwahati,INDIA,29-10-2018,Foot Wear,North,Fashion,Take Away,Assam,1329,7476,415
+Bangalore,INDIA,29-10-2018,Sport Wear,South,Fashion,Take Away,Karnataka,3070,85344,416
+Bubneshwar,INDIA,07-05-2017,Sport Wear,Central,Fashion,Take Away,Orissa,1066,3612,417
+Bangalore,INDIA,07-05-2017,Accessories,South,Fashion,Take Away,Karnataka,1028,3444,418
+Ananthpur,INDIA,07-05-2017,Western Wear,South,Fashion,Take Away,Andra Pradesh,1494,6720,419
+Bubneshwar,INDIA,14-08-2017,Sport Wear,Central,Fashion,Take Away,Orissa,33,1848,420
+Agra,INDIA,14-08-2017,Accessories,North,Fashion,Take Away,Madhya Pradesh,1432,2100,421
+Noida,INDIA,02-02-2015,Sleep Wear,North,Fashion,Home Delivery,Uttar Pradesh,1040,49056,422
+Chennai,INDIA,02-02-2015,Accessories,South,Fashion,Take Away,Tamil Nadu,1234,7224,423
+Bangalore,INDIA,02-02-2015,Accessories,South,Fashion,Home Delivery,Karnataka,43,1092,424
+Gurgaon,INDIA,12-08-2018,Ethnic Wear,North,Fashion,Take Away,Haryana,27,756,425
+Ahmedabad,INDIA,12-08-2018,Accessories,North,Fashion,Take Away,Gujrat,72,1932,426
+Asansol,INDIA,21-08-2017,Western Wear,North,Fashion,Take Away,West Bengal,1087,4536,427
+Hydrabad,INDIA,21-08-2017,Western Wear,South,Fashion,Home Delivery,Telagana,1197,2184,428
+Ludhiyana,INDIA,13-03-2017,Sleep Wear,North,Fashion,Take Away,Punjab,1001,4788,429
+Pune,INDIA,13-03-2017,Western Wear,Central,Fashion,Take Away,Maharastra,1212,20328,430
+Noida,INDIA,30-12-2016,Sport Wear,North,Fashion,Take Away,Uttar Pradesh,1089,30660,431
+Udaipur,INDIA,09-08-2017,Accessories,North,Fashion,Take Away,Rajasthan,1136,4788,432
+Agra,INDIA,01-08-2018,Western Wear,North,Fashion,Take Away,Madhya Pradesh,1378,11004,433
+Asansol,INDIA,05-08-2016,Accessories,North,Fashion,Take Away,West Bengal,1047,12600,434
+Jamshedpur,INDIA,05-08-2016,Foot Wear,North,Fashion,Home Delivery,Jharkhand,45,1428,435
+Bubneshwar,INDIA,05-08-2016,Western Wear,Central,Fashion,Take Away,Orissa,1036,6636,436
+Ananthpur,INDIA,05-08-2016,Foot Wear,South,Fashion,Take Away,Andra Pradesh,69,756,437
+Dibrugarh,INDIA,05-08-2016,Ethnic Wear,North,Fashion,Home Delivery,Assam,1408,19068,438
+Noida,INDIA,05-08-2016,Western Wear,North,Fashion,Take Away,Uttar Pradesh,1057,38808,439
+Gurgaon,INDIA,20-03-2017,Sleep Wear,North,Fashion,Home Delivery,Haryana,2758,97104,440
+Bangalore,INDIA,20-03-2017,Accessories,South,Fashion,Take Away,Karnataka,1480,17976,441
+Bubneshwar,INDIA,02-06-2016,Foot Wear,Central,Fashion,Home Delivery,Orissa,1173,6636,442
+Hydrabad,INDIA,02-06-2016,Sport Wear,South,Fashion,Take Away,Telagana,1291,26208,443
+Jamshedpur,INDIA,20-01-2017,Sport Wear,North,Fashion,Home Delivery,Jharkhand,1218,15456,444
+Agra,INDIA,20-01-2017,Sport Wear,North,Fashion,Take Away,Madhya Pradesh,13,1260,445
+Gurgaon,INDIA,22-09-2015,Sleep Wear,North,Fashion,Home Delivery,Haryana,1403,3024,446
+Dibrugarh,INDIA,11-07-2018,Accessories,North,Fashion,Take Away,Assam,1285,2520,447
+Pune,INDIA,11-07-2018,Ethnic Wear,Central,Fashion,Take Away,Maharastra,2899,85932,448
+Hydrabad,INDIA,11-07-2018,Western Wear,South,Fashion,Take Away,Telagana,1278,9072,449
+Ananthpur,INDIA,17-08-2015,Sport Wear,South,Fashion,Take Away,Andra Pradesh,1425,4284,450
+Kolkata,INDIA,31-05-2015,Accessories,North,Fashion,Take Away,West Bengal,10000,187236,451
+Bubneshwar,INDIA,22-11-2017,Foot Wear,Central,Fashion,Take Away,Orissa,1300,17136,452
+Kolkata,INDIA,09-08-2018,Ethnic Wear,North,Fashion,Take Away,West Bengal,1239,10584,453
+Hydrabad,INDIA,09-08-2018,Accessories,South,Fashion,Home Delivery,Telagana,1220,21756,454
+Ahmedabad,INDIA,02-06-2018,Ethnic Wear,North,Fashion,Take Away,Gujrat,50,1428,455
+Agra,INDIA,02-06-2018,Sleep Wear,North,Fashion,Take Away,Madhya Pradesh,1380,6300,456
+Chennai,INDIA,21-08-2017,Accessories,South,Fashion,Take Away,Tamil Nadu,1403,4116,457
+Ludhiyana,INDIA,21-08-2017,Sleep Wear,North,Fashion,Home Delivery,Punjab,1448,45444,458
+Bangalore,INDIA,21-08-2017,Foot Wear,South,Fashion,Take Away,Karnataka,1218,5040,459
+Hydrabad,INDIA,21-08-2017,Sleep Wear,South,Fashion,Take Away,Telagana,1441,9492,460
+Udaipur,INDIA,21-08-2017,Sport Wear,North,Fashion,Take Away,Rajasthan,1119,19152,461
+Dibrugarh,INDIA,17-05-2018,Ethnic Wear,North,Fashion,Take Away,Assam,1073,13608,462
+Jamshedpur,INDIA,08-06-2015,Accessories,North,Fashion,Take Away,Jharkhand,1178,12264,463
+Udaipur,INDIA,16-08-2017,Western Wear,North,Fashion,Take Away,Rajasthan,1290,2184,464
+Jamshedpur,INDIA,16-08-2017,Ethnic Wear,North,Fashion,Take Away,Jharkhand,1116,9240,465
+Gurgaon,INDIA,16-08-2017,Western Wear,North,Fashion,Take Away,Haryana,1439,7224,466
+Pune,INDIA,12-06-2017,Western Wear,Central,Fashion,Home Delivery,Maharastra,1013,6048,467
+Gurgaon,INDIA,12-06-2017,Western Wear,North,Fashion,Home Delivery,Haryana,17,1680,468
+Ludhiyana,INDIA,25-08-2016,Western Wear,North,Fashion,Take Away,Punjab,1289,15372,469
+Pune,INDIA,25-08-2016,Ethnic Wear,Central,Fashion,Home Delivery,Maharastra,1393,5292,470
+Jamshedpur,INDIA,25-08-2016,Sport Wear,North,Fashion,Take Away,Jharkhand,1311,4872,471
+Hydrabad,INDIA,25-08-2016,Western Wear,South,Fashion,Take Away,Telagana,1069,7476,472
+Bangalore,INDIA,25-08-2016,Western Wear,South,Fashion,Take Away,Karnataka,1136,7308,473
+Udaipur,INDIA,21-03-2017,Accessories,North,Fashion,Take Away,Rajasthan,1217,2352,474
+Ahmedabad,INDIA,01-12-2016,Foot Wear,North,Fashion,Take Away,Gujrat,1032,4536,475
+Ludhiyana,INDIA,01-12-2016,Ethnic Wear,North,Fashion,Home Delivery,Punjab,1316,4788,476
+Dibrugarh,INDIA,01-12-2016,Sport Wear,North,Fashion,Take Away,Assam,1098,29400,477
+Ananthpur,INDIA,21-11-2018,Western Wear,South,Fashion,Take Away,Andra Pradesh,1072,4200,478
+Agra,INDIA,21-11-2018,Accessories,North,Fashion,Home Delivery,Madhya Pradesh,1163,36372,479
+Chennai,INDIA,03-11-2016,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,1105,6720,480
+Dibrugarh,INDIA,26-11-2017,Sport Wear,North,Fashion,Take Away,Assam,1147,7224,481
+Kolkata,INDIA,26-11-2017,Ethnic Wear,North,Fashion,Home Delivery,West Bengal,1003,4368,482
+Pune,INDIA,26-11-2017,Sleep Wear,Central,Fashion,Home Delivery,Maharastra,24,756,483
+Bangalore,INDIA,11-09-2018,Accessories,South,Fashion,Take Away,Karnataka,1490,2772,484
+Agra,INDIA,11-09-2018,Foot Wear,North,Fashion,Take Away,Madhya Pradesh,1186,21756,485
+Agra,INDIA,11-09-2018,Sport Wear,North,Fashion,Take Away,Madhya Pradesh,4807,136248,486
+Ananthpur,INDIA,10-06-2018,Sleep Wear,South,Fashion,Take Away,Andra Pradesh,3361,70644,487
+Chennai,INDIA,04-11-2017,Western Wear,South,Fashion,Take Away,Tamil Nadu,1299,3948,488
+Ahmedabad,INDIA,29-12-2016,Sport Wear,North,Fashion,Take Away,Gujrat,1382,14112,489
+Noida,INDIA,24-03-2016,Sport Wear,North,Fashion,Take Away,Uttar Pradesh,1248,2688,490
+Chennai,INDIA,24-03-2016,Sleep Wear,South,Fashion,Take Away,Tamil Nadu,1252,13188,491
+Bubneshwar,INDIA,13-09-2015,Accessories,Central,Fashion,Take Away,Orissa,2865,65268,492
+Bangalore,INDIA,06-08-2018,Sport Wear,South,Fashion,Take Away,Karnataka,4579,129948,493
+Jamshedpur,INDIA,24-04-2016,Ethnic Wear,North,Fashion,Take Away,Jharkhand,1354,34860,494
+Kolkata,INDIA,14-01-2018,Ethnic Wear,North,Fashion,Home Delivery,West Bengal,1116,2856,495
+Kolkata,INDIA,26-12-2016,Western Wear,North,Fashion,Take Away,West Bengal,1067,38892,496
+Agra,INDIA,26-12-2016,Western Wear,North,Fashion,Take Away,Madhya Pradesh,1022,19068,497
+Chennai,INDIA,26-12-2016,Western Wear,South,Fashion,Take Away,Tamil Nadu,1308,42420,498
+Bangalore,INDIA,26-12-2016,Ethnic Wear,South,Fashion,Home Delivery,Karnataka,1457,8148,499
+Jamshedpur,INDIA,26-12-2016,Ethnic Wear,North,Fashion,Take Away,Jharkhand,1137,10920,500
+Gurgaon,INDIA,14-04-2018,Ethnic Wear,North,Fashion,Take Away,Haryana,10000,177408,501
+Bubneshwar,INDIA,29-06-2015,Ethnic Wear,Central,Fashion,Take Away,Orissa,27,1596,502
+Ahmedabad,INDIA,29-06-2015,Foot Wear,North,Fashion,Take Away,Gujrat,1090,3696,503
+Bubneshwar,INDIA,18-06-2018,Western Wear,Central,Fashion,Take Away,Orissa,96,1428,504
+Hydrabad,INDIA,18-06-2018,Western Wear,South,Fashion,Take Away,Telagana,1334,5040,505
+Pune,INDIA,18-06-2018,Western Wear,Central,Fashion,Take Away,Maharastra,1498,10500,506
+Dibrugarh,INDIA,16-02-2018,Western Wear,North,Fashion,Take Away,Assam,1077,18228,507
+Gurgaon,INDIA,16-02-2018,Sleep Wear,North,Fashion,Take Away,Haryana,1253,3528,508
+Dibrugarh,INDIA,21-04-2016,Sleep Wear,North,Fashion,Take Away,Assam,1309,4032,509
+Dibrugarh,INDIA,21-04-2016,Sport Wear,North,Fashion,Take Away,Assam,1463,16968,510
+Chennai,INDIA,10-09-2017,Western Wear,South,Fashion,Take Away,Tamil Nadu,92,1596,511
+Jamshedpur,INDIA,10-09-2017,Sleep Wear,North,Fashion,Take Away,Jharkhand,1150,18480,512
+Surat,INDIA,10-09-2017,Ethnic Wear,North,Fashion,Take Away,Gujrat,1266,3444,513
+Pune,INDIA,11-10-2016,Western Wear,Central,Fashion,Home Delivery,Maharastra,1127,7896,514
+Ludhiyana,INDIA,06-08-2018,Sleep Wear,North,Fashion,Take Away,Punjab,1266,4956,515
+Ananthpur,INDIA,06-08-2018,Western Wear,South,Fashion,Take Away,Andra Pradesh,1169,14952,516
+Bangalore,INDIA,04-08-2018,Ethnic Wear,South,Fashion,Take Away,Karnataka,1314,6300,517
+Udaipur,INDIA,16-07-2018,Sport Wear,North,Fashion,Home Delivery,Rajasthan,85,588,518
+Chennai,INDIA,16-07-2018,Sport Wear,South,Fashion,Take Away,Tamil Nadu,1467,5460,519
+Pune,INDIA,24-07-2016,Accessories,Central,Fashion,Take Away,Maharastra,1244,34608,520
+Surat,INDIA,24-07-2016,Sport Wear,North,Fashion,Take Away,Gujrat,1141,8232,521
+Gurgaon,INDIA,24-07-2016,Western Wear,North,Fashion,Home Delivery,Haryana,1288,7812,522
+Surat,INDIA,04-08-2015,Accessories,North,Fashion,Take Away,Gujrat,1340,32508,523
+Gurgaon,INDIA,07-02-2015,Ethnic Wear,North,Fashion,Home Delivery,Haryana,1098,2604,524
+Pune,INDIA,16-12-2017,Sleep Wear,Central,Fashion,Take Away,Maharastra,1424,4536,525
+Vizak,INDIA,11-12-2018,Western Wear,South,Fashion,Take Away,Telagana,1412,20244,526
+Agra,INDIA,11-12-2018,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,1167,4452,527
+Surat,INDIA,11-12-2018,Western Wear,North,Fashion,Take Away,Gujrat,1011,3192,528
+Udaipur,INDIA,11-12-2018,Foot Wear,North,Fashion,Home Delivery,Rajasthan,4806,122808,529
+Dibrugarh,INDIA,19-12-2017,Foot Wear,North,Fashion,Take Away,Assam,1005,5964,530
+Gurgaon,INDIA,30-07-2018,Ethnic Wear,North,Fashion,Take Away,Haryana,1364,25032,531
+Dibrugarh,INDIA,30-07-2018,Sport Wear,North,Fashion,Take Away,Assam,1115,22008,532
+Chennai,INDIA,30-07-2018,Western Wear,South,Fashion,Home Delivery,Tamil Nadu,1355,20664,533
+Kolkata,INDIA,02-09-2018,Ethnic Wear,North,Fashion,Take Away,West Bengal,3495,89796,534
+Agra,INDIA,01-03-2016,Foot Wear,North,Fashion,Take Away,Madhya Pradesh,1276,3612,535
+Vizak,INDIA,16-04-2017,Sleep Wear,South,Fashion,Take Away,Telagana,3063,76440,536
+Dibrugarh,INDIA,16-04-2017,Ethnic Wear,North,Fashion,Take Away,Assam,1457,4452,537
+Ludhiyana,INDIA,11-09-2018,Sport Wear,North,Fashion,Take Away,Punjab,2797,60396,538
+Pune,INDIA,11-09-2018,Sleep Wear,Central,Fashion,Take Away,Maharastra,1000,4788,539
+Jamshedpur,INDIA,05-12-2018,Sport Wear,North,Fashion,Home Delivery,Jharkhand,1105,2184,540
+Gurgaon,INDIA,19-08-2018,Sport Wear,North,Fashion,Take Away,Haryana,1184,7980,541
+Pune,INDIA,30-03-2016,Ethnic Wear,Central,Fashion,Take Away,Maharastra,1144,41496,542
+Agra,INDIA,18-01-2016,Sleep Wear,North,Fashion,Take Away,Madhya Pradesh,1322,14364,543
+Udaipur,INDIA,27-06-2018,Accessories,North,Fashion,Take Away,Rajasthan,1335,4032,544
+Ananthpur,INDIA,09-06-2018,Foot Wear,South,Fashion,Home Delivery,Andra Pradesh,1404,5124,545
+Ludhiyana,INDIA,09-06-2018,Western Wear,North,Fashion,Take Away,Punjab,1359,22428,546
+Udaipur,INDIA,09-06-2018,Western Wear,North,Fashion,Take Away,Rajasthan,1353,12264,547
+Ludhiyana,INDIA,18-12-2017,Western Wear,North,Fashion,Home Delivery,Punjab,1454,14112,548
+Agra,INDIA,18-12-2017,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,1103,28056,549
+Jamshedpur,INDIA,18-12-2017,Western Wear,North,Fashion,Home Delivery,Jharkhand,1312,43764,550
+Agra,INDIA,12-07-2017,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,1134,5796,551
+Kolkata,INDIA,12-07-2017,Ethnic Wear,North,Fashion,Take Away,West Bengal,1108,24948,552
+Pune,INDIA,12-07-2017,Accessories,Central,Fashion,Take Away,Maharastra,1333,40992,553
+Jamshedpur,INDIA,12-07-2017,Western Wear,North,Fashion,Home Delivery,Jharkhand,1490,41916,554
+Surat,INDIA,12-07-2017,Foot Wear,North,Fashion,Take Away,Gujrat,1497,7476,555
+Udaipur,INDIA,12-07-2017,Western Wear,North,Fashion,Take Away,Rajasthan,1207,2520,556
+Jamshedpur,INDIA,12-07-2017,Sleep Wear,North,Fashion,Take Away,Jharkhand,2638,60732,557
+Ananthpur,INDIA,12-07-2017,Sleep Wear,South,Fashion,Take Away,Andra Pradesh,1462,11172,558
+Bangalore,INDIA,24-08-2016,Ethnic Wear,South,Fashion,Home Delivery,Karnataka,1002,6552,559
+Vizak,INDIA,18-05-2017,Sleep Wear,South,Fashion,Home Delivery,Telagana,62,1680,560
+Bangalore,INDIA,24-08-2016,Ethnic Wear,South,Fashion,Take Away,Karnataka,1246,12432,561
+Ludhiyana,INDIA,07-11-2016,Western Wear,North,Fashion,Take Away,Punjab,1457,27300,562
+Vizak,INDIA,04-09-2018,Sleep Wear,South,Fashion,Take Away,Telagana,1367,4368,563
+Udaipur,INDIA,30-06-2016,Accessories,North,Fashion,Take Away,Rajasthan,88,1344,564
+Chennai,INDIA,30-06-2016,Sport Wear,South,Fashion,Take Away,Tamil Nadu,1289,5376,565
+Dibrugarh,INDIA,30-06-2016,Sport Wear,North,Fashion,Take Away,Assam,2727,64596,566
+Chennai,INDIA,30-06-2016,Ethnic Wear,South,Fashion,Home Delivery,Tamil Nadu,1093,4452,567
+Dibrugarh,INDIA,30-06-2016,Western Wear,North,Fashion,Take Away,Assam,1447,28896,568
+Surat,INDIA,30-06-2016,Sport Wear,North,Fashion,Home Delivery,Gujrat,1209,4704,569
+Noida,INDIA,30-06-2016,Foot Wear,North,Fashion,Take Away,Uttar Pradesh,1050,12852,570
+Gurgaon,INDIA,06-03-2016,Sport Wear,North,Fashion,Take Away,Haryana,1067,11508,571
+Bubneshwar,INDIA,06-03-2016,Sleep Wear,Central,Fashion,Take Away,Orissa,1142,9996,572
+Bangalore,INDIA,11-10-2017,Sport Wear,South,Fashion,Take Away,Karnataka,2827,79548,573
+Bubneshwar,INDIA,11-10-2017,Western Wear,Central,Fashion,Take Away,Orissa,1165,8568,574
+Bubneshwar,INDIA,11-10-2017,Western Wear,Central,Fashion,Home Delivery,Orissa,1097,33264,575
+Gurgaon,INDIA,22-12-2016,Sleep Wear,North,Fashion,Take Away,Haryana,10000,163968,576
+Vizak,INDIA,22-12-2016,Sleep Wear,South,Fashion,Take Away,Telagana,4756,14448,577
+Gurgaon,INDIA,22-12-2016,Western Wear,North,Fashion,Take Away,Haryana,5740,20916,578
+Bangalore,INDIA,22-12-2016,Ethnic Wear,South,Fashion,Take Away,Karnataka,1640,10920,579
+Udaipur,INDIA,12-06-2018,Accessories,North,Fashion,Take Away,Rajasthan,0,10584,580
+Dibrugarh,INDIA,12-06-2018,Western Wear,North,Fashion,Take Away,Assam,1148,12936,581
+Dibrugarh,INDIA,12-06-2018,Sport Wear,North,Fashion,Home Delivery,Assam,328,17472,582
+Udaipur,INDIA,22-09-2016,Ethnic Wear,North,Fashion,Take Away,Rajasthan,3444,10584,583
+Bubneshwar,INDIA,11-04-2016,Foot Wear,Central,Fashion,Take Away,Orissa,820,2016,584
+Ananthpur,INDIA,18-08-2016,Western Wear,South,Fashion,Take Away,Andra Pradesh,5084,16884,585
+Agra,INDIA,18-08-2016,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,3116,7896,586
+Agra,INDIA,18-08-2016,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,820,7308,587
+Ananthpur,INDIA,18-08-2018,Western Wear,South,Fashion,Take Away,Andra Pradesh,1394,15624,588
+Ananthpur,INDIA,18-08-2018,Western Wear,South,Fashion,Home Delivery,Andra Pradesh,10004,20496,589
+Ludhiyana,INDIA,18-08-2018,Sleep Wear,North,Fashion,Take Away,Punjab,82,1512,590
+Chennai,INDIA,18-08-2018,Western Wear,South,Fashion,Take Away,Tamil Nadu,33210,99960,591
+Jamshedpur,INDIA,18-08-2018,Sleep Wear,North,Fashion,Take Away,Jharkhand,820,3696,592
+Bangalore,INDIA,21-03-2018,Accessories,South,Fashion,Take Away,Karnataka,2952,11340,593
+Chennai,INDIA,05-12-2018,Sport Wear,South,Fashion,Home Delivery,Tamil Nadu,4592,106092,594
+Pune,INDIA,10-01-2016,Western Wear,Central,Fashion,Take Away,Maharastra,1640,3696,595
+Pune,INDIA,10-01-2016,Western Wear,Central,Fashion,Take Away,Maharastra,1476,5040,596
+Udaipur,INDIA,10-01-2016,Western Wear,North,Fashion,Home Delivery,Rajasthan,5002,85848,597
+Pune,INDIA,10-01-2016,Ethnic Wear,Central,Fashion,Take Away,Maharastra,3280,14280,598
+Udaipur,INDIA,25-12-2017,Accessories,North,Fashion,Home Delivery,Rajasthan,820,2100,599
+Gurgaon,INDIA,25-12-2017,Sleep Wear,North,Fashion,Take Away,Haryana,12874,33096,600
+Udaipur,INDIA,25-12-2017,Western Wear,North,Fashion,Take Away,Rajasthan,492,8484,601
+Udaipur,INDIA,08-03-2016,Sleep Wear,North,Fashion,Take Away,Rajasthan,1476,2268,602
+Bangalore,INDIA,05-11-2018,Western Wear,South,Fashion,Take Away,Karnataka,2050,4200,603
+Surat,INDIA,29-08-2018,Sleep Wear,North,Fashion,Home Delivery,Gujrat,15334,41328,604
+Udaipur,INDIA,29-08-2018,Sport Wear,North,Fashion,Take Away,Rajasthan,4182,71568,605
+Gurgaon,INDIA,09-09-2017,Western Wear,North,Fashion,Take Away,Haryana,5904,18984,606
+Kolkata,INDIA,19-02-2017,Ethnic Wear,North,Fashion,Take Away,West Bengal,3936,8484,607
+Surat,INDIA,19-02-2017,Sport Wear,North,Fashion,Home Delivery,Gujrat,164,2016,608
+Dibrugarh,INDIA,19-02-2017,Foot Wear,North,Fashion,Home Delivery,Assam,2132,8652,609
+Gurgaon,INDIA,19-02-2017,Western Wear,North,Fashion,Home Delivery,Haryana,8118,32676,610
+Pune,INDIA,23-02-2016,Foot Wear,Central,Fashion,Take Away,Maharastra,2624,12348,611
+Bubneshwar,INDIA,06-12-2018,Sleep Wear,Central,Fashion,Home Delivery,Orissa,6068,6216,612
+Kolkata,INDIA,06-12-2018,Western Wear,North,Fashion,Home Delivery,West Bengal,0,3444,613
+Udaipur,INDIA,06-12-2018,Western Wear,North,Fashion,Take Away,Rajasthan,1312,2352,614
+Jamshedpur,INDIA,06-12-2018,Western Wear,North,Fashion,Take Away,Jharkhand,8118,31836,615
+Bangalore,INDIA,07-07-2016,Sport Wear,South,Fashion,Home Delivery,Karnataka,5166,43512,616
+Kolkata,INDIA,27-08-2018,Sport Wear,North,Fashion,Take Away,West Bengal,1230,4536,617
+Ludhiyana,INDIA,17-09-2018,Foot Wear,North,Fashion,Take Away,Punjab,1312,4620,618
+Udaipur,INDIA,17-09-2018,Foot Wear,North,Fashion,Take Away,Rajasthan,5494,42420,619
+Noida,INDIA,01-11-2016,Western Wear,North,Fashion,Take Away,Uttar Pradesh,984,9408,620
+Kolkata,INDIA,12-11-2018,Ethnic Wear,North,Fashion,Take Away,West Bengal,3198,9660,621
+Gurgaon,INDIA,12-11-2018,Sport Wear,North,Fashion,Take Away,Haryana,6806,7308,622
+Jamshedpur,INDIA,06-06-2017,Ethnic Wear,North,Fashion,Home Delivery,Jharkhand,0,7140,623
+Vizak,INDIA,02-12-2016,Ethnic Wear,South,Fashion,Home Delivery,Telagana,410,43008,624
+Vizak,INDIA,22-06-2016,Accessories,South,Fashion,Take Away,Telagana,2214,7896,625
+Chennai,INDIA,18-01-2015,Sport Wear,South,Fashion,Take Away,Tamil Nadu,902,2184,626
+Ananthpur,INDIA,25-07-2016,Sleep Wear,South,Fashion,Home Delivery,Andra Pradesh,3034,14028,627
+Kolkata,INDIA,25-07-2016,Western Wear,North,Fashion,Take Away,West Bengal,1722,4032,628
+Udaipur,INDIA,25-07-2016,Western Wear,North,Fashion,Take Away,Rajasthan,4264,10920,629
+Noida,INDIA,25-07-2016,Ethnic Wear,North,Fashion,Take Away,Uttar Pradesh,1886,4200,630
+Ananthpur,INDIA,25-07-2016,Ethnic Wear,South,Fashion,Take Away,Andra Pradesh,492,2772,631
+Bubneshwar,INDIA,30-04-2018,Sleep Wear,Central,Fashion,Home Delivery,Orissa,164,3780,632
+Ananthpur,INDIA,30-04-2018,Ethnic Wear,South,Fashion,Take Away,Andra Pradesh,1394,3696,633
+Ananthpur,INDIA,30-04-2018,Accessories,South,Fashion,Take Away,Andra Pradesh,1230,2268,634
+Pune,INDIA,30-04-2018,Ethnic Wear,Central,Fashion,Take Away,Maharastra,10168,12012,635
+Dibrugarh,INDIA,28-08-2016,Sport Wear,North,Fashion,Take Away,Assam,410,4116,636
+Vizak,INDIA,27-09-2018,Sport Wear,South,Fashion,Take Away,Telagana,5084,13272,637
+Chennai,INDIA,25-02-2018,Sport Wear,South,Fashion,Take Away,Tamil Nadu,9020,19656,638
+Udaipur,INDIA,25-02-2018,Foot Wear,North,Fashion,Take Away,Rajasthan,7134,56448,639
+Noida,INDIA,21-05-2017,Western Wear,North,Fashion,Take Away,Uttar Pradesh,1804,4116,640
+Chennai,INDIA,27-06-2016,Sleep Wear,South,Fashion,Take Away,Tamil Nadu,4428,10500,641
+Ludhiyana,INDIA,27-06-2016,Ethnic Wear,North,Fashion,Take Away,Punjab,82,1512,642
+Ludhiyana,INDIA,09-12-2017,Sleep Wear,North,Fashion,Home Delivery,Punjab,2870,29148,643
+Bubneshwar,INDIA,12-10-2017,Western Wear,Central,Fashion,Take Away,Orissa,902,1512,644
+Pune,INDIA,21-12-2016,Sleep Wear,Central,Fashion,Home Delivery,Maharastra,10906,124152,645
+Ludhiyana,INDIA,16-12-2015,Accessories,North,Fashion,Home Delivery,Punjab,4592,9492,646
+Chennai,INDIA,04-11-2015,Foot Wear,South,Fashion,Take Away,Tamil Nadu,164,1344,647
+Bangalore,INDIA,12-02-2018,Sleep Wear,South,Fashion,Take Away,Karnataka,1230,30996,648
+Vizak,INDIA,31-03-2017,Ethnic Wear,South,Fashion,Take Away,Telagana,0,29904,649
+Vizak,INDIA,04-03-2015,Sport Wear,South,Fashion,Take Away,Telagana,2378,4872,650
+Bubneshwar,INDIA,07-04-2016,Sleep Wear,Central,Fashion,Take Away,Orissa,574,2688,651
+Ludhiyana,INDIA,11-01-2016,Western Wear,North,Fashion,Take Away,Punjab,164,6636,652
+Tirupati,INDIA,08-08-2017,Sleep Wear,South,Fashion,Take Away,Andra Pradesh,12874,28056,653
+Pune,INDIA,08-08-2017,Accessories,Central,Fashion,Take Away,Maharastra,164,8736,654
+Kolkata,INDIA,08-08-2017,Foot Wear,North,Fashion,Take Away,West Bengal,2050,37128,655
+Kolkata,INDIA,29-03-2017,Western Wear,North,Fashion,Take Away,West Bengal,12136,34608,656
+Ludhiyana,INDIA,02-07-2016,Western Wear,North,Fashion,Take Away,Punjab,14842,89208,657
+Udaipur,INDIA,02-07-2016,Accessories,North,Fashion,Take Away,Rajasthan,2050,19320,658
+Ludhiyana,INDIA,02-07-2016,Ethnic Wear,North,Fashion,Take Away,Punjab,6888,31920,659
+Pune,INDIA,02-07-2016,Western Wear,Central,Fashion,Take Away,Maharastra,2460,13272,660
+Dibrugarh,INDIA,02-07-2016,Ethnic Wear,North,Fashion,Take Away,Assam,26240,59808,661
+Jamshedpur,INDIA,03-02-2018,Foot Wear,North,Fashion,Home Delivery,Jharkhand,1312,4200,662
+Ludhiyana,INDIA,03-02-2018,Foot Wear,North,Fashion,Take Away,Punjab,902,1848,663
+Bubneshwar,INDIA,01-05-2018,Sport Wear,Central,Fashion,Home Delivery,Orissa,164,1344,664
+Udaipur,INDIA,01-05-2018,Ethnic Wear,North,Fashion,Take Away,Rajasthan,1886,5964,665
+Rewari,INDIA,22-08-2016,Ethnic Wear,North,Fashion,Take Away,Haryana,3444,7308,666
+Ludhiyana,INDIA,22-08-2016,Ethnic Wear,North,Fashion,Take Away,Punjab,5002,15036,667
+Noida,INDIA,23-03-2016,Sleep Wear,North,Fashion,Take Away,Uttar Pradesh,3198,20328,668
+Udaipur,INDIA,08-03-2016,Sport Wear,North,Fashion,Take Away,Rajasthan,36900,107940,669
+Tirupati,INDIA,17-05-2017,Western Wear,South,Fashion,Take Away,Andra Pradesh,492,1260,670
+Mangalore,INDIA,17-05-2017,Foot Wear,South,Fashion,Take Away,Karnataka,410,3612,671
+Noida,INDIA,21-02-2015,Foot Wear,North,Fashion,Take Away,Uttar Pradesh,656,2688,672
+Tirupati,INDIA,21-02-2015,Sleep Wear,South,Fashion,Take Away,Andra Pradesh,492,1764,673
+Chennai,INDIA,21-09-2015,Sleep Wear,South,Fashion,Home Delivery,Tamil Nadu,574,12768,674
+Kolkata,INDIA,05-06-2016,Ethnic Wear,North,Fashion,Take Away,West Bengal,3444,8232,675
+Tirupati,INDIA,25-08-2017,Sport Wear,South,Fashion,Take Away,Andra Pradesh,492,1848,676
+Bubneshwar,INDIA,25-08-2017,Western Wear,Central,Fashion,Home Delivery,Orissa,492,2352,677
+Jamshedpur,INDIA,25-08-2017,Ethnic Wear,North,Fashion,Home Delivery,Jharkhand,2296,13356,678
+Mangalore,INDIA,27-08-2017,Ethnic Wear,South,Fashion,Take Away,Karnataka,574,10332,679
+Chennai,INDIA,27-08-2017,Sleep Wear,South,Fashion,Take Away,Tamil Nadu,410,3696,680
+Vizak,INDIA,27-08-2017,Ethnic Wear,South,Fashion,Take Away,Telagana,11890,27720,681
+Rewari,INDIA,27-08-2017,Ethnic Wear,North,Fashion,Take Away,Haryana,902,5712,682
+Pune,INDIA,15-04-2017,Sport Wear,Central,Fashion,Home Delivery,Maharastra,10660,29484,683
+Pune,INDIA,12-11-2017,Ethnic Wear,Central,Fashion,Take Away,Maharastra,12710,29988,684
+Tirupati,INDIA,14-11-2016,Western Wear,South,Fashion,Take Away,Andra Pradesh,328,2352,685
+Agra,INDIA,24-01-2017,Sport Wear,North,Fashion,Take Away,Madhya Pradesh,1312,5628,686
+Rewari,INDIA,16-09-2015,Sleep Wear,North,Fashion,Take Away,Haryana,246,23604,687
+Chennai,INDIA,15-11-2016,Sleep Wear,South,Fashion,Take Away,Tamil Nadu,246,1848,688
+Rewari,INDIA,09-09-2017,Sport Wear,North,Fashion,Take Away,Haryana,3116,9240,689
+Chennai,INDIA,09-09-2017,Accessories,South,Fashion,Take Away,Tamil Nadu,29520,167832,690
+Pune,INDIA,13-08-2017,Ethnic Wear,Central,Fashion,Take Away,Maharastra,5248,20580,691
+Ludhiyana,INDIA,13-08-2017,Sport Wear,North,Fashion,Take Away,Punjab,5084,10416,692
+Bubneshwar,INDIA,16-11-2016,Sleep Wear,Central,Fashion,Take Away,Orissa,2050,5292,693
+Dibrugarh,INDIA,16-11-2016,Western Wear,North,Fashion,Take Away,Assam,2952,12516,694
+Udaipur,INDIA,20-10-2018,Western Wear,North,Fashion,Take Away,Rajasthan,2050,20664,695
+Pune,INDIA,20-10-2018,Sport Wear,Central,Fashion,Home Delivery,Maharastra,7216,33264,696
+Ludhiyana,INDIA,24-08-2015,Sport Wear,North,Fashion,Take Away,Punjab,164,1344,697
+Noida,INDIA,03-12-2018,Accessories,North,Fashion,Take Away,Uttar Pradesh,9594,19992,698
+Ludhiyana,INDIA,24-04-2018,Western Wear,North,Fashion,Take Away,Punjab,1230,4452,699
+Mangalore,INDIA,22-05-2016,Foot Wear,South,Fashion,Take Away,Karnataka,574,1260,700
+Bubneshwar,INDIA,23-02-2016,Sleep Wear,Central,Fashion,Take Away,Orissa,3198,8232,701
+Mangalore,INDIA,23-02-2016,Accessories,South,Fashion,Take Away,Karnataka,410,2520,702
+Mangalore,INDIA,18-08-2015,Western Wear,South,Fashion,Take Away,Karnataka,738,18480,703
+Bubneshwar,INDIA,18-08-2015,Foot Wear,Central,Fashion,Home Delivery,Orissa,5002,16380,704
+Kolkata,INDIA,11-08-2016,Western Wear,North,Fashion,Take Away,West Bengal,5904,18816,705
+Rewari,INDIA,03-03-2016,Sport Wear,North,Fashion,Home Delivery,Haryana,,176820,706
+Surat,INDIA,03-03-2016,Western Wear,North,Fashion,Take Away,Gujrat,7462,68460,707
+Tirupati,INDIA,08-08-2018,Ethnic Wear,South,Fashion,Home Delivery,Andra Pradesh,2050,4200,708
+Kolkata,INDIA,12-11-2018,Foot Wear,North,Fashion,Home Delivery,West Bengal,7298,106680,709
+Udaipur,INDIA,12-11-2018,Ethnic Wear,North,Fashion,Take Away,Rajasthan,,270564,710
+Vizak,INDIA,12-11-2018,Foot Wear,South,Fashion,Take Away,Telagana,82,1596,711
+Rewari,INDIA,12-11-2018,Western Wear,North,Fashion,Take Away,Haryana,3198,6636,712
+Pune,INDIA,12-11-2018,Sleep Wear,Central,Fashion,Take Away,Maharastra,,155064,713
+Rewari,INDIA,12-11-2018,Foot Wear,North,Fashion,Take Away,Haryana,574,3024,714
+Kolkata,INDIA,12-11-2018,Western Wear,North,Fashion,Take Away,West Bengal,8856,32340,715
+Rewari,INDIA,12-11-2018,Ethnic Wear,North,Fashion,Take Away,Haryana,2952,19152,716
+Tirupati,INDIA,12-11-2018,Sleep Wear,South,Fashion,Take Away,Andra Pradesh,3198,12096,717
+Noida,INDIA,12-11-2018,Sport Wear,North,Fashion,Take Away,Uttar Pradesh,82,12936,718
+Jamshedpur,INDIA,22-05-2016,Western Wear,North,Fashion,Take Away,Jharkhand,2624,6636,719
+Vizak,INDIA,19-08-2015,Sleep Wear,South,Fashion,Take Away,Telagana,15170,131796,720
+Bubneshwar,INDIA,01-06-2016,Western Wear,Central,Fashion,Take Away,Orissa,4674,160356,721
+Udaipur,INDIA,01-06-2016,Western Wear,North,Fashion,Take Away,Rajasthan,1476,3696,722
+Udaipur,INDIA,23-08-2016,Sleep Wear,North,Fashion,Take Away,Rajasthan,49118,76860,723
+Pune,INDIA,23-08-2016,Sleep Wear,Central,Fashion,Take Away,Maharastra,2214,9912,724
+Noida,INDIA,23-08-2016,Sport Wear,North,Fashion,Take Away,Uttar Pradesh,1230,58128,725
+Surat,INDIA,15-09-2015,Western Wear,North,Fashion,Take Away,Gujrat,656,1764,726
+Bubneshwar,INDIA,28-11-2017,Sleep Wear,Central,Fashion,Home Delivery,Orissa,164,420,727
+Ludhiyana,INDIA,24-09-2017,Ethnic Wear,North,Fashion,Take Away,Punjab,6642,7476,728
+Surat,INDIA,24-09-2017,Western Wear,North,Fashion,Take Away,Gujrat,82,4956,729
+Ludhiyana,INDIA,24-09-2017,Sleep Wear,North,Fashion,Take Away,Punjab,10824,22176,730
+Chennai,INDIA,24-09-2017,Sport Wear,South,Fashion,Take Away,Tamil Nadu,8692,16464,731
+Surat,INDIA,24-09-2017,Western Wear,North,Fashion,Take Away,Gujrat,5084,5796,732
+Vizak,INDIA,24-09-2017,Western Wear,South,Fashion,Take Away,Telagana,410,1680,733
+Pune,INDIA,17-06-2018,Sleep Wear,Central,Fashion,Take Away,Maharastra,1886,177660,734
+Kolkata,INDIA,17-06-2018,Western Wear,North,Fashion,Take Away,West Bengal,3444,12264,735
+Chennai,INDIA,17-06-2018,Western Wear,South,Fashion,Take Away,Tamil Nadu,1558,10164,736
+Agra,INDIA,29-12-2018,Western Wear,North,Fashion,Home Delivery,Madhya Pradesh,492,5376,737
+Kolkata,INDIA,26-12-2017,Western Wear,North,Fashion,Take Away,West Bengal,2624,5376,738
+Rewari,INDIA,17-05-2017,Ethnic Wear,North,Fashion,Take Away,Haryana,23944,25536,739
+Tirupati,INDIA,11-06-2018,Sport Wear,South,Fashion,Home Delivery,Andra Pradesh,984,2688,740
+Noida,INDIA,18-07-2016,Ethnic Wear,North,Fashion,Take Away,Uttar Pradesh,164,5040,741
+Pune,INDIA,18-07-2016,Ethnic Wear,Central,Fashion,Take Away,Maharastra,246,4200,742
+Tirupati,INDIA,18-07-2016,Western Wear,South,Fashion,Take Away,Andra Pradesh,3608,24612,743
+Pune,INDIA,10-12-2018,Western Wear,Central,Fashion,Take Away,Maharastra,3690,7476,744
+Bubneshwar,INDIA,10-12-2018,Accessories,Central,Fashion,Home Delivery,Orissa,1312,2772,745
+Tirupati,INDIA,10-12-2018,Foot Wear,South,Fashion,Home Delivery,Andra Pradesh,492,2352,746
+Pune,INDIA,10-12-2018,Sport Wear,Central,Fashion,Take Away,Maharastra,1312,19404,747
+Noida,INDIA,10-12-2018,Western Wear,North,Fashion,Take Away,Uttar Pradesh,4100,21252,748
+Noida,INDIA,06-08-2017,Sleep Wear,North,Fashion,Take Away,Uttar Pradesh,574,3696,749
+Ludhiyana,INDIA,24-12-2017,Ethnic Wear,North,Fashion,Home Delivery,Punjab,410,1176,750
+Ludhiyana,INDIA,26-08-2018,Ethnic Wear,North,Fashion,Home Delivery,Punjab,2624,12600,751
+Udaipur,INDIA,26-08-2018,Western Wear,North,Fashion,Take Away,Rajasthan,1640,13608,752
+Udaipur,INDIA,17-08-2016,Sleep Wear,North,Fashion,Take Away,Rajasthan,2214,5376,753
+Mangalore,INDIA,17-08-2016,Sport Wear,South,Fashion,Take Away,Karnataka,1722,6384,754
+Tirupati,INDIA,17-08-2016,Western Wear,South,Fashion,Home Delivery,Andra Pradesh,1558,7392,755
+Bubneshwar,INDIA,24-02-2018,Sleep Wear,Central,Fashion,Take Away,Orissa,492,1512,756
+Chennai,INDIA,24-02-2018,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,574,1428,757
+Pune,INDIA,24-02-2018,Foot Wear,Central,Fashion,Take Away,Maharastra,18532,39564,758
+Pune,INDIA,24-02-2018,Sleep Wear,Central,Fashion,Take Away,Maharastra,2706,6972,759
+Ludhiyana,INDIA,27-08-2015,Sleep Wear,North,Fashion,Take Away,Punjab,328,1428,760
+Ludhiyana,INDIA,11-12-2016,Ethnic Wear,North,Fashion,Take Away,Punjab,2460,4788,761
+Vizak,INDIA,11-12-2016,Foot Wear,South,Fashion,Take Away,Telagana,246,1008,762
+Agra,INDIA,11-12-2016,Western Wear,North,Fashion,Take Away,Madhya Pradesh,656,2352,763
+Udaipur,INDIA,11-12-2016,Ethnic Wear,North,Fashion,Take Away,Rajasthan,246,2940,764
+Vizak,INDIA,11-12-2016,Western Wear,South,Fashion,Take Away,Telagana,656,10500,765
+Mangalore,INDIA,20-04-2016,Sleep Wear,South,Fashion,Take Away,Karnataka,3280,10416,766
+Noida,INDIA,25-07-2017,Ethnic Wear,North,Fashion,Take Away,Uttar Pradesh,164,7896,767
+Tirupati,INDIA,25-07-2017,Sport Wear,South,Fashion,Take Away,Andra Pradesh,5412,38136,768
+Dibrugarh,INDIA,25-07-2017,Sleep Wear,North,Fashion,Take Away,Assam,574,24024,769
+Vizak,INDIA,25-07-2017,Ethnic Wear,South,Fashion,Take Away,Telagana,1476,22428,770
+Ludhiyana,INDIA,25-12-2018,Western Wear,North,Fashion,Take Away,Punjab,5248,15456,771
+Vizak,INDIA,08-08-2018,Ethnic Wear,South,Fashion,Take Away,Telagana,3198,8652,772
+Mangalore,INDIA,08-08-2018,Sleep Wear,South,Fashion,Take Away,Karnataka,492,12012,773
+Rewari,INDIA,08-08-2018,Sport Wear,North,Fashion,Home Delivery,Haryana,26732,152040,774
+Ludhiyana,INDIA,26-08-2015,Ethnic Wear,North,Fashion,Take Away,Punjab,164,6384,775
+Tirupati,INDIA,27-09-2017,Western Wear,South,Fashion,Take Away,Andra Pradesh,1558,4032,776
+Kolkata,INDIA,27-09-2017,Western Wear,North,Fashion,Take Away,West Bengal,5658,13272,777
+Vizak,INDIA,27-09-2017,Ethnic Wear,South,Fashion,Take Away,Telagana,3772,11760,778
+Kolkata,INDIA,27-09-2017,Sport Wear,North,Fashion,Take Away,West Bengal,9840,91644,779
+Agra,INDIA,22-07-2017,Western Wear,North,Fashion,Home Delivery,Madhya Pradesh,2460,7056,780
+Ludhiyana,INDIA,18-12-2016,Western Wear,North,Fashion,Take Away,Punjab,656,2352,781
+Noida,INDIA,02-12-2016,Western Wear,North,Fashion,Take Away,Uttar Pradesh,410,1092,782
+Bubneshwar,INDIA,02-12-2016,Western Wear,Central,Fashion,Take Away,Orissa,20828,58212,783
+Kolkata,INDIA,02-12-2016,Foot Wear,North,Fashion,Take Away,West Bengal,738,3192,784
+Ludhiyana,INDIA,25-09-2018,Sleep Wear,North,Fashion,Take Away,Punjab,1148,5292,793
+Udaipur,INDIA,30-10-2018,Western Wear,North,Fashion,Take Away,Rajasthan,574,3864,920
+Dibrugarh,INDIA,25-09-2018,Western Wear,North,Fashion,Take Away,Assam,984,3528,921
+Bubneshwar,INDIA,25-09-2018,Ethnic Wear,Central,Fashion,Take Away,Orissa,31734,75012,922
+Udaipur,INDIA,25-09-2018,Ethnic Wear,North,Fashion,Take Away,Rajasthan,7872,23100,923
+Coimbatore,INDIA,25-09-2018,Western Wear,South,Fashion,Take Away,Tamil Nadu,32144,80304,924
+Rewari,INDIA,28-05-2015,Accessories,North,Fashion,Take Away,Haryana,2460,11844,925
+Dibrugarh,INDIA,28-05-2015,Western Wear,North,Fashion,Take Away,Assam,32390,69468,926
+Mangalore,INDIA,28-05-2015,Accessories,South,Fashion,Home Delivery,Karnataka,3280,59892,927
+Dibrugarh,INDIA,28-05-2015,Western Wear,North,Fashion,Take Away,Assam,1148,3696,928
+Jamshedpur,INDIA,22-11-2016,Western Wear,North,Fashion,Take Away,Jharkhand,82,3612,1402
+Noida,INDIA,13-06-2018,Foot Wear,North,Fashion,Take Away,Uttar Pradesh,328,4536,1403
+Jamshedpur,INDIA,10-09-2015,Western Wear,North,Fashion,Take Away,Jharkhand,574,1428,1404
+Gurgaon,INDIA,26-07-2018,Western Wear,North,Fashion,Take Away,Haryana,738,23352,1405
+Guwahati,INDIA,26-07-2018,Foot Wear,North,Fashion,Take Away,Assam,1722,4620,1406
+Chennai,INDIA,26-07-2018,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,820,2100,1407
+Pune,INDIA,18-09-2018,Ethnic Wear,Central,Fashion,Home Delivery,Maharastra,410,2268,1408
+Ananthpur,INDIA,08-08-2018,Sleep Wear,South,Fashion,Home Delivery,Kerela,656,22512,1409
+Udaipur,INDIA,26-09-2018,Ethnic Wear,North,Fashion,Take Away,Rajasthan,4592,6216,1410
+Udaipur,INDIA,26-09-2018,Accessories,North,Fashion,Take Away,Rajasthan,738,756,1411
+Kolkata,INDIA,30-06-2018,Foot Wear,North,Fashion,Take Away,West Bengal,656,7224,1412
+Ananthpur,INDIA,30-06-2018,Sleep Wear,South,Fashion,Take Away,Kerela,574,6720,1413
+Ahmedabad,INDIA,30-06-2018,Western Wear,North,Fashion,Take Away,Mizoram,246,1428,1414
+Guwahati,INDIA,29-10-2018,Sport Wear,North,Fashion,Take Away,Assam,656,7476,1415
+Bangalore,INDIA,29-10-2018,Sleep Wear,South,Fashion,Take Away,Karnataka,1968,85344,1416
+Bubneshwar,INDIA,07-05-2017,Western Wear,Central,Fashion,Take Away,Orissa,164,3612,1417
+Bangalore,INDIA,07-05-2017,Accessories,South,Fashion,Take Away,Karnataka,656,3444,1418
+Ananthpur,INDIA,07-05-2017,Sport Wear,North,Fashion,Take Away,Daman And Diu,246,6720,1419
+Bubneshwar,INDIA,14-08-2017,Foot Wear,Central,Fashion,Take Away,Orissa,246,1848,1420
+Agra,INDIA,14-08-2017,Western Wear,North,Fashion,Take Away,Madhya Pradesh,410,2100,1421
+Noida,INDIA,02-02-2015,Sport Wear,North,Fashion,Home Delivery,Uttar Pradesh,4838,49056,1422
+Chennai,INDIA,02-02-2015,Western Wear,South,Fashion,Take Away,Tamil Nadu,0,7224,1423
+Bangalore,INDIA,02-02-2015,Foot Wear,South,Fashion,Take Away,Karnataka,656,1092,1424
+Gurgaon,INDIA,12-08-2018,Western Wear,North,Fashion,Take Away,Haryana,328,756,1425
+Ahmedabad,INDIA,12-08-2018,Sleep Wear,North,Fashion,Take Away,Mizoram,492,1932,1426
+Kolkata,INDIA,21-08-2017,Ethnic Wear,North,Fashion,Home Delivery,West Bengal,1722,4536,1427
+Hydrabad,INDIA,21-08-2017,Western Wear,South,Fashion,Home Delivery,Telagana,574,2184,1428
+Ludhiyana,INDIA,13-03-2017,Accessories,North,Fashion,Take Away,Punjab,1066,4788,1429
+Pune,INDIA,13-03-2017,Western Wear,Central,Fashion,Take Away,Maharastra,6724,20328,1430
+Noida,INDIA,30-12-2016,Sport Wear,North,Fashion,Take Away,Uttar Pradesh,5330,30660,1431
+Udaipur,INDIA,09-08-2017,Ethnic Wear,North,Fashion,Take Away,Rajasthan,492,4788,1432
+Agra,INDIA,01-08-2018,Western Wear,North,Fashion,Take Away,Madhya Pradesh,2214,11004,1433
+Kolkata,INDIA,05-08-2016,Accessories,North,Fashion,Take Away,West Bengal,246,12600,1434
+Jamshedpur,INDIA,05-08-2016,Western Wear,North,Fashion,Take Away,Jharkhand,164,1428,1435
+Bubneshwar,INDIA,05-08-2016,Accessories,Central,Fashion,Home Delivery,Orissa,492,6636,1436
+Ananthpur,INDIA,05-08-2016,Ethnic Wear,North,Fashion,Take Away,Daman And Diu,82,756,1437
+Dibrugarh,INDIA,05-08-2016,Foot Wear,North,Fashion,Take Away,Assam,8938,19068,1438
+Noida,INDIA,05-08-2016,Sleep Wear,North,Fashion,Home Delivery,Uttar Pradesh,3772,38808,1439
+Gurgaon,INDIA,20-03-2017,Ethnic Wear,North,Fashion,Take Away,Haryana,18942,97104,1440
+Bangalore,INDIA,20-03-2017,Western Wear,South,Fashion,Take Away,Karnataka,8610,17976,1441
+Bubneshwar,INDIA,02-06-2016,Western Wear,Central,Fashion,Take Away,Orissa,2952,6636,1442
+Hydrabad,INDIA,02-06-2016,Sleep Wear,South,Fashion,Take Away,Telagana,4182,26208,1443
+Jamshedpur,INDIA,20-01-2017,Western Wear,North,Fashion,Take Away,Jharkhand,2706,15456,1444
+Agra,INDIA,20-01-2017,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,328,1260,1445
+Gurgaon,INDIA,22-09-2015,Ethnic Wear,North,Fashion,Take Away,Haryana,1230,3024,1446
+Dibrugarh,INDIA,11-07-2018,Western Wear,North,Fashion,Take Away,Assam,246,2520,1447
+Pune,INDIA,11-07-2018,Western Wear,Central,Fashion,Take Away,Maharastra,10086,85932,1448
+Hydrabad,INDIA,11-07-2018,Ethnic Wear,South,Fashion,Take Away,Telagana,492,9072,1449
+Ananthpur,INDIA,17-08-2015,Ethnic Wear,North,Fashion,Take Away,Daman And Diu,984,4284,1450
+Kolkata,INDIA,31-05-2015,Sport Wear,North,Fashion,Home Delivery,West Bengal,,187236,1451
+Bubneshwar,INDIA,22-11-2017,Sport Wear,Central,Fashion,Take Away,Orissa,6314,17136,1452
+Kolkata,INDIA,09-08-2018,Western Wear,North,Fashion,Take Away,West Bengal,4264,10584,1453
+Hydrabad,INDIA,09-08-2018,Western Wear,South,Fashion,Take Away,Telagana,3854,21756,1454
+Ahmedabad,INDIA,02-06-2018,Ethnic Wear,North,Fashion,Take Away,Mizoram,738,1428,1455
+Agra,INDIA,02-06-2018,Accessories,North,Fashion,Take Away,Madhya Pradesh,2050,6300,1456
+Chennai,INDIA,21-08-2017,Western Wear,South,Fashion,Take Away,Tamil Nadu,1968,4116,1457
+Ludhiyana,INDIA,21-08-2017,Sleep Wear,North,Fashion,Take Away,Punjab,2624,45444,1458
+Bangalore,INDIA,21-08-2017,Ethnic Wear,South,Fashion,Take Away,Karnataka,820,5040,1459
+Hydrabad,INDIA,21-08-2017,Western Wear,South,Fashion,Take Away,Telagana,2460,9492,1460
+Udaipur,INDIA,21-08-2017,Ethnic Wear,North,Fashion,Home Delivery,Rajasthan,5412,19152,1461
+Dibrugarh,INDIA,17-05-2018,Ethnic Wear,North,Fashion,Take Away,Assam,4510,13608,1462
+Jamshedpur,INDIA,08-06-2015,Foot Wear,North,Fashion,Take Away,Jharkhand,574,12264,1463
+Udaipur,INDIA,16-08-2017,Ethnic Wear,North,Fashion,Home Delivery,Rajasthan,820,2184,1464
+Jamshedpur,INDIA,16-08-2017,Foot Wear,North,Fashion,Take Away,Jharkhand,2132,9240,1465
+Gurgaon,INDIA,16-08-2017,Ethnic Wear,North,Fashion,Take Away,Haryana,3034,7224,1466
+Pune,INDIA,12-06-2017,Sleep Wear,Central,Fashion,Take Away,Maharastra,1968,6048,1467
+Gurgaon,INDIA,12-06-2017,Accessories,North,Fashion,Take Away,Haryana,82,1680,1468
+Ludhiyana,INDIA,25-08-2016,Western Wear,North,Fashion,Take Away,Punjab,10496,15372,1469
+Pune,INDIA,25-08-2016,Western Wear,Central,Fashion,Home Delivery,Maharastra,3116,5292,1470
+Jamshedpur,INDIA,25-08-2016,Accessories,North,Fashion,Take Away,Jharkhand,2460,4872,1471
+Hydrabad,INDIA,25-08-2016,Sleep Wear,South,Fashion,Take Away,Telagana,2460,7476,1472
+Bangalore,INDIA,25-08-2016,Ethnic Wear,South,Fashion,Take Away,Karnataka,6396,7308,1473
+Udaipur,INDIA,21-03-2017,Western Wear,North,Fashion,Take Away,Rajasthan,82,2352,1474
+Ahmedabad,INDIA,01-12-2016,Accessories,North,Fashion,Take Away,Mizoram,984,4536,1475
+Ludhiyana,INDIA,01-12-2016,Foot Wear,North,Fashion,Take Away,Punjab,2214,4788,1476
+Dibrugarh,INDIA,01-12-2016,Western Wear,North,Fashion,Home Delivery,Assam,8610,29400,1477
+Ananthpur,INDIA,21-11-2018,Western Wear,North,Fashion,Take Away,Daman And Diu,1722,4200,1478
+Agra,INDIA,21-11-2018,Western Wear,North,Fashion,Take Away,Madhya Pradesh,3936,36372,1479
+Chennai,INDIA,03-11-2016,Foot Wear,South,Fashion,Home Delivery,Tamil Nadu,1558,6720,1480
+Dibrugarh,INDIA,26-11-2017,Sport Wear,North,Fashion,Take Away,Assam,2132,7224,1481
+Kolkata,INDIA,26-11-2017,Sleep Wear,North,Fashion,Take Away,West Bengal,1640,4368,1482
+Ananthpur,INDIA,25-07-2016,Ethnic Wear,Central,Fashion,Home Delivery,Goa,492,2772,1631
+Ananthpur,INDIA,30-04-2018,Western Wear,Central,Fashion,Home Delivery,Goa,1394,3696,1633
+Tirupati,INDIA,12-11-2018,Accessories,Central,Fashion,Home Delivery,Goa,3198,12096,1717
+Tirupati,INDIA,21-02-2015,Western Wear,Central,Fashion,Home Delivery,Goa,492,1764,1673
+Pune,INDIA,18-07-2016,Ethnic Wear,Central,Fashion,Home Delivery,Maharastra,246,4200,1742
+Pune,INDIA,15-04-2017,Foot Wear,Central,Fashion,Home Delivery,Maharastra,10660,29484,1683
+Pune,INDIA,12-11-2018,Sleep Wear,Central,Fashion,Home Delivery,Maharastra,,155064,1713
+Bubneshwar,INDIA,23-02-2016,Accessories,Central,Fashion,Home Delivery,Orissa,3198,8232,1701
+Bubneshwar,INDIA,28-11-2017,Ethnic Wear,Central,Fashion,Home Delivery,Orissa,164,420,1727
+Bubneshwar,INDIA,24-02-2018,Foot Wear,Central,Fashion,Home Delivery,Orissa,492,1512,1756
+Bubneshwar,INDIA,18-08-2015,Sleep Wear,Central,Fashion,Home Delivery,Orissa,5002,16380,1704
+Bubneshwar,INDIA,11-10-2017,Sport Wear,Central,Fashion,Home Delivery,Orissa,410,8568,1574
+Mumbai,INDIA,18-06-2018,Cheese,Central,Groceries,Home Delivery,Maharastra,1251,7560,225
+Mumbai,INDIA,14-08-2018,Detergents,Central,Groceries,Home Delivery,Maharastra,1313,12600,66
+Pune,INDIA,31-03-2018,Detergents,Central,Groceries,Home Delivery,Maharastra,2460,32088,1301
+Pune,INDIA,06-11-2017,Fish,Central,Groceries,Home Delivery,Maharastra,5166,14028,1315
+Pune,INDIA,21-03-2018,Milk,Central,Groceries,Home Delivery,Maharastra,0,16716,1965
+Pune,INDIA,28-10-2016,Vegetables,Central,Groceries,Home Delivery,Maharastra,51,1848,334
+Pune,INDIA,18-10-2017,Yogurt,Central,Groceries,Home Delivery,Maharastra,738,7224,1915
+Bubneshwar,INDIA,29-03-2018,Eggs,Central,Groceries,Home Delivery,Orissa,984,2856,1245
+Bubneshwar,INDIA,05-08-2017,Ketchups,Central,Groceries,Home Delivery,Orissa,738,924,1302
+Bubneshwar,INDIA,05-08-2017,Meat,Central,Groceries,Home Delivery,Orissa,67,924,302
+Bubneshwar,INDIA,14-06-2016,Vegetables,Central,Groceries,Home Delivery,Orissa,3608,41328,1894
+Bubneshwar,INDIA,07-08-2016,Yogurt,Central,Groceries,Home Delivery,Orissa,82,2436,1844
+Dibrugarh,INDIA,21-04-2016,Western Wear,North,Fashion,Home Delivery,Assam,3690,16968,1510
+Gurgaon,INDIA,19-02-2017,Western Wear,North,Fashion,Home Delivery,Haryana,8118,32676,1610
+Rewari,INDIA,22-08-2016,Sleep Wear,North,Fashion,Home Delivery,Haryana,3444,7308,1666
+Jamshedpur,INDIA,26-12-2016,Foot Wear,North,Fashion,Home Delivery,Jharkhand,2706,10920,1500
+Agra,INDIA,18-01-2016,Foot Wear,North,Fashion,Home Delivery,Madhya Pradesh,5904,14364,1543
+Agra,INDIA,24-01-2017,Sport Wear,North,Fashion,Home Delivery,Madhya Pradesh,1312,5628,1686
+Ahmedabad,INDIA,29-06-2015,Ethnic Wear,North,Fashion,Home Delivery,Mizoram,1558,3696,1503
+Surat,INDIA,03-03-2016,Sport Wear,North,Fashion,Home Delivery,Mizoram,7462,68460,1707
+Surat,INDIA,24-09-2017,Western Wear,North,Fashion,Home Delivery,Mizoram,5084,5796,1732
+Ludhiyana,INDIA,07-11-2016,Accessories,North,Fashion,Home Delivery,Punjab,10168,27300,1562
+Ludhiyana,INDIA,25-09-2018,Accessories,North,Fashion,Home Delivery,Punjab,1148,5292,1793
+Ludhiyana,INDIA,26-08-2015,Ethnic Wear,North,Fashion,Home Delivery,Punjab,164,6384,1775
+Ludhiyana,INDIA,26-08-2018,Sleep Wear,North,Fashion,Home Delivery,Punjab,2624,12600,1751
+Ludhiyana,INDIA,25-12-2018,Sleep Wear,North,Fashion,Home Delivery,Punjab,5248,15456,1771
+Ludhiyana,INDIA,11-01-2016,Sport Wear,North,Fashion,Home Delivery,Punjab,164,6636,1652
+Ludhiyana,INDIA,18-12-2016,Western Wear,North,Fashion,Home Delivery,Punjab,656,2352,1781
+Ludhiyana,INDIA,13-08-2017,Western Wear,North,Fashion,Home Delivery,Punjab,5084,10416,1692
+Ludhiyana,INDIA,06-08-2018,Western Wear,North,Fashion,Home Delivery,Punjab,246,4956,1515
+Udaipur,INDIA,25-02-2018,Accessories,North,Fashion,Home Delivery,Rajasthan,7134,56448,1639
+Udaipur,INDIA,01-06-2016,Sleep Wear,North,Fashion,Home Delivery,Rajasthan,1476,3696,1722
+Udaipur,INDIA,26-08-2018,Sport Wear,North,Fashion,Home Delivery,Rajasthan,1640,13608,1752
+Udaipur,INDIA,30-06-2016,Western Wear,North,Fashion,Home Delivery,Rajasthan,246,1344,1564
+Noida,INDIA,24-03-2016,Ethnic Wear,North,Fashion,Home Delivery,Uttar Pradesh,410,2688,1490
+Noida,INDIA,21-05-2017,Ethnic Wear,North,Fashion,Home Delivery,Uttar Pradesh,1804,4116,1640
+Noida,INDIA,12-11-2018,Foot Wear,North,Fashion,Home Delivery,Uttar Pradesh,82,12936,1718
+Noida,INDIA,06-08-2017,Western Wear,North,Fashion,Home Delivery,Uttar Pradesh,574,3696,1749
+Kolkata,INDIA,02-12-2016,Ethnic Wear,North,Fashion,Home Delivery,West Bengal,738,3192,1784
+Kolkata,INDIA,12-11-2018,Ethnic Wear,North,Fashion,Home Delivery,West Bengal,8856,32340,1715
+Kolkata,INDIA,27-09-2017,Sport Wear,North,Fashion,Home Delivery,West Bengal,5658,13272,1777
+Kolkata,INDIA,08-08-2017,Western Wear,North,Fashion,Home Delivery,West Bengal,2050,37128,1655
+Kolkata,INDIA,27-09-2017,Western Wear,North,Fashion,Home Delivery,West Bengal,9840,91644,1779
+Tirupati,INDIA,24-08-2016,Bread,North,Groceries,Home Delivery,Arunachal Pradesh,164,6888,1896
+Tirupati,INDIA,30-06-2018,Ketchups,North,Groceries,Home Delivery,Arunachal Pradesh,6478,39060,1911
+Tirupati,INDIA,02-09-2015,Mutton,North,Groceries,Home Delivery,Arunachal Pradesh,1312,3108,1805
+Dibrugarh,INDIA,16-11-2016,Beverages,North,Groceries,Home Delivery,Assam,8938,130368,1986
+Dibrugarh,INDIA,16-11-2016,Mutton,North,Groceries,Home Delivery,Assam,8938,130368,986
+Dibrugarh,INDIA,27-07-2015,Vegetables,North,Groceries,Home Delivery,Assam,574,1428,1826
+Guwahati,INDIA,04-01-2017,Beverages,North,Groceries,Home Delivery,Assam,16892,51912,1159
+Guwahati,INDIA,19-01-2016,Cheese,North,Groceries,Home Delivery,Assam,1183,3612,104
+Guwahati,INDIA,27-03-2018,Eggs,North,Groceries,Home Delivery,Assam,1230,3024,1322
+Guwahati,INDIA,19-05-2015,Soft-drink,North,Groceries,Home Delivery,Assam,8692,88956,1078
+Guwahati,INDIA,09-12-2015,Soft-drink,North,Groceries,Home Delivery,Assam,1558,3864,1057
+Guwahati,INDIA,24-12-2017,Vegetables,North,Groceries,Home Delivery,Assam,0,29904,1370
+Guwahati,INDIA,03-12-2018,Vegetables,North,Groceries,Home Delivery,Assam,1804,8568,1286
+Guwahati,INDIA,19-01-2016,Yogurt,North,Groceries,Home Delivery,Assam,1640,3612,1104
+Korba,INDIA,29-08-2017,Beverages,North,Groceries,Home Delivery,Bihar,492,1260,1063
+Korba,INDIA,22-12-2015,Eggs,North,Groceries,Home Delivery,Bihar,738,4284,1068
+Korba,INDIA,07-11-2018,Vegetables,North,Groceries,Home Delivery,Bihar,1312,3948,1053
+Surat,INDIA,27-08-2015,Detergents,North,Groceries,Home Delivery,Bihar,2378,7056,1047
+Korba,INDIA,06-10-2018,Milk,North,Groceries,Home Delivery,Chattisghar,1269,4368,98
+Ananthpur,INDIA,11-09-2018,Eggs,North,Groceries,Home Delivery,Delhi,3608,28224,1031
+Ananthpur,INDIA,01-09-2015,Ice- creams,North,Groceries,Home Delivery,Delhi,11562,31416,1142
+Ahmedabad,INDIA,05-08-2017,Fruits,North,Groceries,Home Delivery,Gujrat,1494,3360,303
+Ahmedabad,INDIA,29-05-2018,Ketchups,North,Groceries,Home Delivery,Gujrat,3116,7140,936
+Surat,INDIA,27-09-2017,Fish,North,Groceries,Home Delivery,Gujrat,1371,3024,107
+Gurgaon,INDIA,31-03-2018,Eggs,North,Groceries,Home Delivery,Haryana,1062,6468,299
+Gurgaon,INDIA,31-05-2017,Fruits,North,Groceries,Home Delivery,Haryana,738,3108,1038
+Gurgaon,INDIA,12-08-2017,Fruits,North,Groceries,Home Delivery,Haryana,1149,23520,25
+Gurgaon,INDIA,31-05-2017,Ice- creams,North,Groceries,Home Delivery,Haryana,1076,3108,38
+Gurgaon,INDIA,24-02-2015,Milk,North,Groceries,Home Delivery,Haryana,1219,25956,130
+Gurgaon,INDIA,29-08-2017,Milk,North,Groceries,Home Delivery,Haryana,48,1764,62
+Gurgaon,INDIA,13-03-2017,Soft-drink,North,Groceries,Home Delivery,Haryana,3854,21756,1366
+Gurgaon,INDIA,25-09-2016,Vegetables,North,Groceries,Home Delivery,Haryana,1065,11508,314
+Rewari,INDIA,25-08-2018,Vegetables,North,Groceries,Home Delivery,Haryana,410,840,811
+Jamshedpur,INDIA,29-12-2018,Meat,North,Groceries,Home Delivery,Jharkhand,1148,2604,943
+Jamshedpur,INDIA,07-08-2016,Milk,North,Groceries,Home Delivery,Jharkhand,984,8064,843
+Jamshedpur,INDIA,18-12-2018,Vegetables,North,Groceries,Home Delivery,Jharkhand,1200,3612,356
+Jamshedpur,INDIA,29-12-2018,Yogurt,North,Groceries,Home Delivery,Jharkhand,1148,2604,1943
+Ranchi,INDIA,06-12-2016,Meat,North,Groceries,Home Delivery,Jharkhand,1490,12348,328
+Ranchi,INDIA,22-11-2015,Vegetables,North,Groceries,Home Delivery,Jharkhand,1017,7896,171
+Ranchi,INDIA,18-03-2016,Vegetables,North,Groceries,Home Delivery,Jharkhand,1476,4368,1294
+Ranchi,INDIA,07-02-2018,Vegetables,North,Groceries,Home Delivery,Jharkhand,6068,25788,1005
+Agra,INDIA,21-11-2018,Beverages,North,Groceries,Home Delivery,Madhya Pradesh,0,9408,1832
+Agra,INDIA,28-09-2015,Bread,North,Groceries,Home Delivery,Madhya Pradesh,13940,158928,1044
+Agra,INDIA,24-02-2015,Meat,North,Groceries,Home Delivery,Madhya Pradesh,4756,44100,1132
+Agra,INDIA,02-09-2015,Meat,North,Groceries,Home Delivery,Madhya Pradesh,492,8484,804
+Agra,INDIA,25-08-2016,Milk,North,Groceries,Home Delivery,Madhya Pradesh,2460,7980,889
+Agra,INDIA,17-07-2017,Milk,North,Groceries,Home Delivery,Madhya Pradesh,1326,16044,58
+Agra,INDIA,20-06-2016,Vegetables,North,Groceries,Home Delivery,Madhya Pradesh,,182028,1014
+Surat,INDIA,11-10-2016,Soft-drink,North,Groceries,Home Delivery,Mizoram,9020,56112,1863
+Bilaspur,INDIA,09-06-2015,Meat,North,Groceries,Home Delivery,Nagaland,492,2100,1165
+Amritsar,INDIA,02-08-2016,Butter,North,Groceries,Home Delivery,Punjab,2540,20666,1008
+Amritsar,INDIA,03-11-2018,Detergents,North,Groceries,Home Delivery,Punjab,1469,15365,20
+Amritsar,INDIA,28-09-2015,Ice- creams,North,Groceries,Home Delivery,Punjab,1383,10248,45
+Amritsar,INDIA,09-06-2018,Vegetables,North,Groceries,Home Delivery,Punjab,1177,6216,124
+Ludhiyana,INDIA,03-12-2018,Detergents,North,Groceries,Home Delivery,Punjab,1378,2100,284
+Ludhiyana,INDIA,17-02-2018,Ketchups,North,Groceries,Home Delivery,Punjab,656,7224,997
+Jaipur,INDIA,02-04-2018,Butter,North,Groceries,Home Delivery,Rajasthan,492,6048,1051
+Jaipur,INDIA,01-08-2017,Eggs,North,Groceries,Home Delivery,Rajasthan,36982,84252,1091
+Jaipur,INDIA,31-01-2016,Meat,North,Groceries,Home Delivery,Rajasthan,1017,2772,240
+Jaipur,INDIA,04-12-2015,Soft-drink,North,Groceries,Home Delivery,Rajasthan,1435,4452,116
+Udaipur,INDIA,24-11-2016,Detergents,North,Groceries,Home Delivery,Rajasthan,10250,49476,1318
+Udaipur,INDIA,26-01-2016,Eggs,North,Groceries,Home Delivery,Rajasthan,984,11088,1902
+Udaipur,INDIA,13-03-2017,Meat,North,Groceries,Home Delivery,Rajasthan,1886,7308,1362
+Udaipur,INDIA,24-10-2018,Mutton,North,Groceries,Home Delivery,Rajasthan,1476,5964,1360
+Udaipur,INDIA,25-08-2016,Soft-drink,North,Groceries,Home Delivery,Rajasthan,902,3108,1801
+Udaipur,INDIA,28-12-2016,Soft-drink,North,Groceries,Home Delivery,Rajasthan,328,9996,1996
+Udaipur,INDIA,13-03-2017,Vegetables,North,Groceries,Home Delivery,Rajasthan,1073,7308,362
+Lucknow,INDIA,14-08-2017,Bread,North,Groceries,Home Delivery,Uttar Pradesh,1074,5292,33
+Lucknow,INDIA,14-06-2017,Detergents,North,Groceries,Home Delivery,Uttar Pradesh,,174636,1156
+Lucknow,INDIA,25-04-2018,Eggs,North,Groceries,Home Delivery,Uttar Pradesh,7626,33852,1073
+Lucknow,INDIA,13-03-2018,Ketchups,North,Groceries,Home Delivery,Uttar Pradesh,23944,66192,1086
+Lucknow,INDIA,01-09-2016,Vegetables,North,Groceries,Home Delivery,Uttar Pradesh,20746,53088,1185
+Noida,INDIA,28-10-2016,Alluminium Foil,North,Groceries,Home Delivery,Uttar Pradesh,7216,20580,1332
+Noida,INDIA,15-09-2018,Detergents,North,Groceries,Home Delivery,Uttar Pradesh,2214,51912,1339
+Noida,INDIA,04-06-2017,Fruits,North,Groceries,Home Delivery,Uttar Pradesh,7298,8484,935
+Noida,INDIA,18-07-2016,Milk,North,Groceries,Home Delivery,Uttar Pradesh,,201852,1354
+Noida,INDIA,28-10-2016,Milk,North,Groceries,Home Delivery,Uttar Pradesh,1376,20580,332
+Ahmedabad,INDIA,02-09-2017,Milk,North,Groceries,Home Delivery,Uttrakhand,9266,49896,1881
+Kolkata,INDIA,13-03-2018,Beverages,North,Groceries,Home Delivery,West Bengal,5986,26712,1088
+Kolkata,INDIA,04-12-2015,Detergents,North,Groceries,Home Delivery,West Bengal,10578,31836,1115
+Kolkata,INDIA,31-08-2016,Detergents,North,Groceries,Home Delivery,West Bengal,42312,234696,1083
+Kolkata,INDIA,13-03-2018,Detergents,North,Groceries,Home Delivery,West Bengal,2542,42924,1085
+Kolkata,INDIA,28-04-2016,Eggs,North,Groceries,Home Delivery,West Bengal,2788,6972,813
+Kolkata,INDIA,18-12-2018,Eggs,North,Groceries,Home Delivery,West Bengal,328,21084,1355
+Kolkata,INDIA,13-05-2015,Fruits,North,Groceries,Home Delivery,West Bengal,574,2100,823
+Kolkata,INDIA,27-06-2018,Ketchups,North,Groceries,Home Delivery,West Bengal,1156,2856,135
+Kolkata,INDIA,26-11-2018,Ketchups,North,Groceries,Home Delivery,West Bengal,2788,19068,1052
+Kolkata,INDIA,13-03-2018,Milk,North,Groceries,Home Delivery,West Bengal,1292,42924,85
+Kolkata,INDIA,16-12-2018,Soft-drink,North,Groceries,Home Delivery,West Bengal,9020,21924,1194
+Kolkata,INDIA,03-03-2016,Vegetables,North,Groceries,Home Delivery,West Bengal,2214,8232,947
+Kolkata,INDIA,31-08-2016,Vegetables,North,Groceries,Home Delivery,West Bengal,10000,190000,83
+Kolkata,INDIA,14-11-2016,Vegetables,North,Groceries,Home Delivery,West Bengal,574,2100,1101
+Kolkata,INDIA,16-12-2018,Vegetables,North,Groceries,Home Delivery,West Bengal,1354,10836,193
+Chennai,INDIA,30-06-2016,Ethnic Wear,South,Fashion,Home Delivery,Tamil Nadu,738,4452,1567
+Chennai,INDIA,16-07-2018,Western Wear,South,Fashion,Home Delivery,Tamil Nadu,1312,5460,1519
+Vizak,INDIA,02-12-2016,Accessories,South,Fashion,Home Delivery,Telagana,410,43008,1624
+Vizak,INDIA,16-04-2017,Ethnic Wear,South,Fashion,Home Delivery,Telagana,16400,76440,1536
+Vizak,INDIA,08-08-2018,Ethnic Wear,South,Fashion,Home Delivery,Telagana,3198,8652,1772
+Vizak,INDIA,12-11-2018,Ethnic Wear,South,Fashion,Home Delivery,Telagana,82,1596,1711
+Vizak,INDIA,31-03-2017,Foot Wear,South,Fashion,Home Delivery,Telagana,0,29904,1649
+Vizak,INDIA,04-09-2018,Foot Wear,South,Fashion,Home Delivery,Telagana,1476,4368,1563
+Ananthpur,INDIA,10-09-2018,Batteries,South,Groceries,Home Delivery,Andra Pradesh,1030,4620,349
+Ananthpur,INDIA,22-12-2015,Butter,South,Groceries,Home Delivery,Andra Pradesh,1244,8988,69
+Ananthpur,INDIA,13-04-2018,Detergents,South,Groceries,Home Delivery,Andra Pradesh,1415,2520,347
+Ananthpur,INDIA,24-11-2016,Milk,South,Groceries,Home Delivery,Andra Pradesh,1492,24108,321
+Ananthpur,INDIA,18-12-2018,Vegetables,South,Groceries,Home Delivery,Andra Pradesh,2806,53088,357
+Bangalore,INDIA,07-02-2018,Batteries,South,Groceries,Home Delivery,Karnataka,0,32676,1002
+Bangalore,INDIA,07-02-2018,Beverages,South,Groceries,Home Delivery,Karnataka,1485,32676,2
+Bangalore,INDIA,15-09-2018,Butter,South,Groceries,Home Delivery,Karnataka,3272,94080,336
+Bangalore,INDIA,19-05-2015,Milk,South,Groceries,Home Delivery,Karnataka,1080,7308,77
+Bangalore,INDIA,20-12-2017,Vegetables,South,Groceries,Home Delivery,Karnataka,4182,48384,1134
+Bangalore,INDIA,18-06-2018,Vegetables,South,Groceries,Home Delivery,Karnataka,1134,22512,22
+Bangalore,INDIA,11-09-2018,Vegetables,South,Groceries,Home Delivery,Karnataka,2706,16212,1030
+Mangalore,INDIA,16-11-2016,Fruits,South,Groceries,Home Delivery,Karnataka,15662,61740,1985
+Ananthpur,INDIA,06-11-2017,Meat,South,Groceries,Home Delivery,Kerela,4838,10752,1316
+Ananthpur,INDIA,13-03-2017,Milk,South,Groceries,Home Delivery,Kerela,820,5292,1365
+Ananthpur,INDIA,10-09-2018,Milk,South,Groceries,Home Delivery,Kerela,2132,4620,1349
+Chennai,INDIA,16-06-2016,Alluminium Foil,South,Groceries,Home Delivery,Tamil Nadu,492,4704,1799
+Chennai,INDIA,23-12-2018,Cheese,South,Groceries,Home Delivery,Tamil Nadu,13530,36792,1157
+Chennai,INDIA,14-06-2017,Eggs,South,Groceries,Home Delivery,Tamil Nadu,1438,7056,152
+Chennai,INDIA,16-04-2018,Eggs,South,Groceries,Home Delivery,Tamil Nadu,1258,8988,50
+Chennai,INDIA,10-09-2018,Fruits,South,Groceries,Home Delivery,Tamil Nadu,1066,2520,1350
+Chennai,INDIA,07-02-2018,Soft-drink,South,Groceries,Home Delivery,Tamil Nadu,1722,34776,1007
+Chennai,INDIA,18-11-2016,Vegetables,South,Groceries,Home Delivery,Tamil Nadu,1437,28812,229
+Coimbatore,INDIA,30-06-2018,Ice- creams,South,Groceries,Home Delivery,Tamil Nadu,246,2772,1912
+Hydrabad,INDIA,14-06-2015,Detergents,South,Groceries,Home Delivery,Telagana,4182,22000,1139
+Hydrabad,INDIA,10-07-2018,Detergents,South,Groceries,Home Delivery,Telagana,1486,7224,79
+Hydrabad,INDIA,23-04-2016,Eggs,South,Groceries,Home Delivery,Telagana,1300,8400,323
+Hydrabad,INDIA,18-10-2015,Ice- creams,South,Groceries,Home Delivery,Telagana,1427,3276,108
+Hydrabad,INDIA,23-04-2016,Milk,South,Groceries,Home Delivery,Telagana,1067,8484,325
+Hydrabad,INDIA,14-08-2018,Milk,South,Groceries,Home Delivery,Telagana,29,1176,21
+Hydrabad,INDIA,18-11-2015,Vegetables,South,Groceries,Home Delivery,Telagana,574,2436,1327
+Hydrabad,INDIA,10-07-2018,Vegetables,South,Groceries,Home Delivery,Telagana,1558,7224,1079
+Vizak,INDIA,13-01-2018,Eggs,South,Groceries,Home Delivery,Telagana,9020,27216,987
+Vizak,INDIA,14-11-2017,Fruits,South,Groceries,Home Delivery,Telagana,7626,23772,891
+Vizak,INDIA,26-12-2018,Meat,South,Groceries,Home Delivery,Telagana,15826,27048,1874
+Vizak,INDIA,04-03-2015,Milk,South,Groceries,Home Delivery,Telagana,902,3528,879
+Vizak,INDIA,13-01-2018,Milk,South,Groceries,Home Delivery,Telagana,9020,27216,1987
+Vizak,INDIA,26-12-2018,Vegetables,South,Groceries,Home Delivery,Telagana,15826,27048,874
+Ananthpur,INDIA,25-07-2016,Accessories,Central,Fashion,Take Away,Goa,3034,14028,1627
+Ananthpur,INDIA,18-08-2016,Ethnic Wear,Central,Fashion,Take Away,Goa,5084,16884,1585
+Ananthpur,INDIA,09-06-2018,Ethnic Wear,Central,Fashion,Take Away,Goa,1886,5124,1545
+Ananthpur,INDIA,30-04-2018,Sleep Wear,Central,Fashion,Take Away,Goa,1230,2268,1634
+Ananthpur,INDIA,18-08-2018,Sleep Wear,Central,Fashion,Take Away,Goa,10004,20496,1589
+Ananthpur,INDIA,12-07-2017,Western Wear,Central,Fashion,Take Away,Goa,3034,11172,1558
+Ananthpur,INDIA,18-08-2018,Western Wear,Central,Fashion,Take Away,Goa,1394,15624,1588
+Tirupati,INDIA,17-08-2016,Ethnic Wear,Central,Fashion,Take Away,Goa,1558,7392,1755
+Tirupati,INDIA,14-11-2016,Foot Wear,Central,Fashion,Take Away,Goa,328,2352,1685
+Tirupati,INDIA,25-07-2017,Sleep Wear,Central,Fashion,Take Away,Goa,5412,38136,1768
+Tirupati,INDIA,11-06-2018,Sleep Wear,Central,Fashion,Take Away,Goa,984,2688,1740
+Tirupati,INDIA,18-07-2016,Sport Wear,Central,Fashion,Take Away,Goa,3608,24612,1743
+Tirupati,INDIA,17-05-2017,Western Wear,Central,Fashion,Take Away,Goa,492,1260,1670
+Tirupati,INDIA,08-08-2017,Western Wear,Central,Fashion,Take Away,Goa,12874,28056,1653
+Tirupati,INDIA,25-08-2017,Western Wear,Central,Fashion,Take Away,Goa,492,1848,1676
+Tirupati,INDIA,08-08-2018,Western Wear,Central,Fashion,Take Away,Goa,2050,4200,1708
+Tirupati,INDIA,10-12-2018,Western Wear,Central,Fashion,Take Away,Goa,492,2352,1746
+Pune,INDIA,10-01-2016,Accessories,Central,Fashion,Take Away,Maharastra,3280,14280,1598
+Pune,INDIA,17-06-2018,Accessories,Central,Fashion,Take Away,Maharastra,1886,177660,1734
+Pune,INDIA,11-09-2018,Accessories,Central,Fashion,Take Away,Maharastra,2296,4788,1539
+Pune,INDIA,20-10-2018,Accessories,Central,Fashion,Take Away,Maharastra,7216,33264,1696
+Pune,INDIA,21-12-2016,Ethnic Wear,Central,Fashion,Take Away,Maharastra,10906,124152,1645
+Pune,INDIA,12-07-2017,Ethnic Wear,Central,Fashion,Take Away,Maharastra,5986,40992,1553
+Pune,INDIA,10-12-2018,Ethnic Wear,Central,Fashion,Take Away,Maharastra,1312,19404,1747
+Pune,INDIA,10-01-2016,Foot Wear,Central,Fashion,Take Away,Maharastra,1476,5040,1596
+Pune,INDIA,24-07-2016,Foot Wear,Central,Fashion,Take Away,Maharastra,22550,34608,1520
+Pune,INDIA,16-12-2017,Foot Wear,Central,Fashion,Take Away,Maharastra,902,4536,1525
+Pune,INDIA,30-03-2016,Sleep Wear,Central,Fashion,Take Away,Maharastra,4510,41496,1542
+Pune,INDIA,23-08-2016,Sleep Wear,Central,Fashion,Take Away,Maharastra,2214,9912,1724
+Pune,INDIA,11-10-2016,Sleep Wear,Central,Fashion,Take Away,Maharastra,2624,7896,1514
+Pune,INDIA,18-06-2018,Sleep Wear,Central,Fashion,Take Away,Maharastra,0,10500,1506
+Pune,INDIA,23-02-2016,Sport Wear,Central,Fashion,Take Away,Maharastra,2624,12348,1611
+Pune,INDIA,08-08-2017,Sport Wear,Central,Fashion,Take Away,Maharastra,164,8736,1654
+Pune,INDIA,13-08-2017,Sport Wear,Central,Fashion,Take Away,Maharastra,5248,20580,1691
+Pune,INDIA,24-02-2018,Sport Wear,Central,Fashion,Take Away,Maharastra,2706,6972,1759
+Pune,INDIA,10-01-2016,Western Wear,Central,Fashion,Take Away,Maharastra,1640,3696,1595
+Pune,INDIA,02-07-2016,Western Wear,Central,Fashion,Take Away,Maharastra,2460,13272,1660
+Pune,INDIA,12-11-2017,Western Wear,Central,Fashion,Take Away,Maharastra,12710,29988,1684
+Pune,INDIA,26-11-2017,Western Wear,Central,Fashion,Take Away,Maharastra,82,756,1483
+Pune,INDIA,24-02-2018,Western Wear,Central,Fashion,Take Away,Maharastra,18532,39564,1758
+Pune,INDIA,30-04-2018,Western Wear,Central,Fashion,Take Away,Maharastra,10168,12012,1635
+Pune,INDIA,10-12-2018,Western Wear,Central,Fashion,Take Away,Maharastra,3690,7476,1744
+Bubneshwar,INDIA,06-03-2016,Ethnic Wear,Central,Fashion,Take Away,Orissa,574,9996,1572
+Bubneshwar,INDIA,01-06-2016,Ethnic Wear,Central,Fashion,Take Away,Orissa,4674,160356,1721
+Bubneshwar,INDIA,02-12-2016,Ethnic Wear,Central,Fashion,Take Away,Orissa,20828,58212,1783
+Bubneshwar,INDIA,12-10-2017,Sleep Wear,Central,Fashion,Take Away,Orissa,902,1512,1644
+Bubneshwar,INDIA,25-09-2018,Sleep Wear,Central,Fashion,Take Away,Orissa,31734,75012,1922
+Bubneshwar,INDIA,13-09-2015,Sport Wear,Central,Fashion,Take Away,Orissa,10578,65268,1492
+Bubneshwar,INDIA,16-11-2016,Sport Wear,Central,Fashion,Take Away,Orissa,2050,5292,1693
+Bubneshwar,INDIA,25-08-2017,Sport Wear,Central,Fashion,Take Away,Orissa,492,2352,1677
+Bubneshwar,INDIA,11-10-2017,Sport Wear,Central,Fashion,Take Away,Orissa,15908,33264,1575
+Bubneshwar,INDIA,10-12-2018,Sport Wear,Central,Fashion,Take Away,Orissa,1312,2772,1745
+Bubneshwar,INDIA,29-06-2015,Western Wear,Central,Fashion,Take Away,Orissa,738,1596,1502
+Bubneshwar,INDIA,07-04-2016,Western Wear,Central,Fashion,Take Away,Orissa,574,2688,1651
+Bubneshwar,INDIA,11-04-2016,Western Wear,Central,Fashion,Take Away,Orissa,820,2016,1584
+Bubneshwar,INDIA,30-04-2018,Western Wear,Central,Fashion,Take Away,Orissa,164,3780,1632
+Bubneshwar,INDIA,01-05-2018,Western Wear,Central,Fashion,Take Away,Orissa,164,1344,1664
+Bubneshwar,INDIA,18-06-2018,Western Wear,Central,Fashion,Take Away,Orissa,0,1428,1504
+Bubneshwar,INDIA,06-12-2018,Western Wear,Central,Fashion,Take Away,Orissa,6068,6216,1612
+Mumbai,INDIA,07-02-2018,Beverages,Central,Groceries,Take Away,Maharastra,1390,2940,3
+Mumbai,INDIA,30-05-2017,Bread,Central,Groceries,Take Away,Maharastra,410,1680,1103
+Mumbai,INDIA,02-05-2018,Cheese,Central,Groceries,Take Away,Maharastra,492,3108,1023
+Mumbai,INDIA,20-06-2016,Detergents,Central,Groceries,Take Away,Maharastra,984,11592,1015
+Mumbai,INDIA,06-10-2018,Detergents,Central,Groceries,Take Away,Maharastra,3409,67116,93
+Mumbai,INDIA,30-05-2017,Fruits,Central,Groceries,Take Away,Maharastra,77,1680,103
+Mumbai,INDIA,10-01-2018,Ice- creams,Central,Groceries,Take Away,Maharastra,2214,6384,1040
+Mumbai,INDIA,07-11-2018,Ketchups,Central,Groceries,Take Away,Maharastra,1049,2856,54
+Mumbai,INDIA,14-06-2015,Meat,Central,Groceries,Take Away,Maharastra,1062,4032,138
+Mumbai,INDIA,14-06-2015,Milk,Central,Groceries,Take Away,Maharastra,1476,4032,1138
+Mumbai,INDIA,20-06-2016,Milk,Central,Groceries,Take Away,Maharastra,1275,11592,15
+Mumbai,INDIA,02-04-2017,Milk,Central,Groceries,Take Away,Maharastra,1420,11424,149
+Mumbai,INDIA,25-11-2017,Milk,Central,Groceries,Take Away,Maharastra,1059,6384,35
+Mumbai,INDIA,10-01-2018,Milk,Central,Groceries,Take Away,Maharastra,1099,6384,40
+Mumbai,INDIA,07-02-2018,Milk,Central,Groceries,Take Away,Maharastra,1312,2940,1003
+Mumbai,INDIA,07-11-2018,Milk,Central,Groceries,Take Away,Maharastra,1148,2856,1054
+Mumbai,INDIA,18-06-2018,Soft-drink,Central,Groceries,Take Away,Maharastra,2952,7560,1225
+Mumbai,INDIA,02-04-2017,Vegetables,Central,Groceries,Take Away,Maharastra,1230,11424,1149
+Mumbai,INDIA,25-11-2017,Vegetables,Central,Groceries,Take Away,Maharastra,2050,6384,1035
+Mumbai,INDIA,02-05-2018,Vegetables,Central,Groceries,Take Away,Maharastra,1006,3108,23
+Mumbai,INDIA,14-08-2018,Vegetables,Central,Groceries,Take Away,Maharastra,2378,12600,1066
+Mumbai,INDIA,06-10-2018,Vegetables,Central,Groceries,Take Away,Maharastra,16400,67116,1093
+Pune,INDIA,21-03-2018,Beverages,Central,Groceries,Take Away,Maharastra,0,16716,965
+Pune,INDIA,07-08-2016,Cheese,Central,Groceries,Take Away,Maharastra,1886,5460,1847
+Pune,INDIA,26-12-2018,Cheese,Central,Groceries,Take Away,Maharastra,738,1680,1873
+Pune,INDIA,29-08-2018,Detergents,Central,Groceries,Take Away,Maharastra,82,2856,859
+Pune,INDIA,26-12-2018,Detergents,Central,Groceries,Take Away,Maharastra,738,1680,873
+Pune,INDIA,18-06-2018,Fish,Central,Groceries,Take Away,Maharastra,246,2352,1806
+Pune,INDIA,07-08-2016,Fruits,Central,Groceries,Take Away,Maharastra,1886,5460,847
+Pune,INDIA,18-10-2017,Milk,Central,Groceries,Take Away,Maharastra,738,7224,915
+Pune,INDIA,31-03-2018,Milk,Central,Groceries,Take Away,Maharastra,1371,32088,301
+Pune,INDIA,29-08-2018,Milk,Central,Groceries,Take Away,Maharastra,82,2856,1859
+Pune,INDIA,28-10-2016,Vegetables,Central,Groceries,Take Away,Maharastra,246,1848,1334
+Pune,INDIA,06-11-2017,Vegetables,Central,Groceries,Take Away,Maharastra,1469,14028,315
+Pune,INDIA,18-06-2018,Vegetables,Central,Groceries,Take Away,Maharastra,246,2352,806
+Bubneshwar,INDIA,29-03-2018,Beverages,Central,Groceries,Take Away,Orissa,1200,2856,245
+Bubneshwar,INDIA,07-08-2016,Bread,Central,Groceries,Take Away,Orissa,82,2436,844
+Bubneshwar,INDIA,07-06-2015,Butter,Central,Groceries,Take Away,Orissa,2132,19992,1816
+Bubneshwar,INDIA,22-06-2017,Butter,Central,Groceries,Take Away,Orissa,410,32172,1372
+Bubneshwar,INDIA,13-12-2018,Detergents,Central,Groceries,Take Away,Orissa,1148,7980,1883
+Bubneshwar,INDIA,14-06-2016,Eggs,Central,Groceries,Take Away,Orissa,3608,41328,894
+Bubneshwar,INDIA,13-12-2018,Eggs,Central,Groceries,Take Away,Orissa,1148,7980,883
+Bubneshwar,INDIA,08-11-2015,Fruits,Central,Groceries,Take Away,Orissa,6232,13944,1329
+Bubneshwar,INDIA,27-08-2018,Fruits,Central,Groceries,Take Away,Orissa,1397,2856,346
+Bubneshwar,INDIA,27-08-2018,Ice- creams,Central,Groceries,Take Away,Orissa,902,2856,1346
+Bubneshwar,INDIA,06-01-2018,Ketchups,Central,Groceries,Take Away,Orissa,11398,29988,1292
+Bubneshwar,INDIA,07-06-2015,Meat,Central,Groceries,Take Away,Orissa,2132,19992,816
+Bubneshwar,INDIA,08-11-2015,Milk,Central,Groceries,Take Away,Orissa,1167,13944,329
+Bubneshwar,INDIA,24-11-2016,Vegetables,Central,Groceries,Take Away,Orissa,1042,32256,319
+Bubneshwar,INDIA,24-11-2016,Vegetables,Central,Groceries,Take Away,Orissa,3526,32256,1319
+Bubneshwar,INDIA,19-02-2017,Vegetables,Central,Groceries,Take Away,Orissa,1066,4032,1206
+Bubneshwar,INDIA,22-06-2017,Vegetables,Central,Groceries,Take Away,Orissa,1136,32172,372
+Bubneshwar,INDIA,06-01-2018,Vegetables,Central,Groceries,Take Away,Orissa,1220,29988,292
+Bubneshwar,INDIA,19-02-2017,Yogurt,Central,Groceries,Take Away,Orissa,1297,4032,206
+Tirupati,INDIA,27-09-2017,Foot Wear,North,Fashion,Take Away,Arunachal Pradesh,1558,4032,1776
+Dibrugarh,INDIA,30-06-2016,Accessories,North,Fashion,Take Away,Assam,12628,64596,1566
+Dibrugarh,INDIA,28-08-2016,Accessories,North,Fashion,Take Away,Assam,410,4116,1636
+Dibrugarh,INDIA,12-06-2018,Ethnic Wear,North,Fashion,Take Away,Assam,328,17472,1582
+Dibrugarh,INDIA,16-11-2016,Foot Wear,North,Fashion,Take Away,Assam,2952,12516,1694
+Dibrugarh,INDIA,16-04-2017,Foot Wear,North,Fashion,Take Away,Assam,1312,4452,1537
+Dibrugarh,INDIA,30-06-2016,Sleep Wear,North,Fashion,Take Away,Assam,1230,28896,1568
+Dibrugarh,INDIA,12-06-2018,Sleep Wear,North,Fashion,Take Away,Assam,1148,12936,1581
+Dibrugarh,INDIA,25-07-2017,Sport Wear,North,Fashion,Take Away,Assam,574,24024,1769
+Dibrugarh,INDIA,16-02-2018,Sport Wear,North,Fashion,Take Away,Assam,3526,18228,1507
+Dibrugarh,INDIA,30-07-2018,Sport Wear,North,Fashion,Take Away,Assam,5248,22008,1532
+Dibrugarh,INDIA,28-05-2015,Western Wear,North,Fashion,Take Away,Assam,1148,3696,1928
+Dibrugarh,INDIA,28-05-2015,Western Wear,North,Fashion,Take Away,Assam,32390,69468,1926
+Dibrugarh,INDIA,21-04-2016,Western Wear,North,Fashion,Take Away,Assam,492,4032,1509
+Dibrugarh,INDIA,02-07-2016,Western Wear,North,Fashion,Take Away,Assam,26240,59808,1661
+Dibrugarh,INDIA,19-02-2017,Western Wear,North,Fashion,Take Away,Assam,2132,8652,1609
+Dibrugarh,INDIA,19-12-2017,Western Wear,North,Fashion,Take Away,Assam,82,5964,1530
+Dibrugarh,INDIA,25-09-2018,Western Wear,North,Fashion,Take Away,Assam,984,3528,1921
+Ananthpur,INDIA,06-08-2018,Ethnic Wear,North,Fashion,Take Away,Daman And Diu,6314,14952,1516
+Ananthpur,INDIA,10-06-2018,Western Wear,North,Fashion,Take Away,Daman And Diu,6232,70644,1487
+Gurgaon,INDIA,22-12-2016,Accessories,North,Fashion,Take Away,Haryana,,163968,1576
+Gurgaon,INDIA,16-02-2018,Accessories,North,Fashion,Take Away,Haryana,1148,3528,1508
+Gurgaon,INDIA,07-02-2015,Ethnic Wear,North,Fashion,Take Away,Haryana,902,2604,1524
+Gurgaon,INDIA,22-12-2016,Ethnic Wear,North,Fashion,Take Away,Haryana,5740,20916,1578
+Gurgaon,INDIA,25-12-2017,Sleep Wear,North,Fashion,Take Away,Haryana,12874,33096,1600
+Gurgaon,INDIA,30-07-2018,Sleep Wear,North,Fashion,Take Away,Haryana,6068,25032,1531
+Gurgaon,INDIA,19-08-2018,Sport Wear,North,Fashion,Take Away,Haryana,3854,7980,1541
+Gurgaon,INDIA,06-03-2016,Western Wear,North,Fashion,Take Away,Haryana,0,11508,1571
+Gurgaon,INDIA,24-07-2016,Western Wear,North,Fashion,Take Away,Haryana,1148,7812,1522
+Gurgaon,INDIA,09-09-2017,Western Wear,North,Fashion,Take Away,Haryana,5904,18984,1606
+Gurgaon,INDIA,14-04-2018,Western Wear,North,Fashion,Take Away,Haryana,15580,177408,1501
+Gurgaon,INDIA,12-11-2018,Western Wear,North,Fashion,Take Away,Haryana,6806,7308,1622
+Rewari,INDIA,17-05-2017,Accessories,North,Fashion,Take Away,Haryana,23944,25536,1739
+Rewari,INDIA,08-08-2018,Foot Wear,North,Fashion,Take Away,Haryana,26732,152040,1774
+Rewari,INDIA,12-11-2018,Foot Wear,North,Fashion,Take Away,Haryana,574,3024,1714
+Rewari,INDIA,28-05-2015,Sleep Wear,North,Fashion,Take Away,Haryana,2460,11844,1925
+Rewari,INDIA,27-08-2017,Sleep Wear,North,Fashion,Take Away,Haryana,902,5712,1682
+Rewari,INDIA,09-09-2017,Sleep Wear,North,Fashion,Take Away,Haryana,3116,9240,1689
+Rewari,INDIA,03-03-2016,Sport Wear,North,Fashion,Take Away,Haryana,,176820,1706
+Rewari,INDIA,12-11-2018,Sport Wear,North,Fashion,Take Away,Haryana,3198,6636,1712
+Rewari,INDIA,16-09-2015,Western Wear,North,Fashion,Take Away,Haryana,246,23604,1687
+Rewari,INDIA,12-11-2018,Western Wear,North,Fashion,Take Away,Haryana,2952,19152,1716
+Jamshedpur,INDIA,06-06-2017,Ethnic Wear,North,Fashion,Take Away,Jharkhand,0,7140,1623
+Jamshedpur,INDIA,25-08-2017,Ethnic Wear,North,Fashion,Take Away,Jharkhand,2296,13356,1678
+Jamshedpur,INDIA,03-02-2018,Ethnic Wear,North,Fashion,Take Away,Jharkhand,1312,4200,1662
+Jamshedpur,INDIA,18-12-2017,Foot Wear,North,Fashion,Take Away,Jharkhand,7708,43764,1550
+Jamshedpur,INDIA,06-12-2018,Foot Wear,North,Fashion,Take Away,Jharkhand,8118,31836,1615
+Jamshedpur,INDIA,22-05-2016,Sport Wear,North,Fashion,Take Away,Jharkhand,2624,6636,1719
+Jamshedpur,INDIA,12-07-2017,Sport Wear,North,Fashion,Take Away,Jharkhand,13530,41916,1554
+Jamshedpur,INDIA,05-12-2018,Sport Wear,North,Fashion,Take Away,Jharkhand,2050,2184,1540
+Jamshedpur,INDIA,24-04-2016,Western Wear,North,Fashion,Take Away,Jharkhand,5412,34860,1494
+Jamshedpur,INDIA,12-07-2017,Western Wear,North,Fashion,Take Away,Jharkhand,574,60732,1557
+Jamshedpur,INDIA,10-09-2017,Western Wear,North,Fashion,Take Away,Jharkhand,16564,18480,1512
+Jamshedpur,INDIA,18-08-2018,Western Wear,North,Fashion,Take Away,Jharkhand,820,3696,1592
+Agra,INDIA,11-09-2018,Accessories,North,Fashion,Take Away,Madhya Pradesh,,136248,1486
+Agra,INDIA,11-12-2016,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,656,2352,1763
+Agra,INDIA,22-07-2017,Ethnic Wear,North,Fashion,Take Away,Madhya Pradesh,2460,7056,1780
+Agra,INDIA,26-12-2016,Foot Wear,North,Fashion,Take Away,Madhya Pradesh,2788,19068,1497
+Agra,INDIA,11-09-2018,Sleep Wear,North,Fashion,Take Away,Madhya Pradesh,3854,21756,1485
+Agra,INDIA,18-12-2017,Sport Wear,North,Fashion,Take Away,Madhya Pradesh,3280,28056,1549
+Agra,INDIA,01-03-2016,Western Wear,North,Fashion,Take Away,Madhya Pradesh,410,3612,1535
+Agra,INDIA,18-08-2016,Western Wear,North,Fashion,Take Away,Madhya Pradesh,820,7308,1587
+Agra,INDIA,18-08-2016,Western Wear,North,Fashion,Take Away,Madhya Pradesh,3116,7896,1586
+Agra,INDIA,12-07-2017,Western Wear,North,Fashion,Take Away,Madhya Pradesh,1312,5796,1551
+Agra,INDIA,11-12-2018,Western Wear,North,Fashion,Take Away,Madhya Pradesh,492,4452,1527
+Agra,INDIA,29-12-2018,Western Wear,North,Fashion,Take Away,Madhya Pradesh,492,5376,1737
+Ahmedabad,INDIA,29-12-2016,Western Wear,North,Fashion,Take Away,Mizoram,4920,14112,1489
+Surat,INDIA,24-09-2017,Accessories,North,Fashion,Take Away,Mizoram,82,4956,1729
+Surat,INDIA,30-06-2016,Ethnic Wear,North,Fashion,Take Away,Mizoram,410,4704,1569
+Surat,INDIA,12-07-2017,Ethnic Wear,North,Fashion,Take Away,Mizoram,410,7476,1555
+Surat,INDIA,29-08-2018,Ethnic Wear,North,Fashion,Take Away,Mizoram,15334,41328,1604
+Surat,INDIA,10-09-2017,Foot Wear,North,Fashion,Take Away,Mizoram,1066,3444,1513
+Surat,INDIA,04-08-2015,Sport Wear,North,Fashion,Take Away,Mizoram,3772,32508,1523
+Surat,INDIA,15-09-2015,Sport Wear,North,Fashion,Take Away,Mizoram,656,1764,1726
+Surat,INDIA,24-07-2016,Western Wear,North,Fashion,Take Away,Mizoram,4674,8232,1521
+Surat,INDIA,19-02-2017,Western Wear,North,Fashion,Take Away,Mizoram,164,2016,1608
+Surat,INDIA,11-12-2018,Western Wear,North,Fashion,Take Away,Mizoram,656,3192,1528
+Ludhiyana,INDIA,22-08-2016,Accessories,North,Fashion,Take Away,Punjab,5002,15036,1667
+Ludhiyana,INDIA,24-04-2018,Accessories,North,Fashion,Take Away,Punjab,1230,4452,1699
+Ludhiyana,INDIA,16-12-2015,Ethnic Wear,North,Fashion,Take Away,Punjab,4592,9492,1646
+Ludhiyana,INDIA,02-07-2016,Ethnic Wear,North,Fashion,Take Away,Punjab,14842,89208,1657
+Ludhiyana,INDIA,11-12-2016,Ethnic Wear,North,Fashion,Take Away,Punjab,2460,4788,1761
+Ludhiyana,INDIA,24-09-2017,Ethnic Wear,North,Fashion,Take Away,Punjab,6642,7476,1728
+Ludhiyana,INDIA,18-12-2017,Ethnic Wear,North,Fashion,Take Away,Punjab,328,14112,1548
+Ludhiyana,INDIA,17-09-2018,Ethnic Wear,North,Fashion,Take Away,Punjab,1312,4620,1618
+Ludhiyana,INDIA,09-12-2017,Foot Wear,North,Fashion,Take Away,Punjab,2870,29148,1643
+Ludhiyana,INDIA,24-08-2015,Sleep Wear,North,Fashion,Take Away,Punjab,164,1344,1697
+Ludhiyana,INDIA,18-08-2018,Sleep Wear,North,Fashion,Take Away,Punjab,82,1512,1590
+Ludhiyana,INDIA,27-06-2016,Sport Wear,North,Fashion,Take Away,Punjab,82,1512,1642
+Ludhiyana,INDIA,02-07-2016,Sport Wear,North,Fashion,Take Away,Punjab,6888,31920,1659
+Ludhiyana,INDIA,09-06-2018,Sport Wear,North,Fashion,Take Away,Punjab,6068,22428,1546
+Ludhiyana,INDIA,27-08-2015,Western Wear,North,Fashion,Take Away,Punjab,328,1428,1760
+Ludhiyana,INDIA,24-09-2017,Western Wear,North,Fashion,Take Away,Punjab,10824,22176,1730
+Ludhiyana,INDIA,24-12-2017,Western Wear,North,Fashion,Take Away,Punjab,410,1176,1750
+Ludhiyana,INDIA,03-02-2018,Western Wear,North,Fashion,Take Away,Punjab,902,1848,1663
+Ludhiyana,INDIA,11-09-2018,Western Wear,North,Fashion,Take Away,Punjab,24846,60396,1538
+Udaipur,INDIA,25-07-2016,Accessories,North,Fashion,Take Away,Rajasthan,4264,10920,1629
+Udaipur,INDIA,23-08-2016,Accessories,North,Fashion,Take Away,Rajasthan,49118,76860,1723
+Udaipur,INDIA,12-11-2018,Accessories,North,Fashion,Take Away,Rajasthan,,270564,1710
+Udaipur,INDIA,10-01-2016,Ethnic Wear,North,Fashion,Take Away,Rajasthan,5002,85848,1597
+Udaipur,INDIA,11-12-2016,Ethnic Wear,North,Fashion,Take Away,Rajasthan,246,2940,1764
+Udaipur,INDIA,25-12-2017,Ethnic Wear,North,Fashion,Take Away,Rajasthan,820,2100,1599
+Udaipur,INDIA,08-03-2016,Foot Wear,North,Fashion,Take Away,Rajasthan,36900,107940,1669
+Udaipur,INDIA,30-10-2018,Foot Wear,North,Fashion,Take Away,Rajasthan,574,3864,1920
+Udaipur,INDIA,22-09-2016,Sleep Wear,North,Fashion,Take Away,Rajasthan,3444,10584,1583
+Udaipur,INDIA,27-06-2018,Sleep Wear,North,Fashion,Take Away,Rajasthan,82,4032,1544
+Udaipur,INDIA,06-12-2018,Sleep Wear,North,Fashion,Take Away,Rajasthan,1312,2352,1614
+Udaipur,INDIA,11-12-2018,Sleep Wear,North,Fashion,Take Away,Rajasthan,574,122808,1529
+Udaipur,INDIA,17-08-2016,Sport Wear,North,Fashion,Take Away,Rajasthan,2214,5376,1753
+Udaipur,INDIA,09-06-2018,Sport Wear,North,Fashion,Take Away,Rajasthan,5412,12264,1547
+Udaipur,INDIA,16-07-2018,Sport Wear,North,Fashion,Take Away,Rajasthan,164,588,1518
+Udaipur,INDIA,08-03-2016,Western Wear,North,Fashion,Take Away,Rajasthan,1476,2268,1602
+Udaipur,INDIA,02-07-2016,Western Wear,North,Fashion,Take Away,Rajasthan,2050,19320,1658
+Udaipur,INDIA,12-07-2017,Western Wear,North,Fashion,Take Away,Rajasthan,902,2520,1556
+Udaipur,INDIA,25-12-2017,Western Wear,North,Fashion,Take Away,Rajasthan,492,8484,1601
+Udaipur,INDIA,01-05-2018,Western Wear,North,Fashion,Take Away,Rajasthan,1886,5964,1665
+Udaipur,INDIA,12-06-2018,Western Wear,North,Fashion,Take Away,Rajasthan,0,10584,1580
+Udaipur,INDIA,29-08-2018,Western Wear,North,Fashion,Take Away,Rajasthan,4182,71568,1605
+Udaipur,INDIA,17-09-2018,Western Wear,North,Fashion,Take Away,Rajasthan,5494,42420,1619
+Udaipur,INDIA,25-09-2018,Western Wear,North,Fashion,Take Away,Rajasthan,7872,23100,1923
+Udaipur,INDIA,20-10-2018,Western Wear,North,Fashion,Take Away,Rajasthan,2050,20664,1695
+Noida,INDIA,23-03-2016,Ethnic Wear,North,Fashion,Take Away,Uttar Pradesh,3198,20328,1668
+Noida,INDIA,02-12-2016,Ethnic Wear,North,Fashion,Take Away,Uttar Pradesh,410,1092,1782
+Noida,INDIA,25-07-2017,Ethnic Wear,North,Fashion,Take Away,Uttar Pradesh,164,7896,1767
+Noida,INDIA,21-02-2015,Foot Wear,North,Fashion,Take Away,Uttar Pradesh,656,2688,1672
+Noida,INDIA,25-07-2016,Sleep Wear,North,Fashion,Take Away,Uttar Pradesh,1886,4200,1630
+Noida,INDIA,18-07-2016,Sport Wear,North,Fashion,Take Away,Uttar Pradesh,164,5040,1741
+Noida,INDIA,23-08-2016,Sport Wear,North,Fashion,Take Away,Uttar Pradesh,1230,58128,1725
+Noida,INDIA,30-06-2016,Western Wear,North,Fashion,Take Away,Uttar Pradesh,4756,12852,1570
+Noida,INDIA,01-11-2016,Western Wear,North,Fashion,Take Away,Uttar Pradesh,984,9408,1620
+Noida,INDIA,03-12-2018,Western Wear,North,Fashion,Take Away,Uttar Pradesh,9594,19992,1698
+Noida,INDIA,10-12-2018,Western Wear,North,Fashion,Take Away,Uttar Pradesh,4100,21252,1748
+Kolkata,INDIA,11-08-2016,Ethnic Wear,North,Fashion,Take Away,West Bengal,5904,18816,1705
+Kolkata,INDIA,05-06-2016,Sleep Wear,North,Fashion,Take Away,West Bengal,3444,8232,1675
+Kolkata,INDIA,26-12-2016,Sleep Wear,North,Fashion,Take Away,West Bengal,15580,38892,1496
+Kolkata,INDIA,26-12-2017,Sleep Wear,North,Fashion,Take Away,West Bengal,2624,5376,1738
+Kolkata,INDIA,12-11-2018,Sleep Wear,North,Fashion,Take Away,West Bengal,3198,9660,1621
+Kolkata,INDIA,17-06-2018,Sport Wear,North,Fashion,Take Away,West Bengal,3444,12264,1735
+Kolkata,INDIA,12-11-2018,Sport Wear,North,Fashion,Take Away,West Bengal,7298,106680,1709
+Kolkata,INDIA,25-07-2016,Western Wear,North,Fashion,Take Away,West Bengal,1722,4032,1628
+Kolkata,INDIA,29-03-2017,Western Wear,North,Fashion,Take Away,West Bengal,12136,34608,1656
+Kolkata,INDIA,14-01-2018,Western Wear,North,Fashion,Take Away,West Bengal,738,2856,1495
+Siliguri,INDIA,12-07-2017,Accessories,North,Fashion,Take Away,West Bengal,4592,24948,1552
+Siliguri,INDIA,02-09-2018,Sleep Wear,North,Fashion,Take Away,West Bengal,0,89796,1534
+Siliguri,INDIA,06-12-2018,Sleep Wear,North,Fashion,Take Away,West Bengal,0,3444,1613
+Siliguri,INDIA,19-02-2017,Sport Wear,North,Fashion,Take Away,West Bengal,3936,8484,1607
+Siliguri,INDIA,27-08-2018,Sport Wear,North,Fashion,Take Away,West Bengal,1230,4536,1617
+Tirupati,INDIA,29-05-2018,Alluminium Foil,North,Groceries,Take Away,Arunachal Pradesh,19434,105252,1938
+Tirupati,INDIA,15-03-2018,Beverages,North,Groceries,Take Away,Arunachal Pradesh,656,4872,1848
+Tirupati,INDIA,17-02-2018,Eggs,North,Groceries,Take Away,Arunachal Pradesh,2050,2268,1787
+Tirupati,INDIA,12-09-2018,Fruits,North,Groceries,Take Away,Arunachal Pradesh,6478,19908,1983
+Tirupati,INDIA,14-06-2016,Ice- creams,North,Groceries,Take Away,Arunachal Pradesh,6068,31332,1893
+Tirupati,INDIA,02-02-2015,Mutton,North,Groceries,Take Away,Arunachal Pradesh,19762,61236,1955
+Tirupati,INDIA,10-05-2018,Vegetables,North,Groceries,Take Away,Arunachal Pradesh,2542,8148,1993
+Dibrugarh,INDIA,30-06-2018,Beverages,North,Groceries,Take Away,Assam,246,3108,906
+Dibrugarh,INDIA,13-10-2018,Beverages,North,Groceries,Take Away,Assam,738,8988,1969
+Dibrugarh,INDIA,25-09-2017,Cheese,North,Groceries,Take Away,Assam,3034,34440,1800
+Dibrugarh,INDIA,12-09-2018,Detergents,North,Groceries,Take Away,Assam,1312,3360,1982
+Dibrugarh,INDIA,13-10-2018,Detergents,North,Groceries,Take Away,Assam,738,8988,969
+Dibrugarh,INDIA,27-07-2015,Eggs,North,Groceries,Take Away,Assam,574,1428,826
+Dibrugarh,INDIA,30-06-2018,Fish,North,Groceries,Take Away,Assam,246,3108,1906
+Dibrugarh,INDIA,25-09-2018,Meat,North,Groceries,Take Away,Assam,1230,4788,1836
+Dibrugarh,INDIA,25-09-2017,Mutton,North,Groceries,Take Away,Assam,3034,34440,800
+Dibrugarh,INDIA,25-09-2018,Vegetables,North,Groceries,Take Away,Assam,1230,4788,836
+Dibrugarh,INDIA,12-09-2018,Yogurt,North,Groceries,Take Away,Assam,1312,3360,982
+Guwahati,INDIA,09-12-2015,Butter,North,Groceries,Take Away,Assam,1271,3864,57
+Guwahati,INDIA,02-08-2016,Butter,North,Groceries,Take Away,Assam,500,300000,1009
+Guwahati,INDIA,29-08-2017,Butter,North,Groceries,Take Away,Assam,1171,12264,61
+Guwahati,INDIA,19-05-2015,Cheese,North,Groceries,Take Away,Assam,2537,88956,78
+Guwahati,INDIA,02-08-2016,Cheese,North,Groceries,Take Away,Assam,10000,242506,9
+Guwahati,INDIA,04-12-2017,Detergents,North,Groceries,Take Away,Assam,1090,4116,178
+Guwahati,INDIA,21-05-2018,Detergents,North,Groceries,Take Away,Assam,1321,14532,74
+Guwahati,INDIA,09-06-2018,Detergents,North,Groceries,Take Away,Assam,2648,89292,123
+Guwahati,INDIA,28-10-2016,Eggs,North,Groceries,Take Away,Assam,6724,114492,1333
+Guwahati,INDIA,24-12-2017,Fruits,North,Groceries,Take Away,Assam,1440,29904,370
+Guwahati,INDIA,21-05-2018,Fruits,North,Groceries,Take Away,Assam,5658,14532,1074
+Guwahati,INDIA,20-06-2016,Ice- creams,North,Groceries,Take Away,Assam,0,2100,1011
+Guwahati,INDIA,04-01-2017,Ice- creams,North,Groceries,Take Away,Assam,3252,51912,159
+Guwahati,INDIA,28-10-2016,Ketchups,North,Groceries,Take Away,Assam,4585,114492,333
+Guwahati,INDIA,24-05-2017,Meat,North,Groceries,Take Away,Assam,1101,48132,351
+Guwahati,INDIA,09-06-2018,Meat,North,Groceries,Take Away,Assam,14350,89292,1123
+Guwahati,INDIA,02-08-2016,Milk,North,Groceries,Take Away,Assam,1066,3696,1010
+Guwahati,INDIA,02-08-2016,Milk,North,Groceries,Take Away,Assam,1296,3696,10
+Guwahati,INDIA,24-05-2017,Milk,North,Groceries,Take Away,Assam,0,48132,1351
+Guwahati,INDIA,04-12-2017,Milk,North,Groceries,Take Away,Assam,410,4116,1178
+Guwahati,INDIA,04-09-2018,Milk,North,Groceries,Take Away,Assam,9676,49644,1081
+Guwahati,INDIA,03-12-2018,Milk,North,Groceries,Take Away,Assam,1089,8568,286
+Guwahati,INDIA,29-08-2017,Mutton,North,Groceries,Take Away,Assam,6806,12264,1061
+Guwahati,INDIA,27-03-2018,Soft-drink,North,Groceries,Take Away,Assam,1316,3024,322
+Guwahati,INDIA,04-09-2018,Soft-drink,North,Groceries,Take Away,Assam,1242,49644,81
+Guwahati,INDIA,20-06-2016,Yogurt,North,Groceries,Take Away,Assam,1086,2100,11
+Ahmedabad,INDIA,07-02-2018,Meat,North,Groceries,Take Away,Bihar,3280,6636,1001
+Korba,INDIA,06-10-2018,Beverages,North,Groceries,Take Away,Bihar,1558,4368,1098
+Korba,INDIA,08-11-2017,Milk,North,Groceries,Take Away,Bihar,738,1260,1041
+Korba,INDIA,08-02-2018,Milk,North,Groceries,Take Away,Bihar,164,2604,1080
+Korba,INDIA,02-06-2015,Soft-drink,North,Groceries,Take Away,Bihar,2952,8652,1032
+Korba,INDIA,06-10-2018,Vegetables,North,Groceries,Take Away,Bihar,22714,80304,1094
+Surat,INDIA,27-08-2015,Fruits,North,Groceries,Take Away,Bihar,2460,13272,1049
+Surat,INDIA,31-05-2017,Ice- creams,North,Groceries,Take Away,Bihar,656,3864,1037
+Surat,INDIA,27-08-2015,Soft-drink,North,Groceries,Take Away,Bihar,560,8000,1048
+Korba,INDIA,02-06-2015,Alluminium Foil,North,Groceries,Take Away,Chattisghar,1031,8652,32
+Korba,INDIA,07-11-2018,Alluminium Foil,North,Groceries,Take Away,Chattisghar,1321,3948,53
+Korba,INDIA,08-02-2018,Beverages,North,Groceries,Take Away,Chattisghar,1052,2604,80
+Korba,INDIA,29-08-2017,Cheese,North,Groceries,Take Away,Chattisghar,16,1260,63
+Korba,INDIA,22-12-2015,Eggs,North,Groceries,Take Away,Chattisghar,1053,4284,68
+Korba,INDIA,08-11-2017,Meat,North,Groceries,Take Away,Chattisghar,44,1260,41
+Korba,INDIA,16-10-2015,Milk,North,Groceries,Take Away,Chattisghar,43,1260,143
+Korba,INDIA,06-10-2018,Vegetables,North,Groceries,Take Away,Chattisghar,2816,80304,94
+Raipur,INDIA,09-06-2015,Detergents,North,Groceries,Take Away,Chattisghar,1285,2100,165
+Raipur,INDIA,12-05-2018,Eggs,North,Groceries,Take Away,Chattisghar,1451,2520,158
+Ananthpur,INDIA,27-05-2017,Cheese,North,Groceries,Take Away,Daman And Diu,164,8148,1184
+Ananthpur,INDIA,30-05-2016,Fish,North,Groceries,Take Away,Daman And Diu,6888,37128,1173
+Ananthpur,INDIA,12-12-2017,Fruits,North,Groceries,Take Away,Daman And Diu,2296,13020,1211
+Ananthpur,INDIA,18-06-2018,Milk,North,Groceries,Take Away,Daman And Diu,6888,10416,1246
+Ananthpur,INDIA,18-10-2015,Alluminium Foil,North,Groceries,Take Away,Delhi,13202,154476,1110
+Ananthpur,INDIA,07-02-2018,Alluminium Foil,North,Groceries,Take Away,Delhi,1066,4284,1004
+Ananthpur,INDIA,28-02-2018,Beverages,North,Groceries,Take Away,Delhi,656,3528,1029
+Ananthpur,INDIA,22-12-2015,Eggs,North,Groceries,Take Away,Delhi,0,8988,1069
+Ananthpur,INDIA,10-08-2017,Meat,North,Groceries,Take Away,Delhi,1312,7056,1105
+Ananthpur,INDIA,16-06-2016,Milk,North,Groceries,Take Away,Delhi,4510,82992,1126
+Ananthpur,INDIA,19-05-2015,Soft-drink,North,Groceries,Take Away,Delhi,10250,81060,1076
+Ananthpur,INDIA,20-06-2016,Vegetables,North,Groceries,Take Away,Delhi,0,1008,1013
+Ahmedabad,INDIA,14-03-2018,Detergents,North,Groceries,Take Away,Gujrat,1167,17724,345
+Ahmedabad,INDIA,18-07-2016,Eggs,North,Groceries,Take Away,Gujrat,1035,17724,352
+Ahmedabad,INDIA,12-12-2018,Eggs,North,Groceries,Take Away,Gujrat,2788,8904,904
+Ahmedabad,INDIA,13-02-2017,Fish,North,Groceries,Take Away,Gujrat,1346,23352,369
+Ahmedabad,INDIA,02-09-2017,Milk,North,Groceries,Take Away,Gujrat,9266,49896,881
+Ahmedabad,INDIA,18-09-2017,Milk,North,Groceries,Take Away,Gujrat,1432,10416,297
+Ahmedabad,INDIA,22-05-2017,Soft-drink,North,Groceries,Take Away,Gujrat,1722,31416,971
+Ahmedabad,INDIA,24-11-2016,Vegetables,North,Groceries,Take Away,Gujrat,1451,35700,320
+Ahmedabad,INDIA,07-02-2018,Vegetables,North,Groceries,Take Away,Gujrat,1092,6636,1
+Surat,INDIA,11-10-2016,Detergents,North,Groceries,Take Away,Gujrat,9020,56112,863
+Surat,INDIA,27-08-2015,Eggs,North,Groceries,Take Away,Gujrat,1093,8000,48
+Surat,INDIA,27-08-2015,Meat,North,Groceries,Take Away,Gujrat,1053,7056,47
+Surat,INDIA,01-08-2015,Milk,North,Groceries,Take Away,Gujrat,574,2184,864
+Surat,INDIA,09-06-2018,Mutton,North,Groceries,Take Away,Gujrat,1406,2268,122
+Surat,INDIA,27-08-2015,Soft-drink,North,Groceries,Take Away,Gujrat,1454,13272,49
+Surat,INDIA,30-05-2016,Vegetables,North,Groceries,Take Away,Gujrat,1320,4536,172
+Surat,INDIA,31-05-2017,Vegetables,North,Groceries,Take Away,Gujrat,1114,3864,37
+Gurgaon,INDIA,18-03-2016,Alluminium Foil,North,Groceries,Take Away,Haryana,164,8736,1295
+Gurgaon,INDIA,01-04-2015,Bread,North,Groceries,Take Away,Haryana,656,2856,1070
+Gurgaon,INDIA,24-02-2015,Butter,North,Groceries,Take Away,Haryana,6314,25956,1130
+Gurgaon,INDIA,31-12-2018,Butter,North,Groceries,Take Away,Haryana,1066,21924,1331
+Gurgaon,INDIA,28-08-2017,Cheese,North,Groceries,Take Away,Haryana,1286,16464,100
+Gurgaon,INDIA,28-08-2017,Cheese,North,Groceries,Take Away,Haryana,2214,16464,1100
+Gurgaon,INDIA,17-01-2018,Detergents,North,Groceries,Take Away,Haryana,1301,6636,282
+Gurgaon,INDIA,18-03-2016,Eggs,North,Groceries,Take Away,Haryana,1157,8736,295
+Gurgaon,INDIA,04-12-2017,Eggs,North,Groceries,Take Away,Haryana,3690,33684,1177
+Gurgaon,INDIA,12-08-2017,Fish,North,Groceries,Take Away,Haryana,492,23520,1025
+Gurgaon,INDIA,04-12-2017,Fish,North,Groceries,Take Away,Haryana,1309,33684,177
+Gurgaon,INDIA,20-10-2015,Fruits,North,Groceries,Take Away,Haryana,1198,6132,296
+Gurgaon,INDIA,17-01-2018,Fruits,North,Groceries,Take Away,Haryana,2706,6636,1282
+Gurgaon,INDIA,31-03-2018,Fruits,North,Groceries,Take Away,Haryana,2460,6468,1299
+Gurgaon,INDIA,28-02-2018,Ice- creams,North,Groceries,Take Away,Haryana,9266,27888,1027
+Gurgaon,INDIA,13-03-2017,Ketchups,North,Groceries,Take Away,Haryana,1470,21756,366
+Gurgaon,INDIA,29-08-2017,Meat,North,Groceries,Take Away,Haryana,492,1764,1062
+Gurgaon,INDIA,16-02-2017,Milk,North,Groceries,Take Away,Haryana,43,672,18
+Gurgaon,INDIA,04-09-2018,Milk,North,Groceries,Take Away,Haryana,820,43764,1082
+Gurgaon,INDIA,01-04-2015,Mutton,North,Groceries,Take Away,Haryana,1363,2856,70
+Gurgaon,INDIA,25-09-2016,Soft-drink,North,Groceries,Take Away,Haryana,4264,11508,1314
+Gurgaon,INDIA,16-02-2017,Soft-drink,North,Groceries,Take Away,Haryana,82,672,1018
+Gurgaon,INDIA,31-12-2018,Soft-drink,North,Groceries,Take Away,Haryana,1335,21924,331
+Gurgaon,INDIA,20-10-2015,Vegetables,North,Groceries,Take Away,Haryana,328,6132,1296
+Gurgaon,INDIA,04-09-2018,Vegetables,North,Groceries,Take Away,Haryana,1317,43764,82
+Gurgaon,INDIA,28-02-2018,Yogurt,North,Groceries,Take Away,Haryana,1048,27888,27
+Rewari,INDIA,25-08-2018,Fruits,North,Groceries,Take Away,Haryana,410,840,1811
+Rewari,INDIA,22-12-2018,Fruits,North,Groceries,Take Away,Haryana,6888,23436,1820
+Rewari,INDIA,03-03-2016,Milk,North,Groceries,Take Away,Haryana,40180,48972,1948
+Rewari,INDIA,22-12-2018,Milk,North,Groceries,Take Away,Haryana,6888,23436,820
+Rewari,INDIA,03-03-2016,Soft-drink,North,Groceries,Take Away,Haryana,40180,48972,948
+Jamshedpur,INDIA,10-09-2018,Butter,North,Groceries,Take Away,Jharkhand,18040,61488,1364
+Jamshedpur,INDIA,22-05-2017,Cheese,North,Groceries,Take Away,Jharkhand,2706,8904,1973
+Jamshedpur,INDIA,27-07-2015,Eggs,North,Groceries,Take Away,Jharkhand,3362,11424,827
+Jamshedpur,INDIA,25-08-2016,Eggs,North,Groceries,Take Away,Jharkhand,1446,4872,330
+Jamshedpur,INDIA,10-09-2018,Fish,North,Groceries,Take Away,Jharkhand,3473,61488,364
+Jamshedpur,INDIA,15-09-2018,Fruits,North,Groceries,Take Away,Jharkhand,164,4452,1337
+Jamshedpur,INDIA,14-04-2016,Meat,North,Groceries,Take Away,Jharkhand,10004,20496,914
+Jamshedpur,INDIA,22-05-2017,Meat,North,Groceries,Take Away,Jharkhand,2706,8904,973
+Jamshedpur,INDIA,15-09-2018,Meat,North,Groceries,Take Away,Jharkhand,1148,95508,1338
+Jamshedpur,INDIA,14-04-2016,Milk,North,Groceries,Take Away,Jharkhand,10004,20496,1914
+Jamshedpur,INDIA,16-06-2016,Milk,North,Groceries,Take Away,Jharkhand,3526,11340,1798
+Jamshedpur,INDIA,15-09-2018,Milk,North,Groceries,Take Away,Jharkhand,1091,4452,337
+Jamshedpur,INDIA,15-09-2018,Milk,North,Groceries,Take Away,Jharkhand,3091,95508,338
+Jamshedpur,INDIA,18-12-2018,Milk,North,Groceries,Take Away,Jharkhand,1640,3612,1356
+Jamshedpur,INDIA,27-07-2015,Soft-drink,North,Groceries,Take Away,Jharkhand,3362,11424,1827
+Jamshedpur,INDIA,16-06-2016,Soft-drink,North,Groceries,Take Away,Jharkhand,3526,11340,798
+Jamshedpur,INDIA,25-08-2016,Soft-drink,North,Groceries,Take Away,Jharkhand,1148,4872,1330
+Jamshedpur,INDIA,19-06-2016,Vegetables,North,Groceries,Take Away,Jharkhand,2952,60144,869
+Jamshedpur,INDIA,19-06-2016,Vegetables,North,Groceries,Take Away,Jharkhand,2952,60144,1869
+Jamshedpur,INDIA,07-08-2016,Vegetables,North,Groceries,Take Away,Jharkhand,984,8064,1843
+Ranchi,INDIA,03-12-2017,Beverages,North,Groceries,Take Away,Jharkhand,1804,4116,1270
+Ranchi,INDIA,07-02-2018,Beverages,North,Groceries,Take Away,Jharkhand,1231,25788,5
+Ranchi,INDIA,01-04-2015,Butter,North,Groceries,Take Away,Jharkhand,36572,220416,1071
+Ranchi,INDIA,14-06-2017,Butter,North,Groceries,Take Away,Jharkhand,3120,63840,153
+Ranchi,INDIA,19-02-2017,Cheese,North,Groceries,Take Away,Jharkhand,1195,13524,208
+Ranchi,INDIA,14-06-2017,Cheese,North,Groceries,Take Away,Jharkhand,19352,63840,1153
+Ranchi,INDIA,17-07-2017,Cheese,North,Groceries,Take Away,Jharkhand,20254,18060,1059
+Ranchi,INDIA,22-11-2015,Detergents,North,Groceries,Take Away,Jharkhand,1968,7896,1171
+Ranchi,INDIA,30-05-2016,Detergents,North,Groceries,Take Away,Jharkhand,82,2100,1174
+Ranchi,INDIA,05-04-2016,Fish,North,Groceries,Take Away,Jharkhand,4592,10332,1133
+Ranchi,INDIA,16-06-2016,Fruits,North,Groceries,Take Away,Jharkhand,1353,4116,146
+Ranchi,INDIA,06-12-2016,Fruits,North,Groceries,Take Away,Jharkhand,2542,12348,1328
+Ranchi,INDIA,01-01-2018,Ketchups,North,Groceries,Take Away,Jharkhand,1421,2520,111
+Ranchi,INDIA,10-02-2015,Meat,North,Groceries,Take Away,Jharkhand,1092,10416,289
+Ranchi,INDIA,05-04-2016,Meat,North,Groceries,Take Away,Jharkhand,1363,10332,133
+Ranchi,INDIA,30-05-2016,Meat,North,Groceries,Take Away,Jharkhand,1262,2100,174
+Ranchi,INDIA,10-02-2015,Milk,North,Groceries,Take Away,Jharkhand,3280,10416,1289
+Ranchi,INDIA,28-09-2015,Milk,North,Groceries,Take Away,Jharkhand,19598,95844,1046
+Ranchi,INDIA,16-06-2016,Milk,North,Groceries,Take Away,Jharkhand,1722,4116,1146
+Ranchi,INDIA,19-02-2017,Milk,North,Groceries,Take Away,Jharkhand,3280,13524,1208
+Ranchi,INDIA,03-12-2017,Mutton,North,Groceries,Take Away,Jharkhand,1463,4116,270
+Ranchi,INDIA,18-03-2016,Soft-drink,North,Groceries,Take Away,Jharkhand,1101,4368,294
+Ranchi,INDIA,28-09-2015,Vegetables,North,Groceries,Take Away,Jharkhand,2842,95844,46
+Ranchi,INDIA,31-08-2016,Vegetables,North,Groceries,Take Away,Jharkhand,1558,3612,1084
+Ranchi,INDIA,06-11-2017,Vegetables,North,Groceries,Take Away,Jharkhand,1218,32172,317
+Ranchi,INDIA,06-11-2017,Vegetables,North,Groceries,Take Away,Jharkhand,14760,32172,1317
+Ranchi,INDIA,01-01-2018,Vegetables,North,Groceries,Take Away,Jharkhand,0,2520,1111
+Ranchi,INDIA,01-04-2015,Yogurt,North,Groceries,Take Away,Jharkhand,4863,120000,71
+Ranchi,INDIA,31-08-2016,Yogurt,North,Groceries,Take Away,Jharkhand,1164,3612,84
+Ranchi,INDIA,17-07-2017,Yogurt,North,Groceries,Take Away,Jharkhand,1442,18060,59
+Agra,INDIA,04-06-2017,Alluminium Foil,North,Groceries,Take Away,Madhya Pradesh,1148,18816,933
+Agra,INDIA,17-02-2018,Alluminium Foil,North,Groceries,Take Away,Madhya Pradesh,410,3192,1966
+Agra,INDIA,20-06-2016,Butter,North,Groceries,Take Away,Madhya Pradesh,10000,182028,14
+Agra,INDIA,02-04-2017,Butter,North,Groceries,Take Away,Madhya Pradesh,10000,221508,148
+Agra,INDIA,24-12-2017,Cheese,North,Groceries,Take Away,Madhya Pradesh,1170,3444,371
+Agra,INDIA,17-02-2018,Cheese,North,Groceries,Take Away,Madhya Pradesh,410,3192,966
+Agra,INDIA,24-02-2015,Detergents,North,Groceries,Take Away,Madhya Pradesh,1345,44100,132
+Agra,INDIA,02-09-2015,Detergents,North,Groceries,Take Away,Madhya Pradesh,492,8484,1804
+Agra,INDIA,10-01-2018,Detergents,North,Groceries,Take Away,Madhya Pradesh,1470,7644,39
+Agra,INDIA,14-08-2018,Detergents,North,Groceries,Take Away,Madhya Pradesh,2538,63588,67
+Agra,INDIA,06-11-2016,Eggs,North,Groceries,Take Away,Madhya Pradesh,1309,15120,279
+Agra,INDIA,24-12-2017,Eggs,North,Groceries,Take Away,Madhya Pradesh,492,3444,1371
+Agra,INDIA,06-01-2018,Eggs,North,Groceries,Take Away,Madhya Pradesh,10000,153636,290
+Agra,INDIA,14-08-2018,Eggs,North,Groceries,Take Away,Madhya Pradesh,30422,63588,1067
+Agra,INDIA,21-11-2018,Eggs,North,Groceries,Take Away,Madhya Pradesh,0,9408,832
+Agra,INDIA,25-08-2016,Fruits,North,Groceries,Take Away,Madhya Pradesh,492,2268,802
+Agra,INDIA,04-06-2017,Meat,North,Groceries,Take Away,Madhya Pradesh,656,2016,1931
+Agra,INDIA,04-06-2017,Meat,North,Groceries,Take Away,Madhya Pradesh,1148,18816,1933
+Agra,INDIA,17-07-2017,Meat,North,Groceries,Take Away,Madhya Pradesh,2624,16044,1058
+Agra,INDIA,30-08-2017,Meat,North,Groceries,Take Away,Madhya Pradesh,3444,31416,1809
+Agra,INDIA,06-01-2018,Meat,North,Groceries,Take Away,Madhya Pradesh,4592,153636,1290
+Agra,INDIA,28-09-2015,Milk,North,Groceries,Take Away,Madhya Pradesh,10000,158928,44
+Agra,INDIA,25-08-2016,Milk,North,Groceries,Take Away,Madhya Pradesh,2460,7980,1889
+Agra,INDIA,06-11-2016,Milk,North,Groceries,Take Away,Madhya Pradesh,3116,15120,1279
+Agra,INDIA,10-01-2018,Milk,North,Groceries,Take Away,Madhya Pradesh,1230,7644,1039
+Agra,INDIA,18-06-2018,Milk,North,Groceries,Take Away,Madhya Pradesh,8528,25620,1222
+Agra,INDIA,25-08-2016,Soft-drink,North,Groceries,Take Away,Madhya Pradesh,492,2268,1802
+Agra,INDIA,18-06-2018,Soft-drink,North,Groceries,Take Away,Madhya Pradesh,1490,25620,222
+Agra,INDIA,02-04-2017,Vegetables,North,Groceries,Take Away,Madhya Pradesh,,221508,1148
+Agra,INDIA,04-06-2017,Vegetables,North,Groceries,Take Away,Madhya Pradesh,656,2016,931
+Agra,INDIA,30-08-2017,Vegetables,North,Groceries,Take Away,Madhya Pradesh,3444,31416,809
+Ahmedabad,INDIA,05-08-2017,Alluminium Foil,North,Groceries,Take Away,Mizoram,656,3360,1303
+Ahmedabad,INDIA,18-09-2017,Fruits,North,Groceries,Take Away,Mizoram,3116,10416,1297
+Ahmedabad,INDIA,18-07-2016,Ketchups,North,Groceries,Take Away,Mizoram,8446,17724,1352
+Ahmedabad,INDIA,14-03-2018,Milk,North,Groceries,Take Away,Mizoram,4674,17724,1345
+Ahmedabad,INDIA,13-02-2017,Soft-drink,North,Groceries,Take Away,Mizoram,5084,23352,1369
+Ahmedabad,INDIA,24-11-2016,Vegetables,North,Groceries,Take Away,Mizoram,0,35700,1320
+Bilaspur,INDIA,12-05-2018,Eggs,North,Groceries,Take Away,Nagaland,1230,2520,1158
+Korba,INDIA,16-10-2015,Meat,North,Groceries,Take Away,Nagaland,328,1260,1143
+Surat,INDIA,27-09-2017,Milk,North,Groceries,Take Away,Nagaland,820,3024,1107
+Surat,INDIA,09-06-2018,Mutton,North,Groceries,Take Away,Nagaland,82,2268,1122
+Surat,INDIA,30-05-2016,Vegetables,North,Groceries,Take Away,Nagaland,1476,4536,1172
+Amritsar,INDIA,28-09-2015,Detergents,North,Groceries,Take Away,Punjab,4264,10248,1045
+Amritsar,INDIA,24-10-2018,Detergents,North,Groceries,Take Away,Punjab,2378,5712,1127
+Amritsar,INDIA,03-11-2018,Detergents,North,Groceries,Take Away,Punjab,1066,15365,1020
+Amritsar,INDIA,24-10-2018,Meat,North,Groceries,Take Away,Punjab,738,1680,1129
+Amritsar,INDIA,09-06-2018,Milk,North,Groceries,Take Away,Punjab,2378,6216,1124
+Amritsar,INDIA,24-10-2018,Milk,North,Groceries,Take Away,Punjab,87,1680,129
+Amritsar,INDIA,02-08-2016,Vegetables,North,Groceries,Take Away,Punjab,1465,20666,8
+Amritsar,INDIA,24-10-2018,Vegetables,North,Groceries,Take Away,Punjab,1488,5712,127
+Ludhiyana,INDIA,03-12-2018,Bread,North,Groceries,Take Away,Punjab,656,2100,1284
+Ludhiyana,INDIA,27-09-2015,Butter,North,Groceries,Take Away,Punjab,246,4536,1136
+Ludhiyana,INDIA,14-06-2017,Eggs,North,Groceries,Take Away,Punjab,1428,3696,154
+Ludhiyana,INDIA,18-08-2015,Fruits,North,Groceries,Take Away,Punjab,1329,2688,267
+Ludhiyana,INDIA,27-09-2015,Ice- creams,North,Groceries,Take Away,Punjab,1040,4536,136
+Ludhiyana,INDIA,18-08-2015,Ketchups,North,Groceries,Take Away,Punjab,574,2688,1267
+Ludhiyana,INDIA,21-11-2016,Ketchups,North,Groceries,Take Away,Punjab,6888,20916,1959
+Ludhiyana,INDIA,14-06-2017,Ketchups,North,Groceries,Take Away,Punjab,1640,3696,1154
+Ludhiyana,INDIA,31-08-2017,Meat,North,Groceries,Take Away,Punjab,4506,100000,259
+Ludhiyana,INDIA,21-11-2016,Milk,North,Groceries,Take Away,Punjab,6888,20916,959
+Ludhiyana,INDIA,31-08-2017,Milk,North,Groceries,Take Away,Punjab,2000,100000,1259
+Ludhiyana,INDIA,17-02-2018,Milk,North,Groceries,Take Away,Punjab,656,7224,1997
+Ludhiyana,INDIA,18-07-2016,Soft-drink,North,Groceries,Take Away,Punjab,17630,42756,1353
+Ludhiyana,INDIA,18-07-2016,Vegetables,North,Groceries,Take Away,Punjab,1414,42756,353
+Jaipur,INDIA,18-02-2015,Alluminium Foil,North,Groceries,Take Away,Rajasthan,1469,4620,244
+Jaipur,INDIA,04-08-2015,Detergents,North,Groceries,Take Away,Rajasthan,1294,12432,215
+Jaipur,INDIA,16-06-2016,Eggs,North,Groceries,Take Away,Rajasthan,1149,7224,145
+Jaipur,INDIA,02-04-2018,Fruits,North,Groceries,Take Away,Rajasthan,1299,6048,51
+Jaipur,INDIA,04-12-2015,Ketchups,North,Groceries,Take Away,Rajasthan,1066,4452,1116
+Jaipur,INDIA,04-08-2015,Meat,North,Groceries,Take Away,Rajasthan,5002,12432,1215
+Jaipur,INDIA,01-08-2017,Meat,North,Groceries,Take Away,Rajasthan,3334,84252,91
+Jaipur,INDIA,16-06-2016,Milk,North,Groceries,Take Away,Rajasthan,2378,7224,1145
+Jaipur,INDIA,31-01-2016,Soft-drink,North,Groceries,Take Away,Rajasthan,164,2772,1240
+Jaipur,INDIA,18-02-2015,Vegetables,North,Groceries,Take Away,Rajasthan,656,4620,1244
+Udaipur,INDIA,26-01-2016,Butter,North,Groceries,Take Away,Rajasthan,2214,7644,901
+Udaipur,INDIA,15-03-2015,Detergents,North,Groceries,Take Away,Rajasthan,4018,18480,1359
+Udaipur,INDIA,26-01-2016,Eggs,North,Groceries,Take Away,Rajasthan,2214,7644,1901
+Udaipur,INDIA,10-06-2016,Eggs,North,Groceries,Take Away,Rajasthan,2870,5040,1341
+Udaipur,INDIA,28-12-2016,Eggs,North,Groceries,Take Away,Rajasthan,328,9996,996
+Udaipur,INDIA,24-10-2018,Eggs,North,Groceries,Take Away,Rajasthan,1111,5964,360
+Udaipur,INDIA,01-09-2016,Fruits,North,Groceries,Take Away,Rajasthan,1148,4536,1861
+Udaipur,INDIA,25-01-2018,Fruits,North,Groceries,Take Away,Rajasthan,0,44856,905
+Udaipur,INDIA,25-01-2018,Fruits,North,Groceries,Take Away,Rajasthan,0,44856,1905
+Udaipur,INDIA,24-11-2016,Ice- creams,North,Groceries,Take Away,Rajasthan,1086,49476,318
+Udaipur,INDIA,26-01-2016,Milk,North,Groceries,Take Away,Rajasthan,984,11088,902
+Udaipur,INDIA,10-06-2016,Milk,North,Groceries,Take Away,Rajasthan,1431,5040,341
+Udaipur,INDIA,01-09-2016,Milk,North,Groceries,Take Away,Rajasthan,1148,4536,861
+Udaipur,INDIA,25-08-2016,Mutton,North,Groceries,Take Away,Rajasthan,902,3108,801
+Udaipur,INDIA,15-03-2015,Vegetables,North,Groceries,Take Away,Rajasthan,1500,18480,359
+Lucknow,INDIA,18-10-2015,Butter,North,Groceries,Take Away,Uttar Pradesh,2797,60816,109
+Lucknow,INDIA,14-08-2017,Fruits,North,Groceries,Take Away,Uttar Pradesh,2542,5292,1033
+Lucknow,INDIA,27-09-2015,Milk,North,Groceries,Take Away,Uttar Pradesh,6806,19908,1137
+Lucknow,INDIA,01-09-2016,Milk,North,Groceries,Take Away,Uttar Pradesh,2655,53088,185
+Lucknow,INDIA,13-03-2018,Milk,North,Groceries,Take Away,Uttar Pradesh,2845,66192,86
+Lucknow,INDIA,07-02-2018,Mutton,North,Groceries,Take Away,Uttar Pradesh,3116,10248,1006
+Lucknow,INDIA,18-10-2015,Soft-drink,North,Groceries,Take Away,Uttar Pradesh,20746,60816,1109
+Lucknow,INDIA,16-02-2017,Soft-drink,North,Groceries,Take Away,Uttar Pradesh,1485,10752,16
+Lucknow,INDIA,27-09-2015,Vegetables,North,Groceries,Take Away,Uttar Pradesh,1456,19908,137
+Lucknow,INDIA,16-02-2017,Vegetables,North,Groceries,Take Away,Uttar Pradesh,328,10752,1016
+Lucknow,INDIA,14-06-2017,Vegetables,North,Groceries,Take Away,Uttar Pradesh,10000,174636,156
+Lucknow,INDIA,07-02-2018,Vegetables,North,Groceries,Take Away,Uttar Pradesh,1043,10248,6
+Lucknow,INDIA,25-04-2018,Yogurt,North,Groceries,Take Away,Uttar Pradesh,1172,33852,73
+Noida,INDIA,23-04-2016,Eggs,North,Groceries,Take Away,Uttar Pradesh,1329,20244,324
+Noida,INDIA,19-06-2016,Eggs,North,Groceries,Take Away,Uttar Pradesh,3854,7980,1871
+Noida,INDIA,31-12-2018,Eggs,North,Groceries,Take Away,Uttar Pradesh,656,2688,1916
+Noida,INDIA,18-07-2016,Milk,North,Groceries,Take Away,Uttar Pradesh,10000,201852,354
+Noida,INDIA,15-09-2018,Milk,North,Groceries,Take Away,Uttar Pradesh,2895,51912,339
+Noida,INDIA,31-12-2018,Milk,North,Groceries,Take Away,Uttar Pradesh,656,2688,916
+Noida,INDIA,23-04-2016,Mutton,North,Groceries,Take Away,Uttar Pradesh,3280,20244,1324
+Noida,INDIA,19-06-2016,Mutton,North,Groceries,Take Away,Uttar Pradesh,3854,7980,871
+Noida,INDIA,04-06-2017,Vegetables,North,Groceries,Take Away,Uttar Pradesh,7298,8484,1935
+Ahmedabad,INDIA,12-12-2018,Eggs,North,Groceries,Take Away,Uttrakhand,2788,8904,1904
+Ahmedabad,INDIA,29-05-2018,Milk,North,Groceries,Take Away,Uttrakhand,3116,7140,1936
+Ahmedabad,INDIA,22-05-2017,Vegetables,North,Groceries,Take Away,Uttrakhand,1722,31416,1971
+Surat,INDIA,01-08-2015,Vegetables,North,Groceries,Take Away,Uttrakhand,574,2184,1864
+Kolkata,INDIA,13-03-2018,Batteries,North,Groceries,Take Away,West Bengal,1108,26712,88
+Kolkata,INDIA,27-06-2018,Batteries,North,Groceries,Take Away,West Bengal,984,2856,1135
+Kolkata,INDIA,25-12-2016,Beverages,North,Groceries,Take Away,West Bengal,164,4032,1272
+Kolkata,INDIA,08-05-2018,Bread,North,Groceries,Take Away,West Bengal,2132,26964,797
+Kolkata,INDIA,03-07-2018,Bread,North,Groceries,Take Away,West Bengal,3131,71736,55
+Kolkata,INDIA,14-07-2018,Bread,North,Groceries,Take Away,West Bengal,984,2772,962
+Kolkata,INDIA,18-12-2018,Butter,North,Groceries,Take Away,West Bengal,1092,21084,355
+Kolkata,INDIA,03-03-2016,Cheese,North,Groceries,Take Away,West Bengal,246,924,1945
+Kolkata,INDIA,10-06-2016,Detergents,North,Groceries,Take Away,West Bengal,60,672,342
+Kolkata,INDIA,20-06-2016,Detergents,North,Groceries,Take Away,West Bengal,,205296,1012
+Kolkata,INDIA,25-12-2016,Detergents,North,Groceries,Take Away,West Bengal,1355,4032,272
+Kolkata,INDIA,31-03-2018,Detergents,North,Groceries,Take Away,West Bengal,2624,6636,1298
+Kolkata,INDIA,13-05-2015,Eggs,North,Groceries,Take Away,West Bengal,574,2100,1823
+Kolkata,INDIA,04-08-2015,Eggs,North,Groceries,Take Away,West Bengal,1377,6216,189
+Kolkata,INDIA,04-08-2015,Eggs,North,Groceries,Take Away,West Bengal,2624,6216,1189
+Kolkata,INDIA,04-12-2015,Eggs,North,Groceries,Take Away,West Bengal,1124,31836,115
+Kolkata,INDIA,03-03-2016,Eggs,North,Groceries,Take Away,West Bengal,246,924,945
+Kolkata,INDIA,13-03-2017,Eggs,North,Groceries,Take Away,West Bengal,1120,20664,367
+Kolkata,INDIA,13-03-2017,Eggs,North,Groceries,Take Away,West Bengal,6478,20664,1367
+Kolkata,INDIA,24-06-2018,Eggs,North,Groceries,Take Away,West Bengal,4955,145572,230
+Kolkata,INDIA,05-11-2015,Ice- creams,North,Groceries,Take Away,West Bengal,410,19320,1161
+Kolkata,INDIA,10-11-2018,Ice- creams,North,Groceries,Take Away,West Bengal,164,5628,1995
+Kolkata,INDIA,20-06-2016,Meat,North,Groceries,Take Away,West Bengal,4560,109000,12
+Kolkata,INDIA,01-08-2017,Meat,North,Groceries,Take Away,West Bengal,1477,4788,92
+Kolkata,INDIA,10-11-2018,Meat,North,Groceries,Take Away,West Bengal,164,5628,995
+Kolkata,INDIA,03-03-2016,Milk,North,Groceries,Take Away,West Bengal,2214,8232,1947
+Kolkata,INDIA,28-04-2016,Milk,North,Groceries,Take Away,West Bengal,2788,6972,1813
+Kolkata,INDIA,01-08-2017,Milk,North,Groceries,Take Away,West Bengal,1230,4788,1092
+Kolkata,INDIA,14-07-2018,Milk,North,Groceries,Take Away,West Bengal,984,2772,1962
+Kolkata,INDIA,16-12-2018,Milk,North,Groceries,Take Away,West Bengal,3772,10836,1193
+Kolkata,INDIA,03-07-2018,Mutton,North,Groceries,Take Away,West Bengal,16072,71736,1055
+Kolkata,INDIA,14-08-2018,Mutton,North,Groceries,Take Away,West Bengal,1075,18564,65
+Kolkata,INDIA,14-08-2018,Mutton,North,Groceries,Take Away,West Bengal,1804,18564,1065
+Kolkata,INDIA,16-12-2018,Mutton,North,Groceries,Take Away,West Bengal,1263,21924,194
+Kolkata,INDIA,20-11-2017,Soft-drink,North,Groceries,Take Away,West Bengal,1722,4368,1952
+Kolkata,INDIA,05-11-2015,Vegetables,North,Groceries,Take Away,West Bengal,1237,19320,161
+Kolkata,INDIA,10-06-2016,Vegetables,North,Groceries,Take Away,West Bengal,410,672,1342
+Kolkata,INDIA,14-11-2016,Vegetables,North,Groceries,Take Away,West Bengal,1111,2100,101
+Kolkata,INDIA,20-11-2017,Vegetables,North,Groceries,Take Away,West Bengal,1722,4368,952
+Kolkata,INDIA,31-03-2018,Vegetables,North,Groceries,Take Away,West Bengal,1375,6636,298
+Kolkata,INDIA,08-05-2018,Vegetables,North,Groceries,Take Away,West Bengal,2132,26964,1797
+Kolkata,INDIA,24-06-2018,Vegetables,North,Groceries,Take Away,West Bengal,17056,145572,1230
+Kolkata,INDIA,26-11-2018,Vegetables,North,Groceries,Take Away,West Bengal,1492,19068,52
+Bangalore,INDIA,21-03-2018,Accessories,South,Fashion,Take Away,Karnataka,2952,11340,1593
+Bangalore,INDIA,06-08-2018,Accessories,South,Fashion,Take Away,Karnataka,27880,129948,1493
+Bangalore,INDIA,12-02-2018,Ethnic Wear,South,Fashion,Take Away,Karnataka,1230,30996,1648
+Bangalore,INDIA,04-08-2018,Ethnic Wear,South,Fashion,Take Away,Karnataka,2296,6300,1517
+Bangalore,INDIA,11-10-2017,Foot Wear,South,Fashion,Take Away,Karnataka,22550,79548,1573
+Bangalore,INDIA,22-12-2016,Sleep Wear,South,Fashion,Take Away,Karnataka,1640,10920,1579
+Bangalore,INDIA,26-12-2016,Sleep Wear,South,Fashion,Take Away,Karnataka,1066,8148,1499
+Bangalore,INDIA,05-11-2018,Sleep Wear,South,Fashion,Take Away,Karnataka,2050,4200,1603
+Bangalore,INDIA,24-08-2016,Sport Wear,South,Fashion,Take Away,Karnataka,410,6552,1559
+Bangalore,INDIA,07-07-2016,Western Wear,South,Fashion,Take Away,Karnataka,5166,43512,1616
+Bangalore,INDIA,24-08-2016,Western Wear,South,Fashion,Take Away,Karnataka,6642,12432,1561
+Bangalore,INDIA,11-09-2018,Western Wear,South,Fashion,Take Away,Karnataka,82,2772,1484
+Mangalore,INDIA,28-05-2015,Ethnic Wear,South,Fashion,Take Away,Karnataka,3280,59892,1927
+Mangalore,INDIA,18-08-2015,Ethnic Wear,South,Fashion,Take Away,Karnataka,738,18480,1703
+Mangalore,INDIA,17-05-2017,Sleep Wear,South,Fashion,Take Away,Karnataka,410,3612,1671
+Mangalore,INDIA,23-02-2016,Sport Wear,South,Fashion,Take Away,Karnataka,410,2520,1702
+Mangalore,INDIA,20-04-2016,Sport Wear,South,Fashion,Take Away,Karnataka,3280,10416,1766
+Mangalore,INDIA,22-05-2016,Western Wear,South,Fashion,Take Away,Karnataka,574,1260,1700
+Mangalore,INDIA,17-08-2016,Western Wear,South,Fashion,Take Away,Karnataka,1722,6384,1754
+Mangalore,INDIA,27-08-2017,Western Wear,South,Fashion,Take Away,Karnataka,574,10332,1679
+Mangalore,INDIA,08-08-2018,Western Wear,South,Fashion,Take Away,Karnataka,492,12012,1773
+Chennai,INDIA,24-02-2018,Accessories,South,Fashion,Take Away,Tamil Nadu,574,1428,1757
+Chennai,INDIA,18-01-2015,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,902,2184,1626
+Chennai,INDIA,21-09-2015,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,574,12768,1674
+Chennai,INDIA,17-06-2018,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,1558,10164,1736
+Chennai,INDIA,05-12-2018,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,4592,106092,1594
+Chennai,INDIA,24-03-2016,Foot Wear,South,Fashion,Take Away,Tamil Nadu,246,13188,1491
+Chennai,INDIA,27-06-2016,Foot Wear,South,Fashion,Take Away,Tamil Nadu,4428,10500,1641
+Chennai,INDIA,30-06-2016,Foot Wear,South,Fashion,Take Away,Tamil Nadu,2132,5376,1565
+Chennai,INDIA,15-11-2016,Foot Wear,South,Fashion,Take Away,Tamil Nadu,246,1848,1688
+Chennai,INDIA,26-12-2016,Foot Wear,South,Fashion,Take Away,Tamil Nadu,1804,42420,1498
+Chennai,INDIA,10-09-2017,Sleep Wear,South,Fashion,Take Away,Tamil Nadu,738,1596,1511
+Chennai,INDIA,30-07-2018,Sleep Wear,South,Fashion,Take Away,Tamil Nadu,5002,20664,1533
+Chennai,INDIA,27-08-2017,Sport Wear,South,Fashion,Take Away,Tamil Nadu,410,3696,1680
+Chennai,INDIA,09-09-2017,Sport Wear,South,Fashion,Take Away,Tamil Nadu,29520,167832,1690
+Chennai,INDIA,04-11-2017,Sport Wear,South,Fashion,Take Away,Tamil Nadu,1394,3948,1488
+Chennai,INDIA,25-02-2018,Sport Wear,South,Fashion,Take Away,Tamil Nadu,9020,19656,1638
+Chennai,INDIA,04-11-2015,Western Wear,South,Fashion,Take Away,Tamil Nadu,164,1344,1647
+Chennai,INDIA,24-09-2017,Western Wear,South,Fashion,Take Away,Tamil Nadu,8692,16464,1731
+Chennai,INDIA,18-08-2018,Western Wear,South,Fashion,Take Away,Tamil Nadu,33210,99960,1591
+Coimbatore,INDIA,25-09-2018,Ethnic Wear,South,Fashion,Take Away,Tamil Nadu,32144,80304,1924
+Hydrabad,INDIA,18-06-2018,Western Wear,South,Fashion,Take Away,Telagana,1722,5040,1505
+Vizak,INDIA,24-09-2017,Accessories,South,Fashion,Take Away,Telagana,410,1680,1733
+Vizak,INDIA,04-03-2015,Ethnic Wear,South,Fashion,Take Away,Telagana,2378,4872,1650
+Vizak,INDIA,22-06-2016,Ethnic Wear,South,Fashion,Take Away,Telagana,2214,7896,1625
+Vizak,INDIA,27-09-2018,Ethnic Wear,South,Fashion,Take Away,Telagana,5084,13272,1637
+Vizak,INDIA,19-08-2015,Sleep Wear,South,Fashion,Take Away,Telagana,15170,131796,1720
+Vizak,INDIA,11-12-2016,Sleep Wear,South,Fashion,Take Away,Telagana,656,10500,1765
+Vizak,INDIA,22-12-2016,Sleep Wear,South,Fashion,Take Away,Telagana,4756,14448,1577
+Vizak,INDIA,18-05-2017,Sleep Wear,South,Fashion,Take Away,Telagana,164,1680,1560
+Vizak,INDIA,27-09-2017,Sleep Wear,South,Fashion,Take Away,Telagana,3772,11760,1778
+Vizak,INDIA,11-12-2016,Western Wear,South,Fashion,Take Away,Telagana,246,1008,1762
+Vizak,INDIA,25-07-2017,Western Wear,South,Fashion,Take Away,Telagana,1476,22428,1770
+Vizak,INDIA,27-08-2017,Western Wear,South,Fashion,Take Away,Telagana,11890,27720,1681
+Vizak,INDIA,11-12-2018,Western Wear,South,Fashion,Take Away,Telagana,2214,20244,1526
+Ananthpur,INDIA,18-10-2015,Alluminium Foil,South,Groceries,Take Away,Andra Pradesh,4852,142000,110
+Ananthpur,INDIA,20-06-2016,Butter,South,Groceries,Take Away,Andra Pradesh,1265,10080,13
+Ananthpur,INDIA,31-03-2018,Butter,South,Groceries,Take Away,Andra Pradesh,1449,9660,300
+Ananthpur,INDIA,16-06-2016,Eggs,South,Groceries,Take Away,Andra Pradesh,3372,82992,126
+Ananthpur,INDIA,01-09-2015,Fish,South,Groceries,Take Away,Andra Pradesh,1378,31416,142
+Ananthpur,INDIA,06-11-2017,Fruits,South,Groceries,Take Away,Andra Pradesh,1223,10752,316
+Ananthpur,INDIA,19-05-2015,Ice- creams,South,Groceries,Take Away,Andra Pradesh,2991,81060,76
+Ananthpur,INDIA,10-06-2016,Ice- creams,South,Groceries,Take Away,Andra Pradesh,1095,20916,344
+Ananthpur,INDIA,27-05-2017,Meat,South,Groceries,Take Away,Andra Pradesh,1161,8148,184
+Ananthpur,INDIA,12-12-2017,Meat,South,Groceries,Take Away,Andra Pradesh,1119,13020,211
+Ananthpur,INDIA,11-09-2018,Meat,South,Groceries,Take Away,Andra Pradesh,1078,28224,31
+Ananthpur,INDIA,13-03-2017,Milk,South,Groceries,Take Away,Andra Pradesh,1061,5292,365
+Ananthpur,INDIA,07-02-2018,Milk,South,Groceries,Take Away,Andra Pradesh,1153,4284,4
+Ananthpur,INDIA,18-12-2018,Milk,South,Groceries,Take Away,Andra Pradesh,1190,15540,358
+Ananthpur,INDIA,10-08-2017,Mutton,South,Groceries,Take Away,Andra Pradesh,1445,7056,105
+Ananthpur,INDIA,30-05-2016,Soft-drink,South,Groceries,Take Away,Andra Pradesh,1269,37128,173
+Ananthpur,INDIA,15-09-2015,Vegetables,South,Groceries,Take Away,Andra Pradesh,3083,81060,368
+Ananthpur,INDIA,06-01-2018,Vegetables,South,Groceries,Take Away,Andra Pradesh,53,1428,291
+Ananthpur,INDIA,28-02-2018,Vegetables,South,Groceries,Take Away,Andra Pradesh,1349,3528,29
+Ananthpur,INDIA,18-06-2018,Vegetables,South,Groceries,Take Away,Andra Pradesh,1459,10416,246
+Tirupati,INDIA,02-09-2015,Detergents,South,Groceries,Take Away,Andra Pradesh,1312,3108,805
+Tirupati,INDIA,10-05-2018,Detergents,South,Groceries,Take Away,Andra Pradesh,2542,8148,993
+Tirupati,INDIA,17-02-2018,Eggs,South,Groceries,Take Away,Andra Pradesh,2050,2268,787
+Tirupati,INDIA,15-03-2018,Fruits,South,Groceries,Take Away,Andra Pradesh,656,4872,848
+Tirupati,INDIA,02-02-2015,Milk,South,Groceries,Take Away,Andra Pradesh,19762,61236,955
+Tirupati,INDIA,14-06-2016,Milk,South,Groceries,Take Away,Andra Pradesh,6068,31332,893
+Tirupati,INDIA,24-08-2016,Milk,South,Groceries,Take Away,Andra Pradesh,164,6888,896
+Tirupati,INDIA,30-06-2018,Soft-drink,South,Groceries,Take Away,Andra Pradesh,6478,39060,911
+Tirupati,INDIA,29-05-2018,Vegetables,South,Groceries,Take Away,Andra Pradesh,19434,105252,938
+Tirupati,INDIA,12-09-2018,Vegetables,South,Groceries,Take Away,Andra Pradesh,6478,19908,983
+Bangalore,INDIA,12-11-2018,Alluminium Foil,South,Groceries,Take Away,Karnataka,1640,7392,1254
+Bangalore,INDIA,10-06-2016,Batteries,South,Groceries,Take Away,Karnataka,1350,13356,340
+Bangalore,INDIA,29-08-2017,Beverages,South,Groceries,Take Away,Karnataka,1340,2520,60
+Bangalore,INDIA,16-10-2017,Beverages,South,Groceries,Take Away,Karnataka,8774,109704,1140
+Bangalore,INDIA,02-05-2018,Beverages,South,Groceries,Take Away,Karnataka,1408,2352,24
+Bangalore,INDIA,15-09-2018,Beverages,South,Groceries,Take Away,Karnataka,16318,94080,1336
+Bangalore,INDIA,19-05-2015,Bread,South,Groceries,Take Away,Karnataka,2214,7308,1077
+Bangalore,INDIA,23-04-2016,Butter,South,Groceries,Take Away,Karnataka,10000,358000,326
+Bangalore,INDIA,10-06-2017,Butter,South,Groceries,Take Away,Karnataka,10000,285600,164
+Bangalore,INDIA,01-01-2018,Butter,South,Groceries,Take Away,Karnataka,72,1176,112
+Bangalore,INDIA,16-10-2017,Cheese,South,Groceries,Take Away,Karnataka,4840,109704,140
+Bangalore,INDIA,24-09-2015,Detergents,South,Groceries,Take Away,Karnataka,328,7140,1120
+Bangalore,INDIA,10-06-2016,Detergents,South,Groceries,Take Away,Karnataka,2378,13356,1340
+Bangalore,INDIA,28-12-2016,Detergents,South,Groceries,Take Away,Karnataka,1166,6216,278
+Bangalore,INDIA,13-03-2017,Detergents,South,Groceries,Take Away,Karnataka,574,1176,1361
+Bangalore,INDIA,31-08-2017,Detergents,South,Groceries,Take Away,Karnataka,1445,25116,257
+Bangalore,INDIA,31-08-2017,Detergents,South,Groceries,Take Away,Karnataka,3772,25116,1257
+Bangalore,INDIA,08-11-2017,Eggs,South,Groceries,Take Away,Karnataka,0,1176,1042
+Bangalore,INDIA,13-03-2018,Eggs,South,Groceries,Take Away,Karnataka,1148,10584,1087
+Bangalore,INDIA,09-06-2015,Fish,South,Groceries,Take Away,Karnataka,164,840,1168
+Bangalore,INDIA,09-06-2015,Fruits,South,Groceries,Take Away,Karnataka,98,840,168
+Bangalore,INDIA,10-06-2017,Fruits,South,Groceries,Take Away,Karnataka,,285600,1164
+Bangalore,INDIA,01-01-2018,Fruits,South,Groceries,Take Away,Karnataka,410,1176,1112
+Bangalore,INDIA,02-05-2018,Fruits,South,Groceries,Take Away,Karnataka,4592,2352,1024
+Bangalore,INDIA,18-06-2018,Ketchups,South,Groceries,Take Away,Karnataka,492,22512,1022
+Bangalore,INDIA,18-03-2016,Meat,South,Groceries,Take Away,Karnataka,3116,8484,1293
+Bangalore,INDIA,14-08-2017,Meat,South,Groceries,Take Away,Karnataka,1460,4704,34
+Bangalore,INDIA,20-12-2017,Meat,South,Groceries,Take Away,Karnataka,1232,48384,134
+Bangalore,INDIA,24-09-2015,Milk,South,Groceries,Take Away,Karnataka,1006,7140,120
+Bangalore,INDIA,28-12-2016,Milk,South,Groceries,Take Away,Karnataka,2378,6216,1278
+Bangalore,INDIA,08-11-2017,Milk,South,Groceries,Take Away,Karnataka,74,1176,42
+Bangalore,INDIA,13-03-2018,Milk,South,Groceries,Take Away,Karnataka,1020,10584,87
+Bangalore,INDIA,11-09-2018,Milk,South,Groceries,Take Away,Karnataka,1248,16212,30
+Bangalore,INDIA,28-06-2017,Soft-drink,South,Groceries,Take Away,Karnataka,89,1848,238
+Bangalore,INDIA,14-08-2017,Soft-drink,South,Groceries,Take Away,Karnataka,656,4704,1034
+Bangalore,INDIA,18-03-2016,Vegetables,South,Groceries,Take Away,Karnataka,1303,8484,293
+Bangalore,INDIA,13-03-2017,Vegetables,South,Groceries,Take Away,Karnataka,97,1176,361
+Bangalore,INDIA,29-08-2017,Vegetables,South,Groceries,Take Away,Karnataka,1230,2520,1060
+Bangalore,INDIA,12-11-2018,Vegetables,South,Groceries,Take Away,Karnataka,1280,7392,254
+Bangalore,INDIA,23-04-2016,Yogurt,South,Groceries,Take Away,Karnataka,,258362,1326
+Bangalore,INDIA,28-06-2017,Yogurt,South,Groceries,Take Away,Karnataka,902,1848,1238
+Mangalore,INDIA,22-05-2017,Detergents,South,Groceries,Take Away,Karnataka,492,2268,975
+Mangalore,INDIA,22-05-2017,Detergents,South,Groceries,Take Away,Karnataka,492,2268,1975
+Mangalore,INDIA,07-08-2016,Eggs,South,Groceries,Take Away,Karnataka,1312,18564,846
+Mangalore,INDIA,04-10-2015,Fruits,South,Groceries,Take Away,Karnataka,0,3276,886
+Mangalore,INDIA,02-12-2015,Fruits,South,Groceries,Take Away,Karnataka,7380,15120,950
+Mangalore,INDIA,27-11-2017,Fruits,South,Groceries,Take Away,Karnataka,2460,13860,1866
+Mangalore,INDIA,16-11-2016,Meat,South,Groceries,Take Away,Karnataka,15662,61740,985
+Mangalore,INDIA,02-12-2015,Milk,South,Groceries,Take Away,Karnataka,7380,15120,1950
+Mangalore,INDIA,13-12-2018,Milk,South,Groceries,Take Away,Karnataka,8364,26124,1884
+Mangalore,INDIA,28-04-2016,Mutton,South,Groceries,Take Away,Karnataka,246,1092,814
+Mangalore,INDIA,07-08-2016,Soft-drink,South,Groceries,Take Away,Karnataka,1312,18564,1846
+Mangalore,INDIA,04-10-2015,Vegetables,South,Groceries,Take Away,Karnataka,0,3276,1886
+Mangalore,INDIA,28-04-2016,Vegetables,South,Groceries,Take Away,Karnataka,246,1092,1814
+Mangalore,INDIA,27-11-2017,Vegetables,South,Groceries,Take Away,Karnataka,2460,13860,866
+Mangalore,INDIA,13-12-2018,Vegetables,South,Groceries,Take Away,Karnataka,8364,26124,884
+Ananthpur,INDIA,31-03-2018,Cheese,South,Groceries,Take Away,Kerela,2132,9660,1300
+Ananthpur,INDIA,18-12-2018,Cheese,South,Groceries,Take Away,Kerela,12956,53088,1357
+Ananthpur,INDIA,15-09-2015,Detergents,South,Groceries,Take Away,Kerela,5576,81060,1368
+Ananthpur,INDIA,10-06-2016,Eggs,South,Groceries,Take Away,Kerela,4018,20916,1344
+Ananthpur,INDIA,06-01-2018,Fruits,South,Groceries,Take Away,Kerela,492,1428,1291
+Ananthpur,INDIA,13-04-2018,Fruits,South,Groceries,Take Away,Kerela,246,2520,1347
+Ananthpur,INDIA,18-12-2018,Meat,South,Groceries,Take Away,Kerela,8364,15540,1358
+Ananthpur,INDIA,24-11-2016,Milk,South,Groceries,Take Away,Kerela,9184,24108,1321
+Chennai,INDIA,23-12-2018,Batteries,South,Groceries,Take Away,Tamil Nadu,1023,36792,157
+Chennai,INDIA,11-03-2017,Beverages,South,Groceries,Take Away,Tamil Nadu,984,2520,1363
+Chennai,INDIA,28-10-2016,Bread,South,Groceries,Take Away,Tamil Nadu,1454,14532,335
+Chennai,INDIA,18-02-2015,Detergents,South,Groceries,Take Away,Tamil Nadu,1148,2940,1121
+Chennai,INDIA,09-12-2015,Detergents,South,Groceries,Take Away,Tamil Nadu,1384,4956,56
+Chennai,INDIA,28-10-2016,Detergents,South,Groceries,Take Away,Tamil Nadu,1148,14532,1335
+Chennai,INDIA,07-08-2017,Detergents,South,Groceries,Take Away,Tamil Nadu,1328,2436,75
+Chennai,INDIA,29-08-2017,Detergents,South,Groceries,Take Away,Tamil Nadu,1093,23184,64
+Chennai,INDIA,08-11-2017,Detergents,South,Groceries,Take Away,Tamil Nadu,984,2772,1043
+Chennai,INDIA,03-11-2018,Detergents,South,Groceries,Take Away,Tamil Nadu,6232,29232,1019
+Chennai,INDIA,18-11-2016,Eggs,South,Groceries,Take Away,Tamil Nadu,18286,28812,1229
+Chennai,INDIA,16-02-2017,Eggs,South,Groceries,Take Away,Tamil Nadu,2744,57960,17
+Chennai,INDIA,03-11-2018,Fish,South,Groceries,Take Away,Tamil Nadu,1486,29232,19
+Chennai,INDIA,11-03-2017,Fruits,South,Groceries,Take Away,Tamil Nadu,1454,2520,363
+Chennai,INDIA,12-08-2017,Fruits,South,Groceries,Take Away,Tamil Nadu,2952,9156,1026
+Chennai,INDIA,29-08-2017,Fruits,South,Groceries,Take Away,Tamil Nadu,3772,23184,1064
+Chennai,INDIA,21-11-2018,Fruits,South,Groceries,Take Away,Tamil Nadu,82,4032,834
+Chennai,INDIA,16-12-2018,Fruits,South,Groceries,Take Away,Tamil Nadu,1277,5712,192
+Chennai,INDIA,14-06-2017,Ice- creams,South,Groceries,Take Away,Tamil Nadu,2296,7056,1152
+Chennai,INDIA,16-12-2018,Ice- creams,South,Groceries,Take Away,Tamil Nadu,2296,5712,1192
+Chennai,INDIA,08-11-2017,Ketchups,South,Groceries,Take Away,Tamil Nadu,1312,2772,43
+Chennai,INDIA,16-12-2018,Meat,South,Groceries,Take Away,Tamil Nadu,1366,16548,195
+Chennai,INDIA,18-02-2015,Milk,South,Groceries,Take Away,Tamil Nadu,1168,2940,121
+Chennai,INDIA,16-02-2017,Milk,South,Groceries,Take Away,Tamil Nadu,0,57960,1017
+Chennai,INDIA,07-08-2017,Milk,South,Groceries,Take Away,Tamil Nadu,656,2436,1075
+Chennai,INDIA,12-08-2017,Milk,South,Groceries,Take Away,Tamil Nadu,1013,9156,26
+Chennai,INDIA,28-02-2018,Milk,South,Groceries,Take Away,Tamil Nadu,984,9240,1028
+Chennai,INDIA,16-12-2018,Milk,South,Groceries,Take Away,Tamil Nadu,0,16548,1195
+Chennai,INDIA,10-09-2018,Soft-drink,South,Groceries,Take Away,Tamil Nadu,3362,10920,1348
+Chennai,INDIA,09-12-2015,Vegetables,South,Groceries,Take Away,Tamil Nadu,1722,4956,1056
+Chennai,INDIA,16-06-2016,Vegetables,South,Groceries,Take Away,Tamil Nadu,492,4704,799
+Chennai,INDIA,30-05-2017,Vegetables,South,Groceries,Take Away,Tamil Nadu,1429,13860,102
+Chennai,INDIA,30-05-2017,Vegetables,South,Groceries,Take Away,Tamil Nadu,2460,13860,1102
+Chennai,INDIA,16-04-2018,Vegetables,South,Groceries,Take Away,Tamil Nadu,3034,8988,1050
+Chennai,INDIA,10-09-2018,Vegetables,South,Groceries,Take Away,Tamil Nadu,1304,10920,348
+Chennai,INDIA,21-11-2018,Vegetables,South,Groceries,Take Away,Tamil Nadu,82,4032,1834
+Chennai,INDIA,07-02-2018,Yogurt,South,Groceries,Take Away,Tamil Nadu,1135,34776,7
+Chennai,INDIA,28-02-2018,Yogurt,South,Groceries,Take Away,Tamil Nadu,1244,9240,28
+Chennai,INDIA,10-09-2018,Yogurt,South,Groceries,Take Away,Tamil Nadu,1448,2520,350
+Coimbatore,INDIA,30-06-2018,Bread,South,Groceries,Take Away,Tamil Nadu,246,2772,912
+Coimbatore,INDIA,30-06-2015,Eggs,South,Groceries,Take Away,Tamil Nadu,11808,46536,1992
+Coimbatore,INDIA,30-06-2015,Fruits,South,Groceries,Take Away,Tamil Nadu,11808,46536,992
+Coimbatore,INDIA,20-11-2017,Ketchups,South,Groceries,Take Away,Tamil Nadu,1804,18564,953
+Coimbatore,INDIA,20-11-2017,Soft-drink,South,Groceries,Take Away,Tamil Nadu,1804,18564,1953
+Hydrabad,INDIA,31-08-2017,Alluminium Foil,South,Groceries,Take Away,Telagana,14350,66780,1258
+Hydrabad,INDIA,23-04-2016,Beverages,South,Groceries,Take Away,Telagana,2050,8400,1323
+Hydrabad,INDIA,01-04-2015,Butter,South,Groceries,Take Away,Telagana,2460,24000,1072
+Hydrabad,INDIA,14-08-2018,Cheese,South,Groceries,Take Away,Telagana,574,1176,1021
+Hydrabad,INDIA,18-10-2015,Fruits,South,Groceries,Take Away,Telagana,984,3276,1108
+Hydrabad,INDIA,18-11-2015,Fruits,South,Groceries,Take Away,Telagana,1131,2436,327
+Hydrabad,INDIA,10-06-2016,Fruits,South,Groceries,Take Away,Telagana,492,1008,1343
+Hydrabad,INDIA,10-06-2016,Meat,South,Groceries,Take Away,Telagana,61,1008,343
+Hydrabad,INDIA,31-05-2017,Meat,South,Groceries,Take Away,Telagana,1886,13104,1036
+Hydrabad,INDIA,14-06-2015,Milk,South,Groceries,Take Away,Telagana,1355,22000,139
+Hydrabad,INDIA,23-04-2016,Milk,South,Groceries,Take Away,Telagana,574,8484,1325
+Hydrabad,INDIA,31-08-2017,Milk,South,Groceries,Take Away,Telagana,1003,26580,255
+Hydrabad,INDIA,31-08-2017,Milk,South,Groceries,Take Away,Telagana,1800,26580,1255
+Hydrabad,INDIA,01-04-2015,Vegetables,South,Groceries,Take Away,Telagana,1348,24000,72
+Hydrabad,INDIA,31-05-2017,Vegetables,South,Groceries,Take Away,Telagana,1327,13104,36
+Hydrabad,INDIA,31-08-2017,Vegetables,South,Groceries,Take Away,Telagana,2639,66780,258
+Vizak,INDIA,27-06-2018,Beverages,South,Groceries,Take Away,Telagana,0,7812,876
+Vizak,INDIA,06-08-2017,Fruits,South,Groceries,Take Away,Telagana,1230,113568,1830
+Vizak,INDIA,14-11-2017,Fruits,South,Groceries,Take Away,Telagana,7626,23772,1891
+Vizak,INDIA,06-08-2017,Meat,South,Groceries,Take Away,Telagana,1230,113568,830
+Vizak,INDIA,04-03-2015,Milk,South,Groceries,Take Away,Telagana,902,3528,1879
+Vizak,INDIA,27-06-2018,Yogurt,South,Groceries,Take Away,Telagana,0,7812,1876
