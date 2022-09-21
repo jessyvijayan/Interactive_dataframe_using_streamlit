@@ -39,7 +39,9 @@ if authentication_status:
     df = pd.read_csv('Retail_Case.csv',sep=',')
     df.drop(['Sl.No','Country'],axis=1,inplace=True)
 
-
+    authenticator.logout('Logout','sidebar')
+    st.sidebar.title(f'Welcome {name}')
+    
     column = []
     column = st.sidebar.multiselect('Select required fields',('Order Date','City','Product','Segment','Ship Mode','State','Profit/Loss','Sales'))
     df_temp = pd.DataFrame(df,columns=column)
@@ -77,8 +79,7 @@ if authentication_status:
         st.dataframe(df1[['City','Order Date','Product','Region','Segment','Ship Mode','State','Profit/Loss','Sales']])
 
     ## sidebar
-    authenticator.logout('Logout','sidebar')
-    st.sidebar.title(f'Welcome {name}')
+
     st.sidebar.write('Select from the below options for chart')
     chart = st.sidebar.selectbox('Select the type of chart',('-','Line chart','Area chart','Scatterplot','Bar chart'))
 
