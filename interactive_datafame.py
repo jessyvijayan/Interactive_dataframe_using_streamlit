@@ -5,35 +5,38 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from st_aggrid import AgGrid,GridOptionsBuilder,GridUpdateMode
 
-import pickle
-from pathlib import Path
-import streamlit_authenticator as stauth
+import streamlit as st
 
-# user authentication
-names = ['Jessy','Priya']
-usernames = ['Jessy','Priya']
+def check_password():
+    """Returns `True` if the user had the correct password."""
 
-file_path = Path(__file__).parent / 'hashed_pw.pkl'
-with file_path.open("rb") as file:
-    hashed_passwords = pickle.load(file)
+    def password_entered():
+        """Checks whether a password entered by the user is correct."""
+        if st.session_state["password"] == st.secrets["password"]:
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]  # don't store password
+        else:
+            st.session_state["password_correct"] = False
 
-credentials = {"usernames":{}}
-        
-for uname,name,pwd in zip(usernames,names,hashed_passwords):
-    user_dict = {"name": name, "password": pwd}
-    credentials["usernames"].update({uname: user_dict})
+    if "password_correct" not in st.session_state:
+        # First run, show input for password.
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        return False
+    elif not st.session_state["password_correct"]:
+        # Password not correct, show input + error.
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        st.error("😕 Password incorrect")
+        return False
+    else:
+        # Password correct.
+        return True
 
-authenticator = stauth.Authenticate(credentials,"interactive_dataframe","abcdef",cookie_expiry_days=30)
-name,authentication_status,username = authenticator.login('Login','main')
-
-if authentication_status == False:
-    st.error('Username/password is incorrect')
-
-if authentication_status == None:
-    st.warning('Please enter your usernaame and passowrd')
-
-if authentication_status:
-
+if check_password():
+    
     st.title('Retail dataframe')
     st.write('This dataframe contains information about xyz retail business')
     df = pd.read_csv('Retail_Case.csv',sep=',')
