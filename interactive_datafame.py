@@ -41,9 +41,6 @@ if check_password():
     st.write('This dataframe contains information about xyz retail business')
     df = pd.read_csv('Retail_Case.csv',sep=',')
     df.drop(['Sl.No','Country'],axis=1,inplace=True)
-
-    authenticator.logout('Logout','sidebar')
-    st.sidebar.title(f'Welcome {name}')
     
     column = []
     column = st.sidebar.multiselect('Select required fields',('Order Date','City','Product','Segment','Ship Mode','State','Profit/Loss','Sales'))
