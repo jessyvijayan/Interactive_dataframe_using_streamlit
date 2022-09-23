@@ -39,6 +39,7 @@ if check_password():
     
     st.title('Retail dataframe')
     st.write('This dataframe contains information about xyz retail business')
+    st.write('Please select the required records')
     df = pd.read_csv('Retail_Case.csv',sep=',')
     df.drop(['Sl.No','Country'],axis=1,inplace=True)
     
